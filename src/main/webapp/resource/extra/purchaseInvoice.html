@@ -1,0 +1,111 @@
+<html>
+<head>
+    <style>  
+    .invoice-box table {
+        width: 100%;
+        line-height: inherit;
+        text-align: left;
+        border-spacing: 0;
+    }
+    
+    .invoice-box table td {
+        padding: 5px;
+        vertical-align: top;
+    }
+    
+    .invoice-box table tr td:nth-child(2) {
+        text-align: right;
+    }
+    
+    .invoice-box table tr.top table td {
+        padding-bottom: 20px;
+    }
+    
+    .invoice-box table tr.top table td.title {
+        font-size: 45px;
+        line-height: 45px;
+        color: #333;
+    }
+    
+    .invoice-box table tr.heading td {
+        background: #eee;
+        border-bottom: 1px solid #ddd;
+        font-weight: bold;
+    }
+	
+	.invoice-box table tr th {
+        background: #eee;
+        border-bottom: 1px solid #ddd;
+        font-weight: bold;
+    }
+    
+    .invoice-box table tr.details td {
+        padding-bottom: 20px;
+    }
+    
+    .invoice-box table tr.item td{
+        border-bottom: 1px solid #eee;
+    }
+    
+    .invoice-box table tr.item.last td {
+        border-bottom: none;
+    }
+    
+    .invoice-box table tr.total td:nth-child(2) {
+        border-top: 2px solid #eee;
+        font-weight: bold;
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .invoice-box table tr.top  {
+            width: 100%;
+            display: block;
+            text-align: center;
+        }
+    }
+	
+	textarea { border: 0; font: 16px Georgia, Serif; overflow: hidden; resize: none; }
+	#header { height: 45px; width: 100%; margin: 25px 0; background: #222; text-align: center; color: white; font: bold 18px Helvetica, Sans-Serif; text-decoration: uppercase; letter-spacing: 20px; padding: 14px 0px; }
+
+    
+    </style>
+</head>
+
+<body>
+
+    <textarea id="header">Payment receipt</textarea>
+	
+    <div class="invoice-box">
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+				<td class="title">
+					<img src="https://www.cubedrive.com/resource/images/CubeDriveLogo.png" style="width:100%; max-width:100px;">
+				</td>			
+				<td>
+					FeyaSoft Inc.<br/>
+					224 Huntclub Road, Unit I<br/>
+					Ottawa, Ontario<br/>
+					Canada K1V 1C1<br/>
+					Email: info@cubedrive.com<br/>
+				</td>				
+            </tr>			
+	        <tr><td>&nbsp;&nbsp;</td><td></td></tr>
+ 
+            <tr>		
+				<td colspan=2>
+				    <table border="1">
+				    <tr><td style="background: #eee;">Purchaser</td><td>${5xaI}</td></tr>
+				    <tr><td style="background: #eee;">Purchaser email</td><td>${RXq0}</td></tr>
+					<tr><td colspan=2>${fKM2}</td></tr>
+					<tr><td style="background: #eee;">Total price</td><td>${BJUv}</td></tr>
+					</table>
+				</td>
+            </tr>		
+
+            <tr><td>&nbsp;</td><td></td></tr>			
+		</table>
+     
+
+    </div>
+</body>
+</html>

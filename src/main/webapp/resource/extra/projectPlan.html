@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>$title</title>
+	<style type="text/css">
+		table, th, td {
+	        border: 0px solid orange;
+	    }
+		
+	    .out-box table td {
+	        padding: 2px;
+	    }   
+	</style>
+	</head>
+
+<body>
+
+     <div class="out-box">
+	     <table style="width:100%" >
+	        #foreach($field in $list)
+	        <tr>
+				<td style="width:100px;">
+					title1
+				</td>
+				<td class="title">
+					<table style="width:100%" >
+					    <tr>
+					        <td width="$field.actWidth_1"></td>
+					        <td width="$field.actWidth_2" bgcolor="#FF0000" height="10"></td>
+					        <td width="$field.actWidth_3"></td>
+					    </tr>
+					</table>
+					<table style="width:100%" >
+					    <tr>
+					        <td width="30%"></td>
+					        <td width="60%" bgcolor="#00FF00" height="10"></td>
+					        <td width="10%"></td>
+					    </tr>
+					</table>
+				</td>			
+	        </tr>			
+		</table>
+	</div>
+		
+</body>
+
+</html>

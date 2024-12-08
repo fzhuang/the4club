@@ -1,0 +1,4 @@
+CMD>
+
+cd C:\eclipse\workspace\the4club
+mvn jetty:run

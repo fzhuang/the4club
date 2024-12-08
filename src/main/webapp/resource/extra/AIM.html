@@ -1,0 +1,102 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <style>  
+    .invoice-box table {
+        width: 100%;
+        line-height: inherit;
+        text-align: left;
+        font-family:"Cambria",serif;
+    }
+	
+    .invoice-box table td {
+        padding: 5px;
+        vertical-align: top;
+    }
+    
+    .invoice-box table tr td.rightAlign {
+        text-align: right;
+    }
+	
+	.invoice-box h2 {
+        text-align: center;
+		font-family:"Cambria",serif;
+		font-size:22px;
+		padding-bottom: 10px;
+    }
+    
+    .invoice-box table tr.header td.title {
+	    font-size:13px;
+		font-family:"Cambria",serif;
+        color:#7F7F7F';
+    }
+    
+    .invoice-box .underline {
+		 text-align: center; 
+         background-color: #ffe6e6;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .invoice-box table tr.top  {
+            width: 100%;
+            display: block;
+            text-align: center;
+        }
+    }
+	
+    </style>
+</head>
+
+<body>
+	
+    <div class="invoice-box">
+        <table cellpadding="0" cellspacing="0">
+            <tr class="header">
+				<td class="title">
+				    The AIM Group Inc.<br>
+					126–130 Albert Street<br>
+					Ottawa, Ontario<br>
+					K1P 5G4<br>
+				    T: 613-230-6991<br>
+					www.theaimgroup.ca
+				</td>
+				
+				<td class="rightAlign">
+				    <img src="https://d2q79iu7y748jz.cloudfront.net/s/_logo/6cf431328e41265151b087d7fc695104" style="width:300px;">					
+				</td>				
+            </tr>			
+		</table>
+ 
+        <br/>
+		<h2>Monthly Time Sheet</h2>
+	    <table cellpadding="0" cellspacing="0">
+            <tr><td width=200>Month</td><td>${u1644}</td></tr>
+			<tr><td width=200>Client</td><td>${u2222}</td></tr>
+			<tr><td width=200>Location Dept.</td><td>${u4861}</td></tr>
+			<tr><td width=200>Client Project Manager</td><td>${u482}</td></tr>
+			<tr><td width=200>Client Phone Number</td><td>${u831}</td></tr>
+			<tr><td width=200>Subcontractor Name</td><td><b>${u1248}</b></td></tr>
+			<tr><td width=200>Company Name</td><td>${u4733}</td></tr>
+			<tr><td width=200>Work Phone Number</td><td>${u3859}</td></tr>	
+			<tr><td width=200>PO or Contact Number</td><td>${u3547}</td></tr>
+            <tr><td width=200>Project Name</td><td>${u1048}</td></tr>				
+		</table>
+		
+		<br/><br/>
+		Hours worked to the nearest quarter hour<br/>
+		${u6912}
+		
+        <table cellpadding="0" cellspacing="0">
+            <tr><td>&nbsp;&nbsp;</td><td></td></tr>	
+            <tr>
+				<td width=200>SUBCONTRACTOR SIGNATURE</td>			
+				<td width=200>CLIENT PROJECT MANAGER SIGNATURE</td>			
+            </tr>	
+            <tr><td>&nbsp;&nbsp;</td><td></td></tr>	
+            <tr>
+				<td width=200>${u5498}<br/><br/>${u8934}<hr/></td>			
+				<td width=200>${u3043}<hr/></td>			
+            </tr>						
+		</table>
+
+    </div>
+
+</body></html>
