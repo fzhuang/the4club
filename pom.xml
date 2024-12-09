@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>the4club</groupId>
-    <artifactId>CubeDriveWeb</artifactId>
+    <artifactId>the4club</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>CubeDriveWeb Maven Webapp</name>
+    <name>the4club Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
@@ -22,6 +22,11 @@
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
                 <version>9.3.7.v20160115</version>
+                <configuration>
+			        <webApp>
+			            <contextPath>/the4club</contextPath>
+			        </webApp>
+			    </configuration>
             </plugin>
         </plugins>
     </build>

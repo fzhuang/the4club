@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
@@ -18,8 +18,8 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="/speech-Interaction-with-LLM/images/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="/speech-Interaction-with-LLM/images/background.jpg" alt="online sheet">
+					    <source srcset="/resource/images/background/touch.jpg" media="(max-width: 640px)">
+					    <img srcset="/resource/images/background/background.jpg" alt="online sheet">
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
