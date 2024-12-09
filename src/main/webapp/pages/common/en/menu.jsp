@@ -31,64 +31,46 @@
 								</li>																				
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="/speech-Interaction-with-LLM"><i class="fas fa-microphone-alt" style="margin: 0 12px 0 4px; color: #323EDB;;"></i>Speech Interaction with LLM</a>
-								</li>								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/securities-and-bonds-management"><i class="fas fa-poll" style="margin: 0 8px 0 4px; color: #323EDB;;"></i>Bond Issuance Management System</a>
-								</li>
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/volunteer-management"><i class="fas fa-hands-helping" style="margin: 0 8px 0 0; color: #323EDB;;"></i>Volunteer Management</a>
-								</li>	
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/donor-management"><i class="fas fa-award" style="margin: 0 12px 0 4px; color: #323EDB;;"></i>Donations Management</a>
-								</li>	
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/condo-reserve-fund-study-online"><i class="fas fa-home" style="margin: 0 8px 0 0; color: #323EDB;;"></i>Online Reserve Fund Study</a>
-								</li>
-								
-								<h3 class="sub-menu-list-title">CubeDrive Solutions</h3>		 
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/form"><i class="fab fa-wpforms" style="margin: 0 10px 0 3px; color: #323EDB;; color: #323EDB;;"></i>Dynamic Form and Flow</a>
-								</li>							
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/sheet"><i class="far fa-file-excel" style="margin: 0 12px 0 3px; color: #323EDB;;"></i>Online Sheet</a>
-								</li>							
+								</li>														
 				            </ul>
 				        </div>
 				     </div>
                 </li>               
-                
-                
+                              
                 <li><a data-pages="showRoom" href="/showRoom">展览馆</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">Enterprise Information LLM Solution</h3>
+						        <h3 class="sub-menu-list-title">岁月如歌</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>Enterprise-grade, knowledge-based LLM Solution for SMEs</a>
+									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>征文</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/editor"><i class="fab fa-rocketchat" style="margin-right: 8px; color: #323EDB;;"></i>Editor+ChatGPT</a>
+									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>视频</a>
 								</li>
-						        <h3 class="sub-menu-list-title">Enterprise AI Search for Tabular Data</h3>
+								
+								<h3 class="sub-menu-list-title">加华艺术协会</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-tabular"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>AI Search and AI Predict</a>
+									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>书法</a>
 								</li>
-						        
-								<h3 class="sub-menu-list-title">Enterprise AI Predictive Analytics</h3>
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-regression-prediction"><i class="fas fa-chart-line" style="margin-right: 8px; color: #323EDB;;"></i>Enterprise AI Regression Models</a>
-								</li>								
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>绘画</a>
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>摄影</a>
+								</li>
+						
 				            </ul>
 				        </div>
 				     </div>
                 </li> 
-      
-                <li><a data-pages="archive" href="/archive">岁月如歌</a></li>               
-                <li><a data-pages="community" href="/community">加华艺术协会</a>
-                </li>
+                
+                <li><a data-pages="organization" href="/organization">组织构建</a></li>
+                
+                <li><a data-pages="organization" href="/organization">相关链接</a></li>
+
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/pages/signup/en/signup.jsp">SIGN UP</a></li>
                 <li><a href="javascript: goToSignIn();" class="login">Login</a></li>
             </ul>
         </nav>

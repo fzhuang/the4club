@@ -29,14 +29,6 @@
                 <ul class="footer-menu footer-menu-has-style">
                     <li><a href="/index.jsp">Home</a></li>
                     <li><a href="/CRM">Customize CRM</a></li>
-                    <li><a href="/speech-Interaction-with-LLM">Speech Interaction with LLM</a></li>
-                    <li><a href="/volunteer-management">Volunteer Management</a></li>
-                    <li><a href="/condo-reserve-fund-study-online/index.jsp">Reserve Fund Study</a></li>
-                    <li><a href="/pages/templates/en/templates.jsp">Cases</a></li>                      
-                    <li><a href="/form/index.jsp">Form</a></li>                  
-                    <li><a href="/enterpriseAI-LLM">Enterprise LLM</a></li>                        
-                    <li><a href="/pages/price/en/price.jsp">Price</a></li>
-                    <li><a href="/pages/document/en/document.jsp">Help</a></li>
                     <li><a href="javascript: goToSignIn();">Sign in</a></li>
                 </ul>
             </div>

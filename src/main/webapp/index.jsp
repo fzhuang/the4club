@@ -23,10 +23,10 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              SYRG CHINESE-CANADIAN CROSS CULTURE CLUB
+                            加中文化教育交流中心                              
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                             加中文化教育交流中心的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。
+                             加中文化教育交流中心（SYRG CHINESE-CANADIAN CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。
                         </div>
                     </div>
                 </div>
@@ -124,31 +124,31 @@
 	            
 	            <div class="col-md-3 col-sm-6 col-xs-12"> 
 	                <img src="/resource/images/svg/all.svg" style="background-color:#a7e82c; border-radius:50%; width:5rem;"></img>
-	                <h3><b>All-in-one solution</b></h3>
+	                <h3><b>促进多元文化融合，增强社会凝聚力</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
-	                    Effectively manage your custom data solutions, customer relationships, sales processes, marketing and service interactions in one platform.
+	                    加拿大以其多元文化政策而闻名，倡导不同族裔和文化在平等基础上共存与发展。加中文化教育交流中心的设立，可以为加拿大社会注入更多中华文化元素，通过语言、艺术、节庆等多方面的文化互动，促进各族裔之间的相互理解与尊重。这不仅丰富了加拿大的文化生态，也为社会和谐提供了重要支持。
 	                </div>
 	                
 	                <br/>
 	                <img src="/resource/images/svg/oneClick.svg" style="background-color:#bf4c3d; border-radius:50%; width:5rem;"></img>
-	                <h3><b>Superior customer support</b></h3>
+	                <h3><b>推动中文教育发展，满足全球化需求</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
-	                    Count on our expert support team to ensure the success of your application initiatives and help you maximize the potential of your business.
+	                    随着全球化的发展和中国国际影响力的提升，学习中文已成为全球的重要趋势。加拿大在教育领域始终走在前列，中文教育的普及有助于提升加拿大在国际社会中的竞争力。加中文化教育交流中心可以为中文学习者提供优质的教育资源和文化体验，让学习中文不仅是语言技能的掌握，更是文化理解的深化。
 	                </div>
 	            </div>
 	
 	            <div class="col-md-3 col-sm-6 col-xs-12">
 	                <img src="/resource/images/svg/auto.svg" style="background-color:#5ec6e8; border-radius:50%; width:5rem;"></img>
-	                <h3><b>Customization</b></h3>
+	                <h3><b>搭建中加民间交流的桥梁，促进双边关系发展</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
-	                    Businesses can drag and drop to create the applications to meet their unique needs, including custom fields, forms, and business flows.
+	                    中加两国的经贸往来和文化合作近年来日益紧密，加中文化教育交流中心可以作为中加民间文化与教育交流的重要平台。通过组织文化活动、艺术展览和学术交流等形式，中心能够深化两国人民之间的了解与友谊，进一步推动中加双边关系的健康发展。
 	                </div>
 	                
-	                <br/>
+	                <br/><br/><br/>
 	                <img src="/resource/images/svg/repect.svg" style="background-color:#ff4259; border-radius:50%; width:5rem;"></img>
-	                <h3><b>Affordable cost</b></h3>
+	                <h3><b>传承中华文化精髓，保护文化多样性</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
-	                    CubeDrive offers an affordable, customizable solution that helps organizations efficiently manage their enterprise data.
+	                    中华文化拥有悠久的历史和丰富的内涵，其传承和传播是世界文化多样性的重要组成部分。在加拿大这样一个高度多元的社会环境中，加中文化教育交流中心的存在有助于确保海外华人社区的文化根源得以延续，同时也向主流社会展示中华文化的魅力，从而丰富加拿大文化的表现形式，为全球文化的多样性保护做出贡献。
 	                </div>
 	            </div>         
 	        </div>
@@ -160,16 +160,15 @@
     <section class="page-section" id="testimony" style="margin: 0 0 20px 0;">
         <div class="container">
             <div>
-	            <span style="color: #323edb; font-size: 18px;">TESTIMONY</span>&nbsp;
+	            <span style="color: #323edb; font-size: 18px;">欢迎加入我们的社区</span>&nbsp;
             </div>
             <div class="row" style="margin: 0 0 30px 0;">                                                 
                 <div class="col-md-6 col-sm-12 col-xs-12">
-                    <h1><b>A right solution for us</b></h1>  
+                    <h1><b>一个属于我们的社区</b></h1>  
 	                <div style="margin:20px 10px 20px 10px;font-size: 20px;">
-    <p>Here's what Dana Sharkey, one of our customers, says about our solutions and services.</p>
-        <img class="leftSide" src="/resource/images/startQuote.png"><br/>
-        <div>... took me a while to find solution ... I love the way you checkout every week ... with portal, it is much easier now ... we are really satisfied the service ...</div>		
-		<img class="rightSide" src="/resource/images/endQuote.png">
+ 加中文化教育交流中心是一个为社区量身打造的重要平台，致力于服务于多元文化背景下的华人和主流社会。这里不仅是学习中文、传承中华文化的最佳场所，也是促进不同文化交流互动的桥梁。
+<br/><br/>
+在这个平台上，社区成员可以通过丰富多样的活动和教育项目，加深对中华文化的理解，同时与其他文化背景的居民建立联系。无论是语言课程、艺术展览还是文化节庆活动，这里都是一个能让我们共同成长、共享文化价值的地方。
 
 			        </div>
                 </div>
