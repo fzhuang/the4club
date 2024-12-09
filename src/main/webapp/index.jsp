@@ -99,11 +99,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <hr>
-            
-            <hr/> 
-            
+            </div>            
         </div>
         <hr>
     </section>
