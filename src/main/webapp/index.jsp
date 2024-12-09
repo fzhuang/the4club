@@ -18,8 +18,8 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="/resource/images/background/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="/resource/images/background/background.jpg" alt="online sheet">
+					    <source srcset="resource/images/background/touch.jpg" media="(max-width: 640px)">
+					    <img srcset="resource/images/background/background.jpg" alt="online sheet">
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
@@ -41,7 +41,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <img style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;max-width: 90%;"
-                            src="/resource/images/background/culture.jpg" />
+                            src="resource/images/background/culture.jpg" />
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
                      style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;">
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <img style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;max-width: 90%"
-                         src="/resource/images/background/culture.jpg" />                    
+                         src="resource/images/background/culture.jpg" />                    
                 </div>
             </div>
             <br>          
@@ -86,7 +86,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <br><br>
                     <img style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;max-width: 100%;"
-                            src="/resource/images/background/communication.jpg"/>
+                            src="resource/images/background/communication.jpg"/>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
                      style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;">
@@ -119,32 +119,30 @@
 	            </div>
 	            
 	            <div class="col-md-3 col-sm-6 col-xs-12"> 
-	                <img src="/resource/images/svg/all.svg" style="background-color:#a7e82c; border-radius:50%; width:5rem;"></img>
+	                <img src="resource/images/svg/all.svg" style="background-color:#a7e82c; border-radius:50%; width:5rem;"></img>
 	                <h3><b>促进多元文化融合，增强社会凝聚力</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
 	                    加拿大以其多元文化政策而闻名，倡导不同族裔和文化在平等基础上共存与发展。加中文化教育交流中心的设立，可以为加拿大社会注入更多中华文化元素，通过语言、艺术、节庆等多方面的文化互动，促进各族裔之间的相互理解与尊重。这不仅丰富了加拿大的文化生态，也为社会和谐提供了重要支持。
 	                </div>
-	                
-	                <br/>
-	                <img src="/resource/images/svg/oneClick.svg" style="background-color:#bf4c3d; border-radius:50%; width:5rem;"></img>
-	                <h3><b>推动中文教育发展，满足全球化需求</b></h3>
-	                <div class="text-muted" style="font-size: 18px;">
-	                    随着全球化的发展和中国国际影响力的提升，学习中文已成为全球的重要趋势。加拿大在教育领域始终走在前列，中文教育的普及有助于提升加拿大在国际社会中的竞争力。加中文化教育交流中心可以为中文学习者提供优质的教育资源和文化体验，让学习中文不仅是语言技能的掌握，更是文化理解的深化。
-	                </div>
-	            </div>
-	
-	            <div class="col-md-3 col-sm-6 col-xs-12">
-	                <img src="/resource/images/svg/auto.svg" style="background-color:#5ec6e8; border-radius:50%; width:5rem;"></img>
+	                	                
+                    <img src="resource/images/svg/auto.svg" style="background-color:#5ec6e8; border-radius:50%; width:5rem;"></img>
 	                <h3><b>搭建中加民间交流的桥梁，促进双边关系发展</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
 	                    中加两国的经贸往来和文化合作近年来日益紧密，加中文化教育交流中心可以作为中加民间文化与教育交流的重要平台。通过组织文化活动、艺术展览和学术交流等形式，中心能够深化两国人民之间的了解与友谊，进一步推动中加双边关系的健康发展。
 	                </div>
-	                
-	                <br/><br/><br/>
-	                <img src="/resource/images/svg/repect.svg" style="background-color:#ff4259; border-radius:50%; width:5rem;"></img>
+	            </div>
+	
+	            <div class="col-md-3 col-sm-6 col-xs-12">
+	                <img src="resource/images/svg/repect.svg" style="background-color:#ff4259; border-radius:50%; width:5rem;"></img>
 	                <h3><b>传承中华文化精髓，保护文化多样性</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
-	                    中华文化拥有悠久的历史和丰富的内涵，其传承和传播是世界文化多样性的重要组成部分。在加拿大这样一个高度多元的社会环境中，加中文化教育交流中心的存在有助于确保海外华人社区的文化根源得以延续，同时也向主流社会展示中华文化的魅力，从而丰富加拿大文化的表现形式，为全球文化的多样性保护做出贡献。
+	                    中华文化拥有悠久的历史和丰富的内涵，其传承和传播是世界文化多样性的重要组成部分。在加拿大这样一个高度多元的社会环境中，加中文化教育交流中心的存在有助于确保海外华人社区的文化根源得以延续，同时也向主流社会展示中华文化的魅力，从而丰富加拿大文化的表现形式，为全球文化的多样性做出贡献。
+	                </div>
+
+	                <img src="resource/images/svg/oneClick.svg" style="background-color:#bf4c3d; border-radius:50%; width:5rem;"></img>
+	                <h3><b>推动中文教育发展，满足全球化需求</b></h3>
+	                <div class="text-muted" style="font-size: 18px;">
+	                    随着全球化的发展和中国国际影响力的提升，学习中文已成为全球的重要趋势。加拿大在教育领域始终走在前列，中文教育的普及有助于提升加拿大在国际社会中的竞争力。加中文化教育交流中心可以为中文学习者提供优质的教育资源和文化体验，让学习中文不仅是语言技能的掌握，更是文化理解的深化。
 	                </div>
 	            </div>         
 	        </div>
@@ -182,7 +180,7 @@
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img src="/resource/images/bg2.png" alt="Contact us">
+                    <img src="resource/images/bg2.png" alt="Contact us">
                     <div class="carousel-caption">
                         <div class="carousel-caption-title">
                             欢迎义工
@@ -190,7 +188,7 @@
                         <div class="carousel-caption-subtitle">
 加中文化教育交流中心欢迎方方面面的义工和我们一起为海外中文教育和文化交流贡献我们的努力。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="/lite/app/form/1wdPYeNJAhv9eMlnijnL9HshmO3FTDXe?showLeftCustomPage=true">义工报名表</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">义工报名表</a> 
                     </div>
                 </div>
             </div>

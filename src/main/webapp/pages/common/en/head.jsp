@@ -33,12 +33,12 @@
 <meta name="author" content="CubeDrive"/>
 
 <!-- Bootstrap -->
-<link href="/resource/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="resource/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 <!--font awesome-->
-<link rel="stylesheet" href="/resource/fontawesome-free-5.15.4-web/css/all.css">
-<link rel="stylesheet" href="/resource/css/animate.css">
-<link href="/resource/css/style.css?v=1.0" rel="stylesheet">
+<link rel="stylesheet" href="resource/fontawesome-free-5.15.4-web/css/all.css">
+<link rel="stylesheet" href="resource/css/animate.css">
+<link href="resource/css/style.css?v=1.0" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,11 +47,11 @@
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<script src="/resource/js/jquery.min.js"></script>
-<script src="/resource/bootstrap/js/bootstrap.min.js"></script>
-<script src="/resource/js/cubedrive.js?v=1.2"></script>
+<script src="resource/js/jquery.min.js"></script>
+<script src="resource/bootstrap/js/bootstrap.min.js"></script>
+<script src="resource/js/cubedrive.js?v=1.2"></script>
 
-<script src="/resource/js/QR/qrcode.js"></script>
+<script src="resource/js/QR/qrcode.js"></script>
 
 <!--slid-bottom-->
 

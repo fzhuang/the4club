@@ -5,7 +5,7 @@
     <div class="container">
         <div class="nav-bar-header">
             <a href="/index.jsp">
-	            <div class="logo"><img src="/resource/images/logo.png" height="50"/></div>
+	            <div class="logo"><img src="resource/images/logo.png" height="50"/></div>
 	            <div class="logo-text">文化传承<br/>交流互动</div>
             </a>
 
@@ -25,13 +25,10 @@
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">CubeDrive Products</h3>		 
+						        <h3 class="sub-menu-list-title">活动</h3>		 
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/CRM"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>Customize CRM</a>
-								</li>																				
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/speech-Interaction-with-LLM"><i class="fas fa-microphone-alt" style="margin: 0 12px 0 4px; color: #323EDB;;"></i>Speech Interaction with LLM</a>
-								</li>														
+									<a href="/CRM"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>活动1</a>
+								</li>																																
 				            </ul>
 				        </div>
 				     </div>
@@ -71,7 +68,7 @@
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="javascript: goToSignIn();" class="login">Login</a></li>
+                <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club" class="login">Login</a></li>
             </ul>
         </nav>
     </div>

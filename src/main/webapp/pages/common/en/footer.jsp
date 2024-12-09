@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 <div class="logo">
-                    <a href="/index.jsp"><img src="/resource/images/logo_footer.png" align="logo-footer"/></a>
+                    <a href="/index.jsp"><img src="resource/images/logo_footer.png" align="logo-footer"/></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-8">
@@ -36,7 +36,7 @@
                 <h3 class="item-title">
                     QR Code
                 </h3>
-                <img src="/resource/images/cubedriveQR.png" alt="Mobile" style="width:100px;height:100px;">
+                <img src="resource/images/cubedriveQR.png" alt="Mobile" style="width:100px;height:100px;">
             </div>
         </div>
     </div>
