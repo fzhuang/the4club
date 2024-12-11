@@ -19,15 +19,15 @@
         </div>
         <nav id="mainMenu" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a data-pages="index" href="/index.jsp">主页</a></li>
+                <li><a data-pages="index" href="index.jsp">主页</a></li>
                 
-                <li><a data-pages="activities" href="/activities">活动与项目</a>
+                <li><a data-pages="activities" href="2025chengdu.jsp">活动与项目</a>
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <h3 class="sub-menu-list-title">活动</h3>		 
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/CRM"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>活动1</a>
+									<a href="2025chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年春假赴成都交流学生团</a>
 								</li>																																
 				            </ul>
 				        </div>

@@ -57,29 +57,14 @@ function autoLogin2Sign(type) {
 
 $(document).ready(function(){
 
-    var href = location.href, pageName = href.split("pages"), pathname = location.pathname;
+    var href = location.href, pageName = "index", pathname = location.pathname;
     var menuItems = $("#mainMenu a"),menuItem,containPages;
 
-    if (href.indexOf('/sheet') != -1) {
-		pageName = 'sheet';
+    if (href.indexOf('/2025chengdu') != -1) {
+		pageName = 'activities';
 	} else if (href.indexOf('/enterpriseAI') != -1 || href.indexOf('/editor') != -1) {
 		pageName = 'enterpriseAI';
-	} else if (href.indexOf('/volunteer-management') != -1 ||
-			href.indexOf('/speech-Interaction-with-LLM') != -1 ||
-			href.indexOf('/donor-management') != -1 ||
-			href.indexOf('/securities-and-bonds-management') != -1 ||
-			href.indexOf('/CRM') != -1 ||
-			href.indexOf('/condo-reserve-fund-study-online') != -1 ||
-			href.indexOf('/form') != -1
-		) {
-		pageName = 'form';
-	} else if(pageName.length != 1){
-    	pageName = pageName[1].split("/")[1];
-	} else if (pathname == '/' || href.indexOf('index.jsp') != -1) {
-    	pageName = "index";
-	} else {
-		pageName = 'templates';
-	}
+	} 
 
     for(var i = 0, len = menuItems.length; i<len; i++){
         menuItem= $(menuItems[i]);

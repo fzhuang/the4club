@@ -44,11 +44,15 @@
 	                <h1><b>2025年春假赴成都交流学生团火热报名中</b></h1>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 <div class="text-muted" style="font-size: 18px;">
-年龄要求：渥太华地区12岁（7年级）以上至18岁（12年级）
+参与对象：7-12年级高中生
 </div>
 <div class="text-muted" style="font-size: 18px;">
-费用预算：将根据明年春假（march break)期间机票价格决定。包括往返机票及国内吃、住、行等所有费用。
+                     时间：2025/3/4 - 2025/3/15
 </div>
+                   <div class="text-muted" style="font-size: 18px;">
+费用：3700加币（包括往返机票，食宿旅游，交通全部费用和税款）
+</div>
+       
 <div class="text-muted" style="font-size: 18px;">
  活动内容：参与国内学生上课、及各种活动；参访大熊猫基地以及都江堰等名胜古迹；根据性别分别入住对接学生家同吃同住。
  </div>
@@ -56,7 +60,7 @@
  2025春假赴中国成都学生交流团“的项目由加中文化教育交流中心与悠问教育联手举办。
  </div>
  <div class="text-muted" style="font-size: 18px;">
-     点击下面按钮查看更多信息。<a class="btn btn-orange btn-lg" href="resource/images/activities/2025Chengdu/25年春假-成都12.11.pdf">具体信息</a> 
+     点击下面按钮查看更多信息。<a class="btn btn-orange btn-lg" href="2025chengdu.jsp">具体信息</a> 
  </div>
 	                </div>
 	            </div>
