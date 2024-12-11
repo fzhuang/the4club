@@ -33,7 +33,8 @@
 				        </div>
 				     </div>
                 </li>               
-                              
+                 
+                 <!--             
                 <li><a data-pages="showRoom" href="/showRoom">展览馆</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
@@ -65,6 +66,7 @@
                 <li><a data-pages="organization" href="/organization">组织构建</a></li>
                 
                 <li><a data-pages="organization" href="/organization">相关链接</a></li>
+                -->  
 
             </ul>
             <ul class="nav navbar-nav navbar-right">

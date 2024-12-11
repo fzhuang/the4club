@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
-<title>the4club</title>
+<title>the4cClub</title>
 
 <meta name="title" content="CubeDrive – affordable dynamic CRM and Speech Interaction LLM with Easy No-Code Solutions"/>
 <meta name="description" content="Discover CubeDrive, the innovative no-code platform transforming CRM and Reserve Fund Study. Build custom CRM systems and Speech Interaction LLM effortlessly, integrating your data sources for enhanced customer insights. Ideal for businesses seeking efficient, cost-effective CRM solutions without the complexity of coding."/>

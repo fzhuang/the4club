@@ -33,8 +33,43 @@
             </div>
         </div>
     </section>
-        
+    
     <section class="page-section" style="margin-top: 60px">
+        <div class="container"> 
+            <div>
+	            <span style="color: #323edb; font-size: 18px;">目前主要活动</span>&nbsp;
+            </div>
+            <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-6 col-xs-12">	                
+	                <h1><b>2025年春假赴成都交流学生团火热报名中</b></h1>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+<div class="text-muted" style="font-size: 18px;">
+年龄要求：渥太华地区12岁（7年级）以上至18岁（12年级）
+</div>
+<div class="text-muted" style="font-size: 18px;">
+费用预算：将根据明年春假（march break)期间机票价格决定。包括往返机票及国内吃、住、行等所有费用。
+</div>
+<div class="text-muted" style="font-size: 18px;">
+ 活动内容：参与国内学生上课、及各种活动；参访大熊猫基地以及都江堰等名胜古迹；根据性别分别入住对接学生家同吃同住。
+ </div>
+ <div class="text-muted" style="font-size: 18px;">
+ 2025春假赴中国成都学生交流团“的项目由加中文化教育交流中心与悠问教育联手举办。
+ </div>
+ <div class="text-muted" style="font-size: 18px;">
+     点击下面按钮查看更多信息。<a class="btn btn-orange btn-lg" href="resource/images/activities/2025Chengdu/25年春假-成都12.11.pdf">具体信息</a> 
+ </div>
+	                </div>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">	
+	                <img style="max-width: 90%" src="resource/images/activities/2025Chengdu/chengdu.png" /> 
+	            </div>
+	        </div>
+	        
+         </div>
+    </section>
+     <hr>        
+        
+    <section class="page-section" style="margin-top: 30px">
         <div class="container">
         
             <!-- application -->
@@ -45,8 +80,8 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
                      style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;">
-                    <div style="padding-top: 55%">
-                        <div class="position-center" style="width: 90%">
+                    <div style="padding-top: 60%">
+                        <div class="position-center" style="width: 95%">
                             <br/>
                             <h3 class="text-primary text-size-title">文化传承：维系历史与未来的纽带</h3>
                             <p class="text-size-description">
@@ -60,12 +95,11 @@
             <hr>
         
             <!-- Reserve Fund Study -->
-            <br><br>
-            <div class="row">
+            <div class="row" style="margin: 30px 0;">  
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
                      style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;">
-                    <div style="padding-top: 55%">
-                        <div class="position-center" style="width: 90%">
+                    <div style="padding-top: 65%">
+                        <div class="position-center" style="width: 95%">
                             <h3 class="text-primary text-size-title">文化交流互动：搭建理解与合作的桥梁</h3>
                             <p class="text-size-description">
                                 文化交流互动是打破隔阂的重要途径，通过分享与对话，不同文化之间的误解可以得到澄清，而共通之处则可以被发现并加以珍视。加中文化教育交流中心的设立，为促进中国文化与加拿大多元文化的融合提供了理想的平台。在这里，不同文化背景的人可以通过艺术展览、音乐会、文化节等形式，体验到彼此文化的精髓。这种互动不仅可以增进彼此的理解，还可以激发创新灵感，为文化艺术的发展注入新的动力。
@@ -75,23 +109,21 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <img style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;max-width: 90%"
-                         src="resource/images/background/culture.jpg" />                    
+                         src="resource/images/background/culture2.jpg" />                    
                 </div>
-            </div>
-            <br>          
+            </div>        
             <hr/>   
             
             <!-- Excel -->
-            <div class="row">
+            <div class="row" style="margin: 30px 0;">   
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <br><br>
                     <img style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;max-width: 100%;"
-                            src="resource/images/background/communication.jpg"/>
+                            src="resource/images/background/communication2.jpg"/>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
                      style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;">
-                    <div style="padding-top: 50%">
-                        <div class="position-center" style="width: 90%">
+                    <div style="padding-top: 60%">
+                        <div class="position-center" style="width: 95%">
                             <h3 class="text-primary text-size-title">合作共赢</h3>
                             <p class="text-size-description">
                                 文化的传承与交流互动并非单向的过程，而是双赢的合作。通过交流，中国文化能够融入加拿大的多元文化语境，同时加拿大本土文化也能为中国文化带来新的视角。这种双向的学习和影响，能够推动双方文化艺术的共同进步，同时也能够让彼此的文化在全球化的今天更加繁荣和具有影响力。
@@ -157,7 +189,7 @@
 	            <span style="color: #323edb; font-size: 18px;">欢迎加入我们的社区</span>&nbsp;
             </div>
             <div class="row" style="margin: 0 0 30px 0;">                                                 
-                <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="col-md-12 col-sm-12 col-xs-12">
                     <h1><b>一个属于我们的社区</b></h1>  
 	                <div style="margin:20px 10px 20px 10px;font-size: 20px;">
  加中文化教育交流中心是一个为社区量身打造的重要平台，致力于服务于多元文化背景下的华人和主流社会。这里不仅是学习中文、传承中华文化的最佳场所，也是促进不同文化交流互动的桥梁。
@@ -166,11 +198,13 @@
 
 			        </div>
                 </div>
+                <!--  
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <div class="responsive-video">
                     <iframe src="https://www.youtube.com/embed/cIJRotOn9q0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
+                -->
             </div>
 
         </div>     

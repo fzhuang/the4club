@@ -6,7 +6,9 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 <div class="logo">
+                    <!-- 
                     <a href="/index.jsp"><img src="resource/images/logo_footer.png" align="logo-footer"/></a>
+                     -->
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-8">
@@ -14,12 +16,11 @@
                     Contact us
                 </h3>
                 <ul class="footer-menu footer-menu-has-icon">
-                    <li>The 4 Club</li>
+                    <li>The 4c Club</li>
                     <li><i class="far fa-address-card" style="margin-right: 10px;"></i><br/>
                         Ottawa, Ontario, Canada K1V 1C1
                     </li>
-                    <li><i class="fas fa-phone" style="margin-right: 10px;"></i>(+1) 613 818-3776</li>
-                    <li><i class="far fa-envelope" style="margin-right: 10px;"></i>info@cubedrive.com</li>
+                    <li><i class="far fa-envelope" style="margin-right: 10px;"></i>syrg4cclub@gmail.com</li>
                 </ul>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
@@ -28,8 +29,8 @@
                 </h3>
                 <ul class="footer-menu footer-menu-has-style">
                     <li><a href="/index.jsp">Home</a></li>
-                    <li><a href="/CRM">Customize CRM</a></li>
-                    <li><a href="javascript: goToSignIn();">Sign in</a></li>
+                    <li><a href="/Activities">Activities</a></li>
+                    <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club">Sign in</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
