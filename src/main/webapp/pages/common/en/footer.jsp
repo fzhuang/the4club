@@ -13,10 +13,10 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-8">
                 <h3 class="item-title">
-                    Contact us
+                    联系我们
                 </h3>
                 <ul class="footer-menu footer-menu-has-icon">
-                    <li>The 4c Club</li>
+                    <li>加中文化教育交流中心</li>
                     <li><i class="far fa-address-card" style="margin-right: 10px;"></i><br/>
                         Ottawa, Ontario, Canada K1V 1C1
                     </li>
@@ -37,13 +37,13 @@
                 <h3 class="item-title">
                     QR Code
                 </h3>
-                <img src="resource/images/cubedriveQR.png" alt="Mobile" style="width:100px;height:100px;">
+                <img src="resource/images/qr.png" alt="Mobile" style="width:100px;height:100px;">
             </div>
         </div>
     </div>
 
     <div class="copy_right">
-        Copyright &copy; 2024 the4club All Rights Reserved.
+        Copyright &copy; 2024 加中文化教育交流中心  All Rights Reserved.
         <!--  
         <span style="padding-left:30px;"><a href="/index.jsp">English</a></span>
         <span style="padding-left:15px;"><a href="https://www.redbeanData.cn">中文</a></span>
