@@ -123,7 +123,7 @@ A：只要时间一致，欢迎家长参团。国内学校有严格规定，不�
                             加入我们-成为会员
                         </div>
                         <div class="carousel-caption-subtitle">
-加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的努力。
+加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
                         </div>
                         <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">会员申请表</a> 
                     </div>
