@@ -1580,10 +1580,10 @@ h3, .h3 {
         width: 100%;
     }
     .carousel-caption .carousel-caption-title{
-        font-size: 24px;
+        font-size: 26px;
     }
     .carousel-caption .carousel-caption-subtitle{
-        font-size: 14px;
+        font-size: 18px;
     }
     .carousel-inner img{
         min-height: 480px;

@@ -18,14 +18,14 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="resource/images/background/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="resource/images/background/background.jpg" alt="online sheet">
+					    <source srcset="resource/images/background/th-main.jpg" media="(max-width: 640px)">
+					    <img srcset="resource/images/background/bg-main.jpg" alt="4c club">
 					</picture>
 					<div class="carousel-caption" >
-                        <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
+                        <div class="carousel-caption-title" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
                             加中文化教育交流中心                              
                         </div>
-                        <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
+                        <div class="carousel-caption-subtitle" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
                              加中文化教育交流中心（SYRG CHINESE-CANADIAN CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。
                         </div>
                     </div>
