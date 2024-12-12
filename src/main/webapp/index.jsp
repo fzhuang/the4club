@@ -221,12 +221,12 @@
                     <img src="resource/images/bg2.png" alt="Contact us">
                     <div class="carousel-caption">
                         <div class="carousel-caption-title">
-                            欢迎义工
+                            加入我们-成为会员
                         </div>
                         <div class="carousel-caption-subtitle">
-加中文化教育交流中心欢迎方方面面的义工和我们一起为海外中文教育和文化交流贡献我们的努力。
+加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的努力
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">义工报名表</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">会员申请表</a> 
                     </div>
                 </div>
             </div>
