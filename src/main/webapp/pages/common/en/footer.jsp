@@ -41,7 +41,7 @@
     </div>
 
     <div class="copy_right">
-        Copyright &copy; 2024 加中文化教育交流中心  All Rights Reserved.
+        Copyright &copy; 2025 加中文化教育交流中心  All Rights Reserved.
         <!--  
         <span style="padding-left:30px;"><a href="/index.jsp">English</a></span>
         <span style="padding-left:15px;"><a href="https://www.redbeanData.cn">中文</a></span>
