@@ -41,7 +41,7 @@
         
             <div><h2><b>2025蛇年第二届渥太华青少年生肖绘画比赛</b></h2></div>
             <div class="text-muted" style="font-size: 20px;">
-第二届青少年生肖绘画比赛 · 蛇年主题进一步优化比赛细则和作品范围，将是一场特别的创意盛宴，让我们跟随画笔的引领，感受艺术大师的启发，为新年增添一抹独特的色彩！
+第二届青少年生肖绘画比赛是一场特别的创意盛宴，让我们跟随画笔的引领，感受艺术大师的启发，为新年增添一抹独特的色彩！
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -120,12 +120,28 @@ ABCD组将各自产生本组的金银铜奖和优秀奖项，细节如下：<br/
             <div>
                  <span style="color: #323edb; font-size: 18px;">现场</span>&nbsp;
             </div>     
-            <div class="row" style="margin: 20px 0 10px 0;">              
+            <div class="row" style="margin: 10px 0 5px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <img style="max-width: 90%" src="2025paintingByYoung/students.jpg" /> 
                 </div>  
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <img style="max-width: 90%" src="2025paintingByYoung/organizator.jpg" /> 
+                </div>        
+            </div>  
+            <div class="row" style="margin: 10px 0 5px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="2025paintingByYoung/cx1.jpg" /> 
+                </div>  
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <img style="max-width: 90%" src="2025paintingByYoung/xc2.jpg" /> 
+                </div>        
+            </div>  
+            <div class="row" style="margin: 10px 0 5px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="2025paintingByYoung/xc3.jpg" /> 
+                </div>  
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <img style="max-width: 90%" src="2025paintingByYoung/xc5.jpg" /> 
                 </div>        
             </div>          
         </div>
