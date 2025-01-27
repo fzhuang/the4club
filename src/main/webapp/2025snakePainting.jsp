@@ -17,8 +17,8 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="2025chengdu/images/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="2025chengdu/images/background.jpg" alt="online sheet">
+					    <source srcset="2025paintingByYoung/touch.jpg" media="(max-width: 640px)">
+					    <img srcset="2025paintingByYoung/bg.jpg" alt="online sheet">
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">

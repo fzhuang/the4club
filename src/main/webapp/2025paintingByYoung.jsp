@@ -17,12 +17,12 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="2025chengdu/images/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="2025chengdu/images/background.jpg" alt="online sheet">
+					    <source srcset="2025paintingByYoung/touch.jpg" media="(max-width: 640px)">
+					    <img srcset="2025paintingByYoung/bg.jpg" alt="online sheet">
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                             2025蛇年第二届渥太华青少年生肖绘画比赛
+                             2025年第二届渥太华青少年生肖绘画比赛
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
    “蛇年之美”: 蛇象征着智慧、敏捷与生机勃勃。在你的画作中，你可以展现生肖蛇的独特形象、创造一个蛇年故事，或者用色彩表达对新年的美好愿景。无论是传统寓意还是现代创意，都欢迎大家大胆尝试。                       
