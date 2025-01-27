@@ -27,6 +27,9 @@
 						    <ul class="sub-menu-list">
 						        <h3 class="sub-menu-list-title">活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025蛇年第二届渥太华青少年生肖绘画比赛</a>
+								</li>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025snakePainting.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025蛇年加华艺术协会迎春书画展</a>
 								</li>			 
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">

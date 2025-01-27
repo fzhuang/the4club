@@ -60,7 +60,7 @@ $(document).ready(function(){
     var href = location.href, pageName = "index", pathname = location.pathname;
     var menuItems = $("#mainMenu a"),menuItem,containPages;
 
-    if (href.indexOf('/2025chengdu') != -1) {
+    if (href.indexOf('/202') != -1) {
 		pageName = 'activities';
 	} else if (href.indexOf('/enterpriseAI') != -1 || href.indexOf('/editor') != -1) {
 		pageName = 'enterpriseAI';
