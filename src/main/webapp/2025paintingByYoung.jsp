@@ -240,7 +240,7 @@ A组：JK--3年级<br/>
                         <div class="carousel-caption-subtitle">
 点击下面链接查看2025蛇年第二届渥太华青少年生肖绘画比赛所有获奖精彩作品。谢谢。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7289302113560039424">2025生肖绘画比赛所有获奖作品</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7289302113560039424">绘画比赛所有获奖作品</a> 
                     </div>
                 </div>
             </div>
