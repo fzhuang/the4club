@@ -158,7 +158,7 @@ D组： 10—12年级 <br/>
                     <img style="max-width: 90%" src="2025paintingByYoung/金奖-D107-善恶因果.jpg" /> 
                 </div>        
             </div>     
-            
+            <hr/>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <h3><b>2025 力量之柱，光之蛇 </b></h3>
@@ -180,7 +180,7 @@ C组： 7—9年级<br/>
                     <img style="max-width: 90%" src="2025paintingByYoung/金奖-C90-力量之柱.jpg" /> 
                 </div>        
             </div> 
-            
+            <hr/>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <h3><b>金蛇献瑞</b></h3>
@@ -195,15 +195,15 @@ B组： 4—6年级<br/>
                     </div>
                     <h3><b>点评</b></h3>
                     <div class="text-muted" style="font-size: 18px;">
-
+天空中正放着五彩缤纷的烟花，一条美丽的金蛇盘坐在烟花底下瑞气呈祥。金蛇有着一身漂亮的金红色蛇鳞。金蛇旁边有一个集市，满街都是快乐的人们和美味的食品。有多汁的金桔，甜甜的糖葫芦和软糯的汤圆，周围还有很多花、元宝、灯笼和红包。亲朋好友们都穿着漂亮的传统衣服在街上有说有笑很是快乐，一片繁荣昌盛的景象。
                     </div>           
                 </div>  
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <img style="max-width: 90%" src="2025paintingByYoung/金奖-B77《金蛇献瑞》.jpg" /> 
                 </div>        
             </div> 
-            
-           <div class="row" style="margin: 20px 0 10px 0;">              
+            <hr/>
+            <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <h3><b>蛇耀星空</b></h3>
                     <div class="text-muted">
@@ -217,7 +217,7 @@ A组：JK--3年级<br/>
                     </div>
                     <h3><b>点评</b></h3>
                     <div class="text-muted" style="font-size: 18px;">
-
+写实风格的画面视觉冲击力很强，色彩运用的非常好，冷暖对比鲜明，构图近乎完美，小画家有超出同龄的技法能力，但画面缺少孩子天真烂漫的想象力。期待孩子始于内心的自我表达。
                     </div>           
                 </div>  
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
