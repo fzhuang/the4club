@@ -25,7 +25,7 @@
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">活动</h3>
+						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025蛇年第二届渥太华青少年生肖绘画比赛</a>
 								</li>
@@ -35,6 +35,11 @@
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年春假赴成都交流学生团</a>
 								</li>																																
+
+						        <h3 class="sub-menu-list-title">2024年活动</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>渥太华中文学校慈善基金会五十年庆典</a>
+								</li>																															
 				            </ul>
 				        </div>
 				     </div>
