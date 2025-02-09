@@ -85,9 +85,9 @@
             </div>
         
             <div class="row" style="margin: 20px 0 10px 0;">  
-             <div class="text-muted" style="font-size: 20px;">
+               <div class="text-muted" style="font-size: 20px;">
 期待与您一同，在岁月的暖光里，以茶会友，以文寄情，共启新一年的美好篇章。
-            </div> 
+               </div> 
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">               
@@ -118,6 +118,94 @@
                     <img style="width: 900px;" src="2025SpringFestival/1.jpg" /> 
                 </div>        
             </div>          
+        </div>
+        <hr>
+    </section>
+    
+    
+    <section class="page-section" style="margin-top: 20px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">我们的新生代</span>&nbsp;
+            </div>
+           
+            <div class="row" style="margin: 20px 0 10px 0;">  
+                <div class="col-md-6 col-sm-12 col-xs-12">  
+                    <div><h2><b>Ink Poetry Awards</b></h2></div>                
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+Welcome to Ink Poetry Award, a student-led initiative fueled by passion, creativity, and the desire to inspire. We’re a collective of students from diverse backgrounds, each bringing a unique blend of skills and talents to create something special ...
+ <div class="text-muted" style="font-size: 20px;margin-top:10px;">
+       <a class="btn btn-orange btn-lg" href="https://inkpoetryawards.wixsite.com/home">Ink Poetry Awards</a> 
+ </div>						
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <img style="width: 100%;" src="2025SpringFestival/ink2.png" /> 
+				</div>
+            </div>
+            
+            <hr/>
+            <div><h2><b>Poetry</b></h2></div>
+            <div class="row" style="margin: 20px 0 10px 0;">
+                <div class="text-muted">
+                    Something is missing inside of me, unallowing meto be human. <br/>
+                    Stars tiptoe around the edges of the void of my soul, dust fills my lungs, my eyes, my skin. <br/>
+                    Paradoxical knowledge digs deep into my brain and pours out as milky ways. <br/>
+                    My body is ever changing, universally available at any moment.<br/>
+                    ldentity is meaningless when nothing remains the same, fleeting emotions flicker dead within graspIn short, l am absolutely and utterly, nothing.
+                </div>
+            </div>
+            
+            <div class="row" style="margin: 20px 0 10px 0;">              
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 18px;">
+虚无之歌<br/>
+   -- ChatGPT<br/><br/>
+有些什么在我体内缺失，<br/>
+让我无法称之为人。<br/>
+星辰踮起脚尖，绕着灵魂的黑洞游走，<br/>
+尘埃填满我的肺，我的眼，我的皮肤。<br/><br/>
+
+矛盾的知识深深扎根脑海，<br/>
+化作银河倾泻而出。<br/>
+我的身躯不断变换，<br/>
+随时随地，漂泊无依。<br/><br/>
+
+当一切皆是流沙，身份便毫无意义，<br/>
+转瞬即逝的情感，在指尖熄灭。<br/>
+归根结底，<br/>
+我——不过是虚无，<br/>
+彻彻底底，一无所有。						
+						</div>
+					</div>
+                </div>  
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 18px;">
+《空体》<br/>
+——DeepSeek<br/><br/>
+
+有某种缺失在我体内扎根<br/>
+禁止我成为完整的人<br/><br/>
+
+群星踮足绕过灵魂缺口<br/>
+尘埃在肺叶与瞳孔中结晶<br/>
+悖论之识凿穿颅骨<br/>
+银河自裂缝倾泻<br/><br/>
+
+躯壳瞬息万变 宇宙唾手可得<br/>
+身份如流沙散尽<br/>
+指缝间游走死寂的火星<br/><br/>
+
+是的 我即万物<br/>
+亦是虚无				
+						</div>
+					</div>
+                </div>         
+            </div>
         </div>
         <hr>
     </section>
