@@ -128,10 +128,18 @@
             <div>
                  <span style="color: #323edb; font-size: 18px;">我们的新生代</span>&nbsp;
             </div>
-           
+            
+            
+           <div class="row" style="margin: 20px 0 10px 0;">  
+               <div class="text-muted" style="font-size: 22px;">
+                    <img class="leftSide" src="resource/images/startQuote.png"><br/>
+I’m April Zhang, a high school student and founder of Ink Poetry, and in response to the lack of free poetry contests and high entry fees, I’ve created my own free, open-to-everyone contest with unlimited submissions.                     
+                    <img class="rightSide" src="resource/images/endQuote.png">
+               </div> 
+            </div>
             <div class="row" style="margin: 20px 0 10px 0;">  
                 <div class="col-md-6 col-sm-12 col-xs-12">  
-                    <div><h2><b>Ink Poetry Awards</b></h2></div>                
+                    <div><h2><b>Ink Poetry Awards</b></h2></div>              
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 20px;">
 Welcome to Ink Poetry Award, a student-led initiative fueled by passion, creativity, and the desire to inspire. We’re a collective of students from diverse backgrounds, each bringing a unique blend of skills and talents to create something special ...
