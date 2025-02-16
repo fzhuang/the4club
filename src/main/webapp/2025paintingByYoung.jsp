@@ -239,9 +239,31 @@ A组：JK--3年级<br/>
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <img style="max-width: 90%" src="2025paintingByYoung/金奖-A23-蛇耀星空.jpg" /> 
                 </div>        
-            </div> 
-                 
+            </div>                 
         </div>
+        <hr/>
+    </section>
+    
+    <section class="page-section" style="margin-top: 20px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">评委怎么说</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 20px 0 10px 0;">              
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/w1nVFZWqYQY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>  
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/ZPN6wkaDGjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>         
+            </div>       
+        </div>
+        <hr>
     </section>
     
     <section>

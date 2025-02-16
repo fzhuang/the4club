@@ -70,7 +70,7 @@
                 </div>  
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <div class="responsive-video">
-                    <iframe src="https://www.youtube.com/embed/IOH2C0ZPYak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/FxpHEGNoQKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>        
             </div>          
@@ -227,7 +227,7 @@ Welcome to Ink Poetry Award, a student-led initiative fueled by passion, creativ
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <div class="responsive-video">
-                    <iframe src="https://www.youtube.com/embed/zyNd5UQik1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/IOH2C0ZPYak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>  
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
@@ -236,7 +236,12 @@ Welcome to Ink Poetry Award, a student-led initiative fueled by passion, creativ
                     </div>
                 </div>         
             </div> 
-            <div class="row" style="margin: 20px 0 10px 0;">              
+            <div class="row" style="margin: 20px 0 10px 0;">   
+                <div class="col-md-6 col-sm-12 col-xs-12">                  
+                    <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/zyNd5UQik1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>             
                 <div class="col-md-6 col-sm-12 col-xs-12">                  
                     <div class="responsive-video">
                     <iframe src="https://www.youtube.com/embed/cJCdvJK9X7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
