@@ -61,7 +61,7 @@
 				     </div>
                 </li>   
                 
-                <li><a data-pages="speech" href="competition-inkPoetry.jsp">沙龙讲坛</a>
+                <li><a data-pages="speech" href="speech-ai.jsp">沙龙讲坛</a>
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">

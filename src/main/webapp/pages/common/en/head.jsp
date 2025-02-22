@@ -49,7 +49,7 @@
 
 <script src="resource/js/jquery.min.js"></script>
 <script src="resource/bootstrap/js/bootstrap.min.js"></script>
-<script src="resource/js/cubedrive.js?v=1.11"></script>
+<script src="resource/js/cubedrive.js?v=1.12"></script>
 
 <script src="resource/js/QR/qrcode.js"></script>
 
