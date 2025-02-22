@@ -178,7 +178,10 @@ BOMU Volleyball / 博木排球<br/>
 <a href="http://lovelyhomelandscaping.com/">Bella Ren / 住嫣地产经纪</a><br/>
 <a href="https://www.talentcolorart.com/">TALENTCOLOR ART / 天彩美木</a><br/>
 ​<a href="https://fengdance.ca/">FENG DANCE SCHOOL / 枫舞蹈学校</a><br/>
-Greatwall Custom Homes / 长城 建商
+Greatwall Custom Homes / 长城 建商<br/>
+<a href="https://crius.ca/">Gloria Yan / 保险持牌顾问</a><br/>
+<a href="">美佳装修/水暖 / 16136171688</a><br/>
+<a href="https://greenmiracleottawa.tumblr.com/">绿杰园林</a>
 						</div>                       
                     </div>
                 </div>  

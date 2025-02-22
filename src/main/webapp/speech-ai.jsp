@@ -140,7 +140,6 @@ Kanata,ON K2L 4H7
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 18px;">
 加中文化教育交流中心<br/>
-加华艺术协会<br/>
 岁月如歌工作室<br/>
 Ottawa Chinese Community Service Centre
 						</div>                       
