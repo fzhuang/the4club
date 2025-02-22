@@ -62,8 +62,8 @@ $(document).ready(function(){
 
     if (href.indexOf('/202') != -1) {
 		pageName = 'activities';
-	} else if (href.indexOf('/enterpriseAI') != -1 || href.indexOf('/editor') != -1) {
-		pageName = 'enterpriseAI';
+	} else if (href.indexOf('/competition') != -1) {
+		pageName = 'competition';
 	} 
 
     for(var i = 0, len = menuItems.length; i<len; i++){
