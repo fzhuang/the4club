@@ -99,7 +99,7 @@ Submissions open on January 1st, 2025<br/>​
                     </div>                                          
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                   <img style="width: 70%;" src="competition-inkPoetry/april.jpg" /><br/><br/>
+                   <img style="width: 70%;" src="competition-inkPoetry/april2.jpg" /><br/><br/>
 	               <div class="text-muted" style="font-size: 22px;">
 	                    <img class="leftSide" src="resource/images/startQuote.png"><br/>
 	I’m April Zhang, a high school student and founder of Ink Poetry, and in response to the lack of free poetry contests and high entry fees, I’ve created my own free, open-to-everyone contest with unlimited submissions.                     
