@@ -171,7 +171,7 @@ You may submit more than one poem. Click the following link to enter contest for
 						<div class="text-muted" style="font-size: 18px;">
 <a href="http://lovelyhomelandscaping.com/">Lovely Home Landscaping / 爱家园林</a><br/>
 <a href="http://lovelyhomelandscaping.com/">Everspring Supply</a><br/>
-<a href="https://fur-ever.com/">Forever Pets</a><br/>
+<a href="https://fur-ever.com/">Furever pets</a><br/>
 <a href="https://jxinsurance.com/">Jin Xue Insurance and Investment / 薛金生理财</a><br/>
 <a href="https://pandavacations.ca/">Panda Vacations / 缤份假期</a><br/>
 BOMU Volleyball / 博木排球<br/>
