@@ -99,6 +99,7 @@ Submissions open on January 1st, 2025<br/>​
                     </div>                                          
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
+                   <img style="width: 70%;" src="competition-inkPoetry/april.jpg" /><br/><br/>
 	               <div class="text-muted" style="font-size: 22px;">
 	                    <img class="leftSide" src="resource/images/startQuote.png"><br/>
 	I’m April Zhang, a high school student and founder of Ink Poetry, and in response to the lack of free poetry contests and high entry fees, I’ve created my own free, open-to-everyone contest with unlimited submissions.                     
@@ -168,16 +169,16 @@ You may submit more than one poem. Click the following link to enter contest for
                 <div class="col-md-6 col-sm-6 col-xs-12">                
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 18px;">
-<a href="http://lovelyhomelandscaping.com/">Lovely Home Landscaping</a><br/>
+<a href="http://lovelyhomelandscaping.com/">Lovely Home Landscaping / 爱家园林</a><br/>
 <a href="http://lovelyhomelandscaping.com/">Everspring Supply</a><br/>
 <a href="https://fur-ever.com/">Forever Pets</a><br/>
-<a href="https://jxinsurance.com/">Jin Xue Insurance and Investment</a><br/>
-<a href="https://pandavacations.ca/">Panda Vacations</a><br/>
-BOMU Volleyball<br/>
-<a href="http://lovelyhomelandscaping.com/">Bella Ren</a><br/>
-<a href="https://www.talentcolorart.com/">TALENTCOLOR ART</a><br/>
-​<a href="https://fengdance.ca/">FENG DANCE SCHOOL</a><br/>
-Greatwall Custom Homes
+<a href="https://jxinsurance.com/">Jin Xue Insurance and Investment / 薛金生理财</a><br/>
+<a href="https://pandavacations.ca/">Panda Vacations / 缤份假期</a><br/>
+BOMU Volleyball / 博木排球<br/>
+<a href="http://lovelyhomelandscaping.com/">Bella Ren / 住嫣地产经纪</a><br/>
+<a href="https://www.talentcolorart.com/">TALENTCOLOR ART / 天彩美木</a><br/>
+​<a href="https://fengdance.ca/">FENG DANCE SCHOOL / 枫舞蹈学校</a><br/>
+Greatwall Custom Homes / 长城 建商
 						</div>                       
                     </div>
                 </div>  
