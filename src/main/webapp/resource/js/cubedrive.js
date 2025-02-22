@@ -64,6 +64,8 @@ $(document).ready(function(){
 		pageName = 'activities';
 	} else if (href.indexOf('/competition') != -1) {
 		pageName = 'competition';
+	} else if (href.indexOf('/speech') != -1) {
+		pageName = 'speech';
 	} 
 
     for(var i = 0, len = menuItems.length; i<len; i++){

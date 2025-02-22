@@ -59,6 +59,19 @@
 				            </ul>
 				        </div>
 				     </div>
+                </li>   
+                
+                <li><a data-pages="speech" href="competition-inkPoetry.jsp">沙龙讲坛</a>
+                    <div class="sub-menu-small">
+						<div class="sub-menu-small-container">
+						    <ul class="sub-menu-list">
+						        <h3 class="sub-menu-list-title">2025</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="speech-ai.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>AI大模型的进展和展望</a>
+								</li>																														
+				            </ul>
+				        </div>
+				     </div>
                 </li>               
                  
                  <!--             
