@@ -2,7 +2,6 @@
          pageEncoding="UTF-8"%>
 
 <head>
-	<title>2025春假成都交流之旅</title>	
 	<title>加中文化教育交流中心：2025春假成都交流之旅</title>	
 	<meta name="title" content="加中文化教育交流中心"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
