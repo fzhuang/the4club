@@ -91,6 +91,24 @@ Kanata,ON K2L 4H7
 
             <div class="row" style="margin: 10px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/TGgR5WA71Ss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div> 
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="speech-ai/5.png" /> 
+                </div>            
+            </div>
+            <div class="row" style="margin: 10px 0 10px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="speech-ai/6.png" /> 
+                </div> 
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="speech-ai/7.png" /> 
+                </div>            
+            </div> 
+            <div class="row" style="margin: 10px 0 10px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
                     <img style="max-width: 90%" src="speech-ai/1.png" /> 
                 </div> 
                 <div class="col-md-6 col-sm-6 col-xs-12">
