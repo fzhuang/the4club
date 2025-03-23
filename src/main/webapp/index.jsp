@@ -41,31 +41,31 @@
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025年春假赴成都交流学生团火热报名中</b></h1>
+	                <h1><b>2025年暑假北京夏令营</b></h1>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 <div class="text-muted" style="font-size: 18px;">
-参与对象：7-12年级高中生
+参与对象： 14岁以上非中国国籍的海外学生（含大学生）
 </div>
 <div class="text-muted" style="font-size: 18px;">
-                     时间：2025/3/4 - 2025/3/15
+                     时间：2025年7月
 </div>
                    <div class="text-muted" style="font-size: 18px;">
-费用：3700加币（包括往返机票，食宿旅游，交通全部费用和税款）
+费用： 报名费、考试及其他管理费用500加币 + 机票费用自理
 </div>
        
 <div class="text-muted" style="font-size: 18px;">
- 活动内容：参与国内学生上课、及各种活动；参访大熊猫基地以及都江堰等名胜古迹；根据性别分别入住对接学生家同吃同住。
+ 活动内容： 本夏令营以学习中文了解中国文化为目的，同时安排长城、故宫等北京市名胜古迹的游览以及相关单位如大港油田、中海油总部等的参观访问。
  </div>
  <div class="text-muted" style="font-size: 18px;">
- 2025春假赴中国成都学生交流团“的项目由加中文化教育交流中心与悠问教育联手举办。
+ 2025年暑假北京夏令营项目由加中文化教育交流中心主办。
  </div>
  <div class="text-muted" style="font-size: 18px;">
-     点击下面按钮查看更多信息。<a class="btn btn-orange btn-lg" href="2025chengdu.jsp">具体信息</a> 
+     点击下面按钮查看更多信息。<a class="btn btn-orange btn-lg" href="2025summerCampBeijing.jsp">具体信息</a> 
  </div>
 	                </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="resource/images/activities/2025Chengdu/chengdu.png" /> 
+	                <img style="max-width: 90%" src="2025SummerCampBeijing/top.jpg" /> 
 	            </div>
 	        </div>
 	        
