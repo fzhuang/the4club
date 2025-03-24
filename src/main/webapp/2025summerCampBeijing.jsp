@@ -2,7 +2,7 @@
          pageEncoding="UTF-8"%>
 
 <head>
-	<title>加中文化教育交流中心：2025年暑假北京夏令营</title>	
+	<title>加中文化教育交流中心：2025汉语桥-北京夏令营</title>	
 	<meta name="title" content="加中文化教育交流中心"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
 	<meta property="og:title" content="加中文化教育交流中心：2025年暑假北京夏令营">
@@ -96,7 +96,7 @@
                  <span style="color: #323edb; font-size: 18px;">介绍</span>&nbsp;
             </div>
         
-            <div><h2><b>2025年暑假北京夏令营火热报名中</b></h2></div>
+            <div><h2><b>2025年暑假汉语桥-北京夏令营火热报名中</b></h2></div>
             <div class="text-muted" style="font-size: 20px;">
 本活动由加拿大联邦政府注册的非营利机构加中文化教育交流中心（SYRG Chinese Canadian Cross Culture Club)与北京石油大学共同举办，同时得到国家汉办的大力支持。本夏令营以学习中文了解中国文化为目的，同时安排长城、故宫等北京市名胜古迹的游览以及相关单位如大港油田、中海油总部等的参观访问。所有学生在夏令营结束时均需参加HSK（汉语水平考试费用约$100），但是没有成绩要求。
             </div>
@@ -106,18 +106,30 @@
                     <h3><b>要求</b></h3>
                     <div class="text-muted">
 <div class="text-muted" style="font-size: 18px;">
-参与对象： 14岁以上非中国国籍的海外学生（含大学生）
+参与对象： 14岁至30岁的学生（含大学生）
 </div>
 <div class="text-muted" style="font-size: 18px;">
-                     时间：2025年7月
+                     时间： 夏令营暂定两个开营时间。首批时间6.29-7.12 ，第二批定于7月26日-8月8日 
 </div>
+
 <div class="text-muted" style="font-size: 18px;">
-费用： 报名费、考试及其他管理费用$500（两周夏令营期间中国石油大学负责一切吃、住、行及参观游览费用，再无其他任何收费项目）机票费用自理（随团同行的学生可以统一购买机票）
+                     截止时间： 报名截止时间4月10日（以收到报名费时间为准。报名费及其他费用$500。如果因个人原因未能参加，6月1日前将退还$100考试费用，$400元报名费不予退还）。
 </div>
 
+<div class="text-muted" style="font-size: 18px;">
+<b>报名费用：</b> <br/>
+随团： $500CAD  或者  自行前往学校夏令营：  $200CAD<br/>
+来回的机票费用自理（随团同行的学生可以统一购买机票）<br/>
+中国签证费用自理
+</div>
 
- <div class="text-muted" style="font-size: 20px;">
-       有兴趣的家长，请填写以下链接里的报名表。
+<div class="text-muted" style="font-size: 18px;">
+<b>其他：</b> <br/>
+所有参加夏令营的学生需要个人的保险信息（没有group insurance 的话可以购买一个月的旅行保险约$40/月）
+</div>
+
+ <div class="text-muted" style="font-size: 18px;">
+           有兴趣的家长，请填写以下链接里的报名表。
      <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0">报名表</a> 
  </div>
                         
@@ -335,20 +347,23 @@
             <div><h2><b>问题</b></h2></div>
             <div class="text-muted" style="font-size: 20px;">
 <br/>
-1，Q：不能同时返回怎么办<br/>
+1，Q：【随团同行】不能同时返回怎么办<br/>
 A： 所有家长和学校去程必须统一，回程可以根据自己情况灵活选择。但是需要签署一个自行脱队的文件。
 <hr/>
-2,  Q：可否自己买机票<br/>
-A：不能自行购买机票。因为团队行动，途中出现任何问题统一购票比较容易统一解决，自行购票则可能导致影响行程，造成混乱后果。
+2,  Q：【随团同行】可否自己买机票<br/>
+A： 因为团队行动，途中出现任何问题统一购票比较容易统一解决，自行购票则可能导致影响行程，造成混乱后果。建议统一购票。
 <hr/>
 3，Q：报名后如何付款，是否能用信用卡？<br/>
-第一笔款可以付信用卡。余款则需要支付现金/支票/e-transfer。
+可以e-transfer给syrg4cclub@gmail.com
 <hr/>
 4，Q：护照和签证问题<br/>
-参团成员必须有相应护照和签证。护照现在因邮局罢工可以联系Service Canada 自己去取。签证需要自己去签证中心办理。我们可以提供邀请信。
+参团成员必须有相应护照和签证。签证需要自己去签证中心办理。我们可以提供邀请信。
 <hr/>
 5，Q：家长能否参团，能否随同学生一起参观学校？<br/>
 A：只要时间一致，欢迎家长参团。国内学校有严格规定，不允许校外人员参观，只有带队老师可以参与国内学校的活动。
+<hr/>
+6，Q：学生可不可以自行前往学校夏令营报道？<br/>
+A：可以。中国石油大学(北京) 地址：北京市昌平区府学路18号
                 
             </div>
           

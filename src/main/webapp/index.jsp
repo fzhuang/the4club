@@ -41,7 +41,7 @@
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025年暑假北京夏令营</b></h1>
+	                <h1><b>2025年暑假汉语桥-北京夏令营</b></h1>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 <div class="text-muted" style="font-size: 18px;">
 参与对象： 14岁以上非中国国籍的海外学生（含大学生）
