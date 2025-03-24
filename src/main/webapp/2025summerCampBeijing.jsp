@@ -106,7 +106,7 @@
                     <h3><b>要求</b></h3>
                     <div class="text-muted">
 <div class="text-muted" style="font-size: 18px;">
-参与对象： 14岁至30岁的学生（含大学生）
+参与对象： 14岁至30岁的学生（含大学生）， 必须是非中国公民
 </div>
 <div class="text-muted" style="font-size: 18px;">
                      时间： 夏令营暂定两个开营时间。首批时间6月29日-7月12日 ，第二批定于7月26日-8月8日 
@@ -121,6 +121,11 @@
 随团： $500CAD  或者  自行前往学校夏令营：  $200CAD<br/>
 来回的机票费用自理（随团同行的学生统一购买机票）<br/>
 中国签证费用自理
+</div>
+
+<div class="text-muted" style="font-size: 18px;">
+<b>考试：</b> <br/>
+所有参加夏令营的学生结束时必须参加考试汉语水平考试HSK（费用已经包括），但是没有成绩要求。
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
