@@ -125,7 +125,7 @@
 
 <div class="text-muted" style="font-size: 18px;">
 <b>保险信息：</b> <br/>
-所有参加夏令营的学生需要个人的保险信息（没有group insurance 的话可以购买一个月的旅行保险约$40/月）
+所有参加夏令营的学生需要个人的保险信息（没有group insurance 的话可以购买一个月的旅行保险约$40CAD/月）
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
