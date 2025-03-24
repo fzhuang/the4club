@@ -79,7 +79,7 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              2025年暑假北京夏令营
+                              2025年暑假汉语桥-北京夏令营
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
                              本次交流活动由加中文化教育交流中心组织。为促进华裔青少年对中国文化的了解，增强学校中文的动力和兴趣。我们为渥太华地区学习中文的学生精心策划了这次意义非凡的文化交流之旅。
@@ -124,8 +124,13 @@
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
-<b>其他：</b> <br/>
+<b>保险信息：</b> <br/>
 所有参加夏令营的学生需要个人的保险信息（没有group insurance 的话可以购买一个月的旅行保险约$40/月）
+</div>
+
+<div class="text-muted" style="font-size: 18px;">
+<b>其他：</b> <br/>
+加中文化教育交流中心对本活动有最终解释权
 </div>
 
  <div class="text-muted" style="font-size: 18px;">
