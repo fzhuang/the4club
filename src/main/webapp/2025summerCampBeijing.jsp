@@ -139,7 +139,8 @@
 </div>
 
  <div class="text-muted" style="font-size: 18px;">
-           有兴趣的家长，请填写以下链接里的报名表。
+           有兴趣的家长(非华裔)，请填写以下链接里的报名表。
+     <font color="red"></font>说明： 由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</font>
      <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0">报名表</a> 
  </div>
                         
