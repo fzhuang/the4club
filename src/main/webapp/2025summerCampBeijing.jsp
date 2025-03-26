@@ -103,6 +103,7 @@
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <span class="far fa-list-alt fa-3x" style="color: #323EDB;"></span>
+                    <span style="color:red">特别说明： <b>由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</b></span>
                     <h3><b>要求</b></h3>
                     <div class="text-muted">
 <div class="text-muted" style="font-size: 18px;">
@@ -140,7 +141,7 @@
 
  <div class="text-muted" style="font-size: 18px;">
            有兴趣的家长(非华裔)，请填写以下链接里的报名表。
-     <font color="red"></font>说明： 由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</font>
+     <span style="color:red">特别说明： <b>由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</b></span>
      <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0">报名表</a> 
  </div>
                         
