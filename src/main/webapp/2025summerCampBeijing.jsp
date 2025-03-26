@@ -142,7 +142,7 @@
  <div class="text-muted" style="font-size: 18px;">
            有兴趣的家长(非华裔)，请填写以下链接里的报名表。
      <span style="color:red">特别说明： <b>由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</b></span>
-     <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0">报名表</a> 
+     <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0?lang=en">报名表</a> 
  </div>
                         
                     </div>
@@ -403,7 +403,7 @@ A：石油大学这个夏令营会一直办下去，当然明年还会有其他�
                         <div class="carousel-caption-subtitle">
 加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">会员申请表</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0?lang=en">会员申请表</a> 
                     </div>
                 </div>
             </div>
