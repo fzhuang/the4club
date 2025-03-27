@@ -149,7 +149,7 @@
                 </div>
 
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                   <img style="max-width: 90%" src="2025SummerCampBeijing/top.jpg" /> 
+                   <img style="max-width: 90%" src="2025SummerCampBeijing/main.jpg" /> 
                 </div>            
             </div>          
         </div>
