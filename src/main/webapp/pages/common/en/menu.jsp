@@ -27,7 +27,7 @@
 						    <ul class="sub-menu-list">
 						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年暑假北京夏令营</a>
+									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025 Summer Beijing Camp</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025chengduAction.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年成都游学十日</a>
