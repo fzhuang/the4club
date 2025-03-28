@@ -91,12 +91,10 @@
 				        </div>
 				     </div>
                 </li> 
-                
-                <!--     
+  
                 <li><a data-pages="organization" href="/organization">组织构建</a></li>
                 
                 <li><a data-pages="organization" href="/organization">相关链接</a></li>
-                -->  
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
