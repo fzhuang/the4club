@@ -248,7 +248,6 @@
             <div>
                  <span style="color: #323edb; font-size: 18px;">文|郑生 岁月如歌-成都游学十日 2025年3月6日 15:30</span>&nbsp;
             </div>
-            <div><h1><b>Day 1</b></h1></div>
 
             <div class="text-muted" style="font-size: 20px;margin-top: 10px;">
 春风渐渐近了。我们一行12人辞别白雪皑皑的渥太华，经过三十多个小时奔波来到春暖花开的锦官城游学交流。四处绽放的海棠和玉兰花像接待学校师生家长的笑脸一样，灿烂和温暖着我们这些海外游子的心田。
