@@ -79,10 +79,10 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              2025年暑假汉语桥-北京夏令营
+                              2025 Summer Beijing Camp
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                             本次交流活动由加中文化教育交流中心组织。为促进华裔青少年对中国文化的了解，增强学校中文的动力和兴趣。我们为渥太华地区学习中文的学生精心策划了这次意义非凡的文化交流之旅。
+                             This cultural exchange event is organized by the Chinese Canadian Cross Culture Education Exchange Center. It is designed to promote Chinese-Canadian youth's understanding of Chinese culture and to enhance their motivation and interest in learning Chinese. We have thoughtfully planned this meaningful cultural exchange journey for students studying Chinese in the Ottawa area.
                         </div>
                     </div>
                 </div>
@@ -93,17 +93,40 @@
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">介绍</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">Introduce</span>&nbsp;
             </div>
         
-            <div><h2><b>2025年暑假汉语桥-北京夏令营火热报名中</b></h2></div>
+            <div><h2><b>2025 Summer Beijing Camp</b></h2></div>
             <div class="text-muted" style="font-size: 20px;">
-本活动由加拿大联邦政府注册的非营利机构加中文化教育交流中心（SYRG Chinese Canadian Cross Culture Club)与北京石油大学共同举办，同时得到国家汉办的大力支持。本夏令营以学习中文了解中国文化为目的，同时安排长城、故宫等北京市名胜古迹的游览以及相关单位如大港油田、中海油总部等的参观访问。所有学生在夏令营结束时均需参加HSK（汉语水平考试费用约$100），但是没有成绩要求。
+This event is jointly organized by the SYRG Chinese Canadian Cross Culture Club, a federally registered non-profit organization in Canada, and China University of Petroleum in Beijing, with strong support from the Chinese National Office for Teaching Chinese as a Foreign Language (Hanban).<br/><br/>
+The summer camp aims to help participants learn Chinese and gain an understanding of Chinese culture. It also includes visits to famous landmarks in Beijing such as the Great Wall and the Forbidden City, as well as tours of institutions like Dagang Oilfield and the headquarters of China National Offshore Oil Corporation (CNOOC).<br/><br/>
+All students are required to take the HSK (Chinese Proficiency Test) at the end of the camp (exam fee approximately $100), though there are no specific score requirements.
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <span class="far fa-list-alt fa-3x" style="color: #323EDB;"></span>
-                    <span style="color:red">特别说明： <b>由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</b></span>
+ <div class="text-muted" style="font-size: 18px;">
+<b>Schedule</b>: The summer camp has two tentative start dates:<br/>
+First session: June 29 – July 12<br/>
+Second session: July 26 – August 8<br/>
+Age Requirement: Students aged 14 to 30 (including university students)<br/><br/>
+
+<b>Cost:</b><br/>
+Airfare is not included (students traveling with the group can purchase tickets together).<br/>
+Independent Participants: Students can also travel to the university on their own and only pay a CAD $200 registration fee.<br/><br/>
+
+<b>Location:</b><br/>
+China University of Petroleum (Beijing)<br/>
+No. 18 Fuxue Road, Changping District, Beijing<br/><br/>
+
+<b>Registration Deadline:</b> April 10<br/>
+<b>Eligibility:</b> This summer camp is only open to non-Chinese citizens.<br/>
+<b>HSK Exam Requirement:</b><br/>
+All students must take the HSK (Chinese Proficiency Test) at the end of the camp (the fee is included). There is no minimum score requirement.  <br/>  <br/>        
+
+     <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0?lang=en">Registration Form</a> 
+ <hr/>  
+ <span class="far fa-list-alt fa-3x" style="color: #323EDB;"></span>
+                    <span style="color:red">特别说明： <b>由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</b></span>  
                     <h3><b>要求</b></h3>
                     <div class="text-muted">
 <div class="text-muted" style="font-size: 18px;">
@@ -114,13 +137,13 @@
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
-                     截止时间： 报名截止时间4月10日（以收到报名费时间为准。报名费及其他费用$500。）。
+                     截止时间： 报名截止时间4月10日。
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
 <b>报名费用：</b> <br/>
-随团： $500CAD  或者  自行前往学校夏令营：  $200CAD<br/>
-来回的机票费用自理（随团同行的学生统一购买机票）<br/>
+自行前往学校夏令营：  $200CAD<br/>
+来回的机票费用自理（同行的学生统一购买机票）<br/>
 中国签证费用自理
 </div>
 
@@ -138,11 +161,6 @@
 <b>其他：</b> <br/>
 加中文化教育交流中心对本活动有最终解释权
 </div>
-
- <div class="text-muted" style="font-size: 18px;">
-           有兴趣的家长(非华裔)，请填写以下链接里的报名表。
-     <span style="color:red">特别说明： <b>由于语合中心要求非华裔的学生要超过一定比例，现阶段我们只接受非华裔的报名,谢谢理解。</b></span>
-     <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_xAFa8H-i_F0?lang=en">报名表</a> 
  </div>
                         
                     </div>

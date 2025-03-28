@@ -41,16 +41,13 @@
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025年暑假汉语桥-北京夏令营</b></h1>
+	                <h1><b>2025 Summer Beijing Camp</b></h1>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 <div class="text-muted" style="font-size: 18px;">
-参与对象： 14岁以上非中国国籍的海外学生（含大学生）
-</div>
-<div class="text-muted" style="font-size: 18px;">
-                     时间：2025年7月
-</div>
-                   <div class="text-muted" style="font-size: 18px;">
-费用： 报名费、考试及其他管理费用500加币 + 机票费用自理
+<b>Schedule</b>: The summer camp has two tentative start dates:<br/>
+First session: June 29 – July 12<br/>
+Second session: July 26 – August 8<br/>
+Age Requirement: Students aged 14 to 30 (including university students)<br/><br/>
 </div>
        
 <div class="text-muted" style="font-size: 18px;">
@@ -65,7 +62,7 @@
 	                </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2025SummerCampBeijing/top.jpg" /> 
+	                <img style="max-width: 90%" src="2025SummerCampBeijing/main.jpg" /> 
 	            </div>
 	        </div>
 	        
