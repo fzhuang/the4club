@@ -64,15 +64,15 @@
 				     </div>
                 </li>      
                                      
-                <li><a data-pages="showRoom" href="yearSong.jsp">展览馆</a>
+                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="yearSong.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌</a>
+									<a href="showRoom-yearSong.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>加华艺术协会</a>
+									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>加华艺术协会</a>
 								</li>
 						
 				            </ul>

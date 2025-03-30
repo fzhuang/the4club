@@ -62,8 +62,8 @@ $(document).ready(function(){
 
     if (href.indexOf('/202') != -1) {
 		pageName = 'activities';
-	} else if (href.indexOf('/competition') != -1) {
-		pageName = 'competition';
+	} else if (href.indexOf('/showRoom') != -1) {
+		pageName = 'showRoom';
 	} else if (href.indexOf('/speech') != -1) {
 		pageName = 'speech';
 	} 
