@@ -82,7 +82,7 @@
                               2025 Summer Beijing Camp
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                             This cultural exchange event is organized by the Chinese Canadian Cross Culture Education Exchange Center. It is designed to promote Chinese-Canadian youth's understanding of Chinese culture and to enhance their motivation and interest in learning Chinese. We have thoughtfully planned this meaningful cultural exchange journey for students studying Chinese in the Ottawa area.
+                             This cultural exchange event is organized by the Chinese Canadian Cross Culture Education Exchange Center. It is designed to promote Chinese-Canadian youth's understanding of Chinese culture and to enhance their motivation and interest in learning Chinese.
                         </div>
                     </div>
                 </div>

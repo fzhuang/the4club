@@ -64,27 +64,15 @@
 				     </div>
                 </li>      
                                      
-                <li><a data-pages="showRoom" href="/showRoom">展览馆</a>
+                <li><a data-pages="showRoom" href="/yearSong.jsp">展览馆</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">岁月如歌</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>征文</a>
+									<a href="/yearSong.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>视频</a>
-								</li>
-								
-								<h3 class="sub-menu-list-title">加华艺术协会</h3>
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>书法</a>
-								</li>
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>绘画</a>
-								</li>
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="/enterpriseAI-solution"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>摄影</a>
+									<a href="/artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>加华艺术协会</a>
 								</li>
 						
 				            </ul>
