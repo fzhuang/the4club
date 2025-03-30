@@ -70,16 +70,10 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="speech-ai/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="speech-ai/bg.jpg" alt="online sheet">
+					    <source srcset="yearSong/main2.jpg" media="(max-width: 640px)">
+					    <img srcset="yearSong/main2.jpg" alt="year song">
 					</picture>
 					<div class="carousel-caption" >
-                        <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              岁月如歌
-                        </div>
-                        <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
- 《岁月如歌》文艺沙龙致力于推动和弘扬中国传统文化教育以及促进中加艺术交流与合作，为各年龄段的文艺爱好者创建一块属于自己的净土   
-                         </div>
                     </div>
                 </div>
             </div>
@@ -88,11 +82,8 @@
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">介绍</span>&nbsp;
-            </div>
         
-            <div><h2><b>岁月如歌</b></h2></div>
+            <div><h1><b>岁月如歌</b></h1></div>
             
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -113,40 +104,41 @@
         <hr>
     </section>
     
-    <section class="page-section" style="margin-top: 20px;">   
+    <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">更多</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">敬请观看</span>&nbsp;
             </div>
         
-            <div><h2><b>视频艺术</b></h2></div>
-            
-            <div><h2><b>文化长廊</b></h2></div>
-            
-            <div><h2><b>妙笔文章</b></h2></div>
-    
+            <div class="row" style="margin: 20px 0 10px 0;">             
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
+                    <a href="https://www.cubedrive.com/lite/app/form/7311882346859335680"><h3><b>视频艺术</b></h3></a>
+                    <div class="text-muted">
+                        岁月如歌的视频作品
+                    </div>
+                </div> 
+                           
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <span class="fas fa-search-location fa-4x" style="color: #F97664;"></span>
+                    <h3><b>文化长廊</b></h3>
+                    <div class="text-muted">
+                        岁月如歌活动中的文学，文化艺术作品
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <span class="fas fa-user-friends fa-4x" style="color: #F97664;"></span>
+                    <h3><b>妙笔文章</b></h3>
+                    <div class="text-muted">
+                        岁月如歌的妙笔文章
+	                </div>
+                </div>            
+            </div>          
         </div>
         <hr>
     </section>
     
-    <section>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img src="resource/images/bg2.png" alt="Contact us">
-                    <div class="carousel-caption">
-                        <div class="carousel-caption-title">
-                            加入我们-成为会员
-                        </div>
-                        <div class="carousel-caption-subtitle">
-加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
-                        </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">会员申请表</a> 
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>   
       
     <br/><br/><br/> 
    
