@@ -70,7 +70,7 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="yearSong/main2.jpg" media="(max-width: 640px)">
+					    <source srcset="yearSong/touch.jpg" media="(max-width: 640px)">
 					    <img srcset="yearSong/main2.jpg" alt="year song">
 					</picture>
 					<div class="carousel-caption" >
@@ -121,7 +121,7 @@
                            
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <span class="fas fa-search-location fa-4x" style="color: #F97664;"></span>
-                    <h3><b>文化长廊</b></h3>
+                    <a href="https://www.cubedrive.com/lite/app/form/fileId_-fbhIMxg9zs"><h3><b>文化长廊</b></h3></a>
                     <div class="text-muted">
                         岁月如歌活动中的文学，文化艺术作品
                     </div>
@@ -129,7 +129,7 @@
                 
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <span class="fas fa-user-friends fa-4x" style="color: #F97664;"></span>
-                    <h3><b>妙笔文章</b></h3>
+                    <a href="https://www.cubedrive.com/lite/app/form/7312262821989847040"><h3><b>妙笔文章</b></h3></a>
                     <div class="text-muted">
                         岁月如歌的妙笔文章
 	                </div>
