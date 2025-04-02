@@ -47,12 +47,12 @@
 <b>Schedule</b>: The summer camp has two tentative start dates:<br/>
 First session: June 29 – July 12<br/>
 Second session: July 26 – August 8<br/>
-Age Requirement: Students aged 14 to 30 (including university students)<br/><br/>
+<b>Age Requirement</b>: Students aged 14 to 30 (including university students)<br/>
 </div>
  <div class="text-muted" style="font-size: 18px;">
     <a class="btn btn-orange btn-lg" href="2025summerCampBeijing.jsp">More details</a> 
  </div>
-       
+ <br/>      
 <div class="text-muted" style="font-size: 18px;">
  活动内容： 本夏令营以学习中文了解中国文化为目的，同时安排长城、故宫等北京市名胜古迹的游览以及相关单位如大港油田、中海油总部等的参观访问。
  </div>
