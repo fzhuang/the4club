@@ -4,9 +4,11 @@
 <head>
 	<title>加中文化教育交流中心：2025汉语桥-北京夏令营</title>	
 	<meta name="title" content="加中文化教育交流中心"/>
+    <meta name="description" content="2025 Summer Beijing Camp"/>
+	
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
 	<meta property="og:title" content="加中文化教育交流中心：2025年暑假北京夏令营">
-	<meta property="og:description" content="2025春假赴中国成都学生交流团“的项目由加中文化教育交流中心与悠问教育联手举办">
+	<meta property="og:description" content="2025年暑假北京夏令营">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
 	<meta name="description" content="加中文化教育交流中心（SYRG CHINESE-CANADIAN CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
@@ -193,7 +195,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
   </thead>
   <tbody>
     <tr>
-      <td>第1天</td>
+      <td>Day 1</td>
       <td>08:00-11:30 AM</td>
       <td>抵达北京-接机、入住</td>
       <td>Arrival in Beijing - Airport pick-up, check-in</td>
@@ -205,7 +207,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Opening Ceremony, Campus Tour</td>
     </tr>
     <tr>
-      <td>第2天</td>
+      <td>Day 2</td>
       <td>10:00-11:00 AM</td>
       <td>课程：综合汉语</td>
       <td>Course: Comprehensive Chinese</td>
@@ -217,7 +219,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Campus Cultural Experience - Paper-cutting, Sichuan Opera Face Changing</td>
     </tr>
     <tr>
-      <td>第3天</td>
+      <td>Day 3</td>
       <td>09:00-10:45 AM</td>
       <td>课程：综合汉语</td>
       <td>Course: Comprehensive Chinese</td>
@@ -229,7 +231,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Campus Cultural Experience - Chinese Martial Arts</td>
     </tr>
     <tr>
-      <td>第4天</td>
+      <td>Day 4</td>
       <td>09:00-10:45 AM</td>
       <td>讲座-碳中和、气候变化与中国使命</td>
       <td>Lecture - Carbon Neutrality, Climate Change and China's Mission</td>
@@ -241,7 +243,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Cultural Experience - Forbidden City, Tiamen Square</td>
     </tr>
     <tr>
-      <td>第5天</td>
+      <td>Day 5</td>
       <td>08:30-11:30 AM</td>
       <td>文化体验-长城（居庸关）</td>
       <td>Cultural Experience - The Great Wall (Juyong Pass)</td>
@@ -253,7 +255,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Campus Key Laboratory Visit</td>
     </tr>
     <tr>
-      <td>第6天</td>
+      <td>Day 6</td>
       <td>09:00-10:45 AM</td>
       <td>讲座-寻找能源碳足迹（于楠）</td>
       <td>Lecture - Finding the Carbon Footprint of Energy (Speaker: Yu )</td>
@@ -265,7 +267,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Campus Cultural Experience - Robot Experience</td>
     </tr>
     <tr>
-      <td>第7天</td>
+      <td>Day 7</td>
       <td>09:00-11:30 AM</td>
       <td>能源教育：参访雄安新区</td>
       <td>Energy Education - Visit to Xiong'an New Area</td>
@@ -277,7 +279,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Daxing Hydrogen Energy Science and Technology Park</td>
     </tr>
     <tr>
-      <td>第8天</td>
+      <td>Day 8</td>
       <td>08:00-14:00 PM</td>
       <td>讲座-新型人工智能和大语言模型助力能源领域分子设计、技术开发和工程放大（周天航）</td>
       <td>Lecture - New Artificial Intelligence and Large Language Models Assisting Molecular Design, Technology Development and Engineering Scale-up in the Energy Field (Speaker: Zhou Tianhang)</td>
@@ -289,7 +291,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Iron-Chromium Flow Battery Laboratory (Speaker: Zhou Tianhang)</td>
     </tr>
     <tr>
-      <td>第9天</td>
+      <td>Day 9</td>
       <td>09:00-10:45 AM</td>
       <td>课程：综合汉语</td>
       <td>Course: Comprehensive Chinese</td>
@@ -301,7 +303,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Course: Comprehensive Chinese</td>
     </tr>
     <tr>
-      <td>第10天</td>
+      <td>Day 10</td>
       <td>09:00-10:45 AM</td>
       <td>大港油田实习</td>
       <td>Internship at Dagang Oilfield</td>
@@ -313,7 +315,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Internship at Dagang Oilfield</td>
     </tr>
     <tr>
-      <td>第11天</td>
+      <td>Day 11</td>
       <td>09:00-10:45 AM</td>
       <td>参访中海油公司</td>
       <td>Visit to CNOOC Company</td>
@@ -325,7 +327,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Visit to CNPC Company</td>
     </tr>
     <tr>
-      <td>第12天</td>
+      <td>Day 12</td>
       <td>09:00-10:45 AM</td>
       <td>课程：综合汉语</td>
       <td>Course: Comprehensive Chinese</td>
@@ -337,7 +339,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Course: Comprehensive Chinese</td>
     </tr>
     <tr>
-      <td>第13天</td>
+      <td>Day 13</td>
       <td>09:00-10:45 AM</td>
       <td>结业考试</td>
       <td>Final Exam</td>
@@ -349,7 +351,7 @@ All students must take the HSK (Chinese Proficiency Test) at the end of the camp
       <td>Closing Ceremony (Awarding of Certificates + Exchange between Chinese and Foreign Students)</td>
     </tr>
     <tr>
-      <td>第14天</td>
+      <td>Day 14</td>
       <td>09:00-10:45 AM</td>
       <td>送机</td>
       <td>Airport Drop-off</td>

@@ -49,16 +49,14 @@ First session: June 29 – July 12<br/>
 Second session: July 26 – August 8<br/>
 Age Requirement: Students aged 14 to 30 (including university students)<br/><br/>
 </div>
+ <div class="text-muted" style="font-size: 18px;">
+    <a class="btn btn-orange btn-lg" href="2025summerCampBeijing.jsp">More details</a> 
+ </div>
        
 <div class="text-muted" style="font-size: 18px;">
  活动内容： 本夏令营以学习中文了解中国文化为目的，同时安排长城、故宫等北京市名胜古迹的游览以及相关单位如大港油田、中海油总部等的参观访问。
  </div>
- <div class="text-muted" style="font-size: 18px;">
- 2025年暑假北京夏令营项目由加中文化教育交流中心主办。
- </div>
- <div class="text-muted" style="font-size: 18px;">
-     点击下面按钮查看更多信息。<a class="btn btn-orange btn-lg" href="2025summerCampBeijing.jsp">具体信息</a> 
- </div>
+
 	                </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
