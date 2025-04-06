@@ -99,7 +99,7 @@ We invite you to read each poem and rate them based on the official scoring crit
 
 					<h3><b>How to Vote</b></h3>
 					<div class="text-muted">
-						<div class="text-muted" style="font-size: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
 Content and Theme (30 points)<br/>
 – Is the theme clear, meaningful, and thought-provoking?<br/><br/>
 
