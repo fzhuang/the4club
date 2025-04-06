@@ -106,7 +106,8 @@
 			            <b>Location (on site)</b>: <br/>1390 Prince of Wales Dr, Suite 304, Ottawa ON K2C 3N6<br/><br/>
 			            <b>VooV online meeting (online)</b>: <br/>
 			                Click the link to join the meeting:<br/>
-                            <a href="https://voovmeeting.com/dm/GMNSBy0UbmBM">https://voovmeeting.com/dm/GMNSBy0UbmBM</a>
+                            <a href="https://us06web.zoom.us/j/3074370267?pwd=hh9pLrq5H0c5NLqBFiUfs25QADa99m.1&omn=81308227019">Zoom meeting</a>
+                            <br/>Passcode: um101g
 			        </div>
 			    </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">
