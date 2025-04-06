@@ -104,7 +104,7 @@
 			        <div class="text-muted" style="font-size: 20px;">
 			            <b>Time</b>: <br/>April 6th: 6:40pm - 7:30pm (EST Toronto)<br/><br/>
 			            <b>Location (on site)</b>: <br/>1390 Prince of Wales Dr, Suite 304, Ottawa ON K2C 3N6<br/><br/>
-			            <b>VooV online meeting (online)</b>: <br/>
+			            <b>Zoom meeting (online)</b>: <br/>
 			                Click the link to join the meeting:<br/>
                             <a href="https://us06web.zoom.us/j/3074370267?pwd=hh9pLrq5H0c5NLqBFiUfs25QADa99m.1&omn=81308227019">Zoom meeting</a>
                             <br/>Passcode: um101g
