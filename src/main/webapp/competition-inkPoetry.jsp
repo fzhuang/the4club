@@ -3,8 +3,8 @@
 
 <head>
 	<title>Ink Poetry Awards</title>	
-	<meta name="title" content="加中文化教育交流中心"/>
-	<meta name="description" content="加中文化教育交流中心（SYRG CHINESE-CANADIAN CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
+	<meta name="title" content="Ink Poetry Awards"/>
+	<meta name="description" content="Ink Poetry Awards"/>
 	<link rel="canonical" href="https://the4cclub.ca"/>
 	<link rel="shortcut icon" type="image/x-icon" href="/resource/images/favicon.ico">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
@@ -81,6 +81,57 @@ Welcome to the 2025 Ink Poetry Awards, an exciting opportunity for Canadian poet
             </div>
         </div>
     </section>
+    
+     <section class="page-section" style="margin-top: 20px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">Vote</span>&nbsp;
+            </div>
+        
+            <div><h2><b>Ink Poetry Awards – Public Voting Now Open!</b></h2></div>
+            <div class="text-muted" style="font-size: 20px;">
+We are excited to announce that a list of outstanding poems were submitted to the Ink Poetry Awards. After a careful selection process, 18 finalist poems have been chosen. Now it's your turn to be part of the judging process!
+<br/><br/>
+We invite you to read each poem and rate them based on the official scoring criteria. Your votes will help determine the winners!
+            </div>
+            <div class="row" style="margin: 20px 0 10px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+
+					<h3><b>How to Vote</b></h3>
+					<div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+Content and Theme (30 points)<br/>
+– Is the theme clear, meaningful, and thought-provoking?<br/><br/>
+
+Language and Rhetoric (25 points)<br/>
+– Is the poem rich in poetic language, rhythm, and rhetorical beauty?<br/><br/>
+
+Creativity and Originality (20 points)<br/>
+– Is the subject fresh? Does it show a unique perspective and imagination?<br/><br/>
+
+Form and Structure (10 points)<br/>
+– Does the poem follow a poetic form appropriately (modern, classical, or free verse)?<br/><br/>
+
+Emotional Impact and Resonance (15 points)<br/>
+– Does the poem move you emotionally or leave you with something to reflect on?<br/>
+						</div>                       
+                    </div>
+                    
+                </div>  
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                     <h3><b>Submit Your Votes Here:</b></h3>
+					 <div class="text-muted" style="font-size: 20px;">
+					    <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_rgoZGsyI1Ws?lang=en">Click to Vote Now</a> 
+					 </div>
+					 <h3>Voting Deadline: April 15, 2025</h3>
+                </div>            
+            </div>
+            <div class="text-muted" style="font-size: 20px;">
+                We truly appreciate your participation. Let your voice be heard in celebrating the beauty of poetry!
+            </div>          
+        </div>
+        <hr>
+    </section>   
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
