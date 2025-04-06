@@ -37,7 +37,7 @@
     <section class="page-section" style="margin-top: 60px">
         <div class="container"> 
             <div>
-	            <span style="color: #323edb; font-size: 18px;">目前主要活动</span>&nbsp;
+	            <span style="color: #323edb; font-size: 18px;">Currently main activity</span>&nbsp;
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
@@ -54,7 +54,7 @@ Second session: July 26 – August 8<br/>
  </div>
  <br/>      
 <div class="text-muted" style="font-size: 18px;">
- 活动内容： 本夏令营以学习中文了解中国文化为目的，同时安排长城、故宫等北京市名胜古迹的游览以及相关单位如大港油田、中海油总部等的参观访问。
+The summer camp aims to help participants learn Chinese and gain an understanding of Chinese culture. It also includes visits to famous landmarks in Beijing such as the Great Wall and the Forbidden City, as well as tours of institutions like Dagang Oilfield and the headquarters of China National Offshore Oil Corporation (CNOOC).
  </div>
 
 	                </div>

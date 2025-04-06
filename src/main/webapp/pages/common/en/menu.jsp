@@ -19,9 +19,9 @@
         </div>
         <nav id="mainMenu" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a data-pages="index" href="index.jsp">主页</a></li>
+                <li><a data-pages="index" href="index.jsp">Home</a></li>
                 
-                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">活动与项目</a>
+                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">活动/Activities</a>
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
@@ -64,7 +64,7 @@
 				     </div>
                 </li>      
                                      
-                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆</a>
+                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆/Show room</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
@@ -80,7 +80,7 @@
 				     </div>
                 </li> 
   
-                <li><a data-pages="organization" href="/organization">相关链接</a></li>
+                <li><a data-pages="organization" href="/organization">相关链接/Link</a></li>
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
