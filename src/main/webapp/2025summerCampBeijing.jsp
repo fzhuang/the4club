@@ -95,6 +95,31 @@
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
+                 <span style="color: #323edb; font-size: 18px;">Briefing Session</span>&nbsp;
+            </div>
+
+	        <div><h2><b>2025 Chinese Bridge - Summer Camp in China</b></h2></div> 
+	        <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-6 col-xs-12">
+			        <div class="text-muted" style="font-size: 20px;">
+			            <b>Time</b>: <br/>April 6th: 6:40pm - 7:30pm<br/><br/>
+			            <b>Location (on site)</b>: <br/>1390 Prince of Wales Dr, Suite 304, Ottawa ON K2C 3N6<br/><br/>
+			            <b>VooV online meeting (online)</b>: <br/>
+			                Click the link to join the meeting:<br/>
+                            <a href="https://voovmeeting.com/dm/GMNSBy0UbmBM">https://voovmeeting.com/dm/GMNSBy0UbmBM</a>
+			        </div>
+			    </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">
+	                  <img style="max-width: 90%" src="2025SummerCampBeijing/meeting.jpg" /> 
+	            </div>   
+	        </div>
+	    </div>
+        <hr>
+    </section>      
+    
+    <section class="page-section" style="margin-top: 20px;">   
+        <div class="container">
+            <div>
                  <span style="color: #323edb; font-size: 18px;">Introduce</span>&nbsp;
             </div>
         
