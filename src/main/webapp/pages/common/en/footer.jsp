@@ -16,7 +16,7 @@
                 <ul class="footer-menu footer-menu-has-icon">
                     <li>加中文化教育交流中心</li>
                     <li><i class="far fa-address-card" style="margin-right: 10px;"></i><br/>
-                        Ottawa, Ontario, Canada K1V 1C1
+                        1390 Prince of Wales Dr, Suite 304, Ottawa ON K2C 3N6
                     </li>
                     <li><i class="far fa-envelope" style="margin-right: 10px;"></i>syrg4cclub@gmail.com</li>
                 </ul>
