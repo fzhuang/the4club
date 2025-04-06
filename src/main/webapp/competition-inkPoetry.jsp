@@ -4,7 +4,8 @@
 <head>
 	<title>Ink Poetry Awards</title>	
 	<meta name="title" content="Ink Poetry Awards"/>
-	<meta name="description" content="Ink Poetry Awards"/>
+	<meta name="description" content="Welcome to the 2025 Ink Poetry Awards, an exciting opportunity for Canadian poets to share their creative voices."/>
+		
 	<link rel="canonical" href="https://the4cclub.ca"/>
 	<link rel="shortcut icon" type="image/x-icon" href="/resource/images/favicon.ico">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
