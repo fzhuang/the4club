@@ -124,7 +124,7 @@ Emotional Impact and Resonance (15 points)<br/>
 					 <div class="text-muted" style="font-size: 20px;">
 					    <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_rgoZGsyI1Ws?lang=en">Click to Vote Now</a> 
 					 </div>
-					 <h3>Voting Deadline: April 15, 2025</h3>
+					 <h3>Voting Deadline: April 11, 2025</h3>
                 </div>            
             </div>
             <div class="text-muted" style="font-size: 20px;">
