@@ -80,7 +80,18 @@
 				     </div>
                 </li> 
   
-                <li><a data-pages="organization" href="/organization">相关链接/Link</a></li>
+                <li><a data-pages="aboutUs" href="joinUs.jsp">关于我们/About Us</a>
+                     <div class="sub-menu-small">
+						<div class="sub-menu-small-container">
+						    <ul class="sub-menu-list">
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
+									<a href="joinUs.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>加入我们</a>
+								</li>
+						
+				            </ul>
+				        </div>
+				     </div>
+                </li>
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
