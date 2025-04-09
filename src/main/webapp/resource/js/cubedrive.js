@@ -60,12 +60,12 @@ $(document).ready(function(){
     var href = location.href, pageName = "index", pathname = location.pathname;
     var menuItems = $("#mainMenu a"),menuItem,containPages;
 
-    if (href.indexOf('/202') != -1) {
+    if (href.indexOf('/202') != -1 || href.indexOf('/competition') != -1) {
 		pageName = 'activities';
-	} else if (href.indexOf('/showRoom') != -1) {
+	} else if (href.indexOf('/showRoom') != -1 ) {
 		pageName = 'showRoom';
-	} else if (href.indexOf('/speech') != -1) {
-		pageName = 'speech';
+	} else if (href.indexOf('/joinUs') != -1) {
+		pageName = 'aboutUs';
 	} 
 
     for(var i = 0, len = menuItems.length; i<len; i++){
