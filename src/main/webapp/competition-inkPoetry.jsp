@@ -3,7 +3,7 @@
 
 <head>
 	<title>Ink Poetry Awards</title>	
-	<meta name="title" content="Ink Poetry Awards"/>
+	<meta name="title" content="Ink Poetry Awards Competition"/>
 	<meta name="description" content="Welcome to the 2025 Ink Poetry Awards, an exciting opportunity for Canadian poets to share their creative voices."/>
 		
 	<link rel="canonical" href="https://the4cclub.ca"/>
@@ -49,6 +49,41 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
 	
+   <style>
+    .poem-container {
+      font-family: 'Dancing Script', cursive, "Garamond", "Palatino Linotype", "Times New Roman", serif;
+      max-width: 700px;
+      margin: 40px 0;
+      background-color: #fdfaf6;
+      padding: 15px;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #333;
+      border-left: 5px solid #aaa;
+      font-style: italic;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+
+    .poem-title {
+      text-align: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .poem-author {
+      text-align: center;
+      font-size: 1rem;
+      margin-bottom: 30px;
+      font-style: normal;
+      color: #777;
+    }
+
+    .poem-container p {
+      margin-bottom: 1.2em;
+    }
+  </style>
+	
 	<script src="resource/js/jquery.min.js"></script>
 	<script src="resource/bootstrap/js/bootstrap.min.js"></script>
 	<script src="resource/js/cubedrive.js?v=1.12"></script>	
@@ -83,7 +118,80 @@ Welcome to the 2025 Ink Poetry Awards, an exciting opportunity for Canadian poet
         </div>
     </section>
     
-     <section class="page-section" style="margin-top: 20px;">   
+    <section class="page-section" style="margin-top: 20px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">Ceremony</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 20px 0 10px 0;">              
+					<div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+Dear Contestants,<br/><br/>
+We are thrilled to invite you to the Ink Poetry Award Ceremony, where we will celebrate the creativity and talent of all our participants. We have been truly inspired by the exceptional work submitted for this year's competition, and we would love to honor you for your dedication and effort.
+<br/><br/>
+Event Details: 
+<br/><br/>
+<b>Date: April 23rd, 2025<br/>
+Time: 7:00 - 8:30pm <br/>
+Location: 400 Cooper St #2000, Ottawa, ON, K2P2H8</b><br/>
+<br/>
+The ceremony will feature an exciting lineup of readings, awards, and performances, as well as an opportunity to connect with fellow poets, literary enthusiasts, and supporters of the arts. It will be an evening to celebrate your achievements and the power of poetry in all its forms.
+<br/><br/>
+Winners will be announced before this coming Monday, and we will make sure to share the exciting news with you as soon as possible.  
+<br/><br/>
+Please RSVP to confirm your attendance. If you have any dietary restrictions or specific needs, feel free to include them in your response, and we will do our best to accommodate them.
+<br/><br/>
+We look forward to celebrating this memorable occasion with you and hope you can join us for a night of inspiration and creativity.
+<br/><br/>
+Warm regards,<br/>
+The Ink Poetry Award Team
+						</div>                       
+                    </div>       
+            </div>       
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 5px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">Poem from Founder</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 15px 0 10px 0;">              
+                <h3><b>What Seasons</b> (Author：  April Zhang）</h3>
+                <div class="col-md-8 col-sm-12 col-xs-12">                   
+                     <div class="poem-container">
+The leaves that grow from the branches are green as the warm rays shine through.<br/>
+I sit on the front of the porch, blue skies scattered with white birds, they tweet and the insects chirp. <br/>
+I am in a children's book filled with pastels and soft dreams, I am the colour of cotton candy lavender and honeyed yellows.  <br/>
+Warmth pools around me, I am melting into the chair of the front porch, my nose is stuffed full. <br/>
+I wait.  <br/>
+The leaves that bloom from the branches are a shocking green, adorned with purples, blues, and oranges. <br/>
+Heat presses down like an iron weight, my lungs suffocate and my brain oozes from my ears.  <br/>
+My cells evaporate, withering to mist as I sit on that front porch, today I am the colour of magenta, <br/>
+watching, waiting for the next page.  <br/>
+The leaves from the branch turn a red and brown, they dance in the air and dramatically fall to the ground.  <br/>
+Grass turns to the colour of death, bugs make nests in the hollows of my ribs, sleeping and waiting for the next flip of the book. <br/>
+I sit and sit and sit, waiting, watching my face turn to lines, my bones losing intensity, my heart slowing. <br/> 
+I am grey and rotting from the inside.<br/>  
+The leaves do not grow from the branches and I still.  <br/>
+Whiteness covers my surroundings, I am coloured blue and black, my skin tears apart. <br/>
+I sit on that porch, watching, waiting, expecting.  <br/>
+Today I am old.  <br/>
+Today I regret. 
+                     </div>					 
+                </div>
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <img style="width: 100%;" src="competition-inkPoetry/poem.png" />  
+                </div>            
+            </div>       
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
                  <span style="color: #323edb; font-size: 18px;">Vote</span>&nbsp;
