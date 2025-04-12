@@ -53,7 +53,7 @@
     .poem-container {
       font-family: 'Dancing Script', cursive, "Garamond", "Palatino Linotype", "Times New Roman", serif;
       max-width: 700px;
-      margin: 40px 0;
+      margin: 10px 0 20px 0;
       background-color: #fdfaf6;
       padding: 15px;
       font-size: 16px;
@@ -121,7 +121,137 @@ Welcome to the 2025 Ink Poetry Awards, an exciting opportunity for Canadian poet
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">Ceremony</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">Poem from Founder</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 15px 0 10px 0;">              
+                <h3><b>What Seasons</b></h3>
+                <div class="text-muted" style="font-size: 20px;">
+                     Author: April Zhang, founder of Ink Poetry.
+                </div>
+                <div class="col-md-8 col-sm-12 col-xs-12">                   
+                     <div class="poem-container">
+The leaves that grow from the branches are green as the warm rays shine through.<br/>
+I sit on the front of the porch, blue skies scattered with white birds, they tweet and the insects chirp. <br/>
+I am in a children's book filled with pastels and soft dreams, I am the colour of cotton candy lavender and honeyed yellows.  <br/>
+Warmth pools around me, I am melting into the chair of the front porch, my nose is stuffed full. <br/>
+I wait.  <br/>
+The leaves that bloom from the branches are a shocking green, adorned with purples, blues, and oranges. <br/>
+Heat presses down like an iron weight, my lungs suffocate and my brain oozes from my ears.  <br/>
+My cells evaporate, withering to mist as I sit on that front porch, today I am the colour of magenta, <br/>
+watching, waiting for the next page.  <br/>
+The leaves from the branch turn a red and brown, they dance in the air and dramatically fall to the ground.  <br/>
+Grass turns to the colour of death, bugs make nests in the hollows of my ribs, sleeping and waiting for the next flip of the book. <br/>
+I sit and sit and sit, waiting, watching my face turn to lines, my bones losing intensity, my heart slowing. <br/> 
+I am grey and rotting from the inside.<br/>  
+The leaves do not grow from the branches and I still.  <br/>
+Whiteness covers my surroundings, I am coloured blue and black, my skin tears apart. <br/>
+I sit on that porch, watching, waiting, expecting.  <br/>
+Today I am old.  <br/>
+Today I regret. 
+                     </div>					 
+                </div>
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <img style="width: 100%;" src="competition-inkPoetry/poem.png" />  
+                </div>            
+            </div>       
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 15px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">Poem from Organization</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 15px 0 10px 0;">              
+                <h3><b>水墨之歌 / Song of the Ink poetry</b></h3>
+                <div class="text-muted" style="font-size: 20px;">
+                     Author: Xiang Zhengsheng, a language teacher, and a  poet with love of life. 
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">                   
+                     <div class="poem-container">
+水与墨交织着<br/>
+绘出春天的色彩 <br/>
+在残雪即将融化的时候 <br/>
+化作寒风中绽放的玉兰 <br/>
+柳丝轻柔 <br/>
+拂起那一头秀发 <br/>
+似一幅美丽的画卷 <br/>
+小草绿了 <br/>
+破土而出的一朵朵小花 <br/>
+在春风里一起灿烂 <br/>
+从此 <br/>
+大地不再单调 <br/>
+在萌动中孕育着生机盎然 <br/>
+水与墨交织 <br/>
+如心香一片 <br/>
+细雨如丝 <br/>
+诉说心中的思念 <br/>
+宛如归来的飞燕 <br/>
+对你轻轻呢喃 <br/>
+月夜如醉 <br/>
+星空点点 <br/>
+灵魂穿越时空 <br/>
+与苍穹对话 <br/>
+在云河流连 <br/>
+青春是生命的斑斓 <br/>
+这里是放飞的起点 <br/>
+水与墨交织 <br/>
+奏响新的乐章 <br/>
+留下一首首灵动的诗歌 <br/>
+汇入岁月的长河 <br/>
+撒下五彩的花瓣
+                     </div>					 
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                     <div class="poem-container">
+Ink interweave<br/> 
+Draw the colors of spring <br/>
+When the remaining snow <br/> 
+is about to melt <br/>
+It turns into a magnolia blooming in the cold wind <br/>
+Willow branches are gentle <br/>
+Blowing up the hair <br/>
+Like a beautiful painting <br/>
+The grass is green <br/>
+The flowers that break through the ground <br/>
+Bloom together  <br/>
+in the spring breeze <br/>
+From then on <br/>
+The earth is no longer monotonous <br/>
+It is full of vitality in the budding <br/>
+Ink interweave <br/>
+Like a piece of heart fragrance <br/>
+The drizzle is like silk <br/>
+Telling the longing in the heart <br/>
+Like a returning swallow <br/>
+Whispering to you softly <br/>
+The moonlit night is like a drunkenness <br/>
+The starry sky is dotted <br/>
+The soul travels  <br/>
+through time and space <br/>
+Talks with the sky <br/>
+Flowing in the clouds and rivers <br/>
+Youth is the splendor of life <br/>
+This is the starting point of flying<br/> 
+Ink interweave <br/>
+Play a new movement <br/>
+Leave behind a piece of lively poetry <br/>
+Merge into the long river of time <br/>
+Sprinkle colorful petals 
+                     </div>	
+                </div>            
+            </div>       
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">Stage 3: Invitation to Ceremony</span>&nbsp;
             </div>
         
             <div class="row" style="margin: 20px 0 10px 0;">              
@@ -153,48 +283,10 @@ The Ink Poetry Award Team
         <hr>
     </section>
     
-    <section class="page-section" style="margin-top: 5px;">   
+    <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">Poem from Founder</span>&nbsp;
-            </div>
-        
-            <div class="row" style="margin: 15px 0 10px 0;">              
-                <h3><b>What Seasons</b> (Author：  April Zhang）</h3>
-                <div class="col-md-8 col-sm-12 col-xs-12">                   
-                     <div class="poem-container">
-The leaves that grow from the branches are green as the warm rays shine through.<br/>
-I sit on the front of the porch, blue skies scattered with white birds, they tweet and the insects chirp. <br/>
-I am in a children's book filled with pastels and soft dreams, I am the colour of cotton candy lavender and honeyed yellows.  <br/>
-Warmth pools around me, I am melting into the chair of the front porch, my nose is stuffed full. <br/>
-I wait.  <br/>
-The leaves that bloom from the branches are a shocking green, adorned with purples, blues, and oranges. <br/>
-Heat presses down like an iron weight, my lungs suffocate and my brain oozes from my ears.  <br/>
-My cells evaporate, withering to mist as I sit on that front porch, today I am the colour of magenta, <br/>
-watching, waiting for the next page.  <br/>
-The leaves from the branch turn a red and brown, they dance in the air and dramatically fall to the ground.  <br/>
-Grass turns to the colour of death, bugs make nests in the hollows of my ribs, sleeping and waiting for the next flip of the book. <br/>
-I sit and sit and sit, waiting, watching my face turn to lines, my bones losing intensity, my heart slowing. <br/> 
-I am grey and rotting from the inside.<br/>  
-The leaves do not grow from the branches and I still.  <br/>
-Whiteness covers my surroundings, I am coloured blue and black, my skin tears apart. <br/>
-I sit on that porch, watching, waiting, expecting.  <br/>
-Today I am old.  <br/>
-Today I regret. 
-                     </div>					 
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <img style="width: 100%;" src="competition-inkPoetry/poem.png" />  
-                </div>            
-            </div>       
-        </div>
-        <hr>
-    </section>
-    
-    <section class="page-section" style="margin-top: 20px;">   
-        <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">Vote</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">Stage 2: Vote</span>&nbsp;
             </div>
         
             <div><h2><b>Ink Poetry Awards – Public Voting Now Open!</b></h2></div>
@@ -242,10 +334,10 @@ Emotional Impact and Resonance (15 points)<br/>
         <hr>
     </section>   
     
-    <section class="page-section" style="margin-top: 20px;">   
+    <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">Celebrating Global Voices in Poetry</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">Stage 1: Celebrating Global Voices in Poetry</span>&nbsp;
             </div>
         
             <div><h2><b>Contest Information</b></h2></div>
