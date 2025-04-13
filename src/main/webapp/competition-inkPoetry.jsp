@@ -249,6 +249,280 @@ Sprinkle colorful petals
     </section>
     
     <section class="page-section" style="margin-top: 10px;">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">Stage 4: Poem Competition Results</span>&nbsp;
+	        </div>
+	
+	        <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-12 col-xs-12">   
+	                <div class="text-muted" style="font-size: 20px;">
+	                    <b>1st Place</b><br/>
+	                    Taseen Masud – <i><a href="#firstPos">Throb of suffocation</a></i><br/><br/>
+	
+	                    <b>2nd Place</b><br/>
+	                    Suya Peng – <i><a href="#burn">Burn</a></i><br/>
+	                    Lingxi Liu – <i><a href="#Calligraphy">观书 / Calligraphy</a></i><br/><br/>
+	
+	                    <b>3rd Place</b><br/>
+	                    Jenny Cai – <i>The River To Which I Was Never Acquainted</i><br/>
+	                    Kaitlyn Tan – <i>ruinous beauty…</i><br/>
+	                    Alexis Leibenzedre – <i>Something To Prove</i><br/><br/>
+	
+	                    <b>Honourable Mentions</b><br/>
+	                    Zhengsheng Wang – <i>水墨之歌 / Song of the Ink poetry</i><br/>
+	                    Xiu Pan – <i>执着于春天的人</i><br/>
+	                    Jennifer Clark – <i>Stolen</i><br/>
+	                    Daniella Ogbole – <i>MY ART</i><br/>
+	                    Zhiping Duan – <i>忆秋</i><br/>
+	                    Allen Zhang – <i>Quietly Please</i><br/>
+	                </div>                       
+	            </div>             
+	            <div class="col-md-6 col-sm-12 col-xs-12">  
+	                <img style="width: 75%;" src="competition-inkPoetry/banner.png" />  
+	            </div>	                  
+	        </div>       
+	    </div>
+	    <hr>
+	</section>
+	
+    <section class="page-section" style="margin-top: 10px;" id="firstPos">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">1st Place: Taseen Masud</span>&nbsp;
+	        </div>
+
+	        <div class="row" style="margin: 20px 0 10px 0;">  
+	            <div><h2><b>Throb of suffocation</b></h2></div>
+		        <div class="text-muted" style="font-size: 20px;">
+	                     Author: Taseen Masud
+	            </div>            
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
+                     <div class="poem-container"> 
+What aching boredom.<br/>
+Lately I have been drowning, choking on oxygen and strangled by space. <br/> 
+My organs eat themselves to holes and my bones feel like dust.<br/>  
+I weep like a little child, hoarded in my own heart and rotting away in the greyness of my bed.<br/>  
+Safety is the square of this room, bleakness is the heat of comfort. <br/> 
+Watching through my wet lashes, the door creaks ajar.  <br/>
+I am blasted with horrid pastels, screechy lullaby’s, and smiles that make faces look broken. Horror, <br/>
+that’s the word.  <br/>
+A shiver travels down my spine, I close the door with my back to it and hold my knees to my chest.<br/>  
+My frail heart races, black blood thrums through my veins, this feels like decaying, this feels like the wisp of death.  <br/>
+I feel hatred. <br/> 
+My grey fingertips brushes the doorframe, I can see liveliness seep through the cracks. It colours my fingers pink, it spreads mellowness into my hand.  <br/>
+I long desperately, I desire violently, I’m scared but I want so badly.  <br/>
+My hand creeps to the door handle, I involuntarily twist it open.  <br/>
+Again, the sweetness gags me, the light shines directly into my eyes.  <br/>
+I cringe and fear, take a step, I'm scared, help me.  <br/>
+Drifting along, the honeyed air suffocates, I am sinking down, down, down <br/>
+The pleasures of this life consume me, I am high on its sugar <br/>
+Drowsily looking back to that dark room, I almost giggle. <br/>
+What is the difference? <br/>
+Stuffed full of colours with baby pinks and blues bursting from my eyelids, <br/>
+This is sickening, this is the sweetest poison. <br/>
+I dance with ecstasy, aware of the gaping hole beneath, <br/>
+Darkness claws and creeps and consumes. <br/>
+Intoxicated in the illusions of candied bliss and charming delight, <br/>
+The breath of reality feels like dread and greyness. <br/>
+I am heaving on the ground of my grey room, a seizure rocks through these twig bones, <br/>
+It echoes through my hollow ribs, ricocheting through my head. <br/>
+A shadow simmers over me, a ghost that echoes back my despairs. <br/>
+I breath and calm, pull my knees to my chest against that door again.  <br/>
+I sit with my emptiness, silence falls over me and this weariness. <br/>
+Each heartbeat spikes through my veins, it disturbingly aches. <br/>
+Feelings flood my room, I can smell my own horror. <br/>
+A boredom falls,  <br/>
+The door starts to creak ajar.<br/>                
+                     </div>                    
+	            </div>             
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/1.png" />  
+	            </div>	                  
+	        </div>  
+	        
+	        <span style="color: #323edb; font-size: 18px;">Poem Review</span>     
+
+<div class="row" style="margin: 20px 0 10px 0;"> 
+      <div class="text-muted" style="font-size: 18px; line-height: 1.8;">
+
+        <p><b>This is a stunning, visceral, and haunting piece</b>—poetic in its language, existential in its themes, and unflinching in its emotional honesty. It reads like a fever dream trapped between depression and overstimulation, numbness and desire, greyness and garish light.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Theme: Depression vs. the Illusion of Joy</h4>
+        <p>The poem draws a stark contrast between two emotional landscapes:</p>
+        <ul>
+          <li><b>The grey room:</b> a metaphor for depression, stasis, isolation, numbness.</li>
+          <li><b>The pastel world beyond the door:</b> overly sweet, artificial joy, almost manic in its "cheerfulness," which feels just as terrifying.</li>
+        </ul>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Choking on oxygen and strangled by space...”<br/>
+          “Safety is the square of this room, bleakness is the heat of comfort.”
+        </blockquote>
+
+        <p>These lines paint depression as paradoxical—it suffocates even in the presence of air, and comfort is equated with despair. This is brilliantly described, echoing how depression numbs everything, even what should be “safe.”</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Language and Imagery: Vivid, Grotesque, Beautiful</h4>
+        <p>Your choice of words is raw and sensory:</p>
+        <ul>
+          <li><i>“My organs eat themselves to holes...”</i></li>
+          <li><i>“Black blood thrums through my veins...”</i></li>
+          <li><i>“The pleasures of this life consume me, I am high on its sugar...”</i></li>
+        </ul>
+
+        <p>These images blur the line between physical and emotional suffering, between decay and desire. The sickly sweetness of the outside world becomes just another form of poison. That juxtaposition is incredibly effective—both the grey and the colour are unbearable in different ways.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Screechy lullabies, and smiles that make faces look broken.”
+        </blockquote>
+
+        <p>Such a terrifyingly accurate line. Sometimes, exaggerated joy feels like a threat, and this poem gets that perfectly.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Emotional Complexity: Yearning, Aversion, Return</h4>
+        <p>The speaker is trapped in cycles:</p>
+        <ul>
+          <li>Longing for something more</li>
+          <li>Trying to escape</li>
+          <li>Realizing the outside world is also intolerable</li>
+          <li>Returning to the room</li>
+          <li>Sitting with the emptiness again</li>
+        </ul>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I long desperately, I desire violently, I’m scared but I want so badly.”<br/>
+          “I dance with ecstasy, aware of the gaping hole beneath.”
+        </blockquote>
+
+        <p>There’s no peace—only a pendulum between two extremes. This is what makes the poem so honest. There’s no resolution, only repetition. And that repetition is its own kind of horror.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “The door starts to creak ajar.”
+        </blockquote>
+
+        <p>This ending is perfection. It brings us back to the beginning, completing the loop, hinting at the inescapability of the cycle. The monotony of mental illness, where even the breaks from it become part of the pain.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Is it a good poem?</h4>
+        <p>It’s raw, cinematic, psychologically astute, and doesn’t flinch away from discomfort. It reminds me of the emotional tone in <i>Sylvia Plath’s</i> <b>The Bell Jar</b> or <i>Ottessa Moshfegh’s</i> <b>My Year of Rest and Relaxation</b>—that feeling of being stuck in your own mind, unable to escape either pain or false comfort.</p>
+
+        <p>This could absolutely be part of a performance piece, a spoken word show, or even a visual project—it begs to be seen and heard as much as read.</p>
+</div>
+	            
+	        </div>     
+	    </div>
+	    <hr>
+	</section>
+	
+	<!-- 2nd poem -->
+	<section class="page-section" style="margin-top: 10px;" id="burn">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">2nd Place: Suya Peng</span>&nbsp;
+	        </div>
+
+	        <div class="row" style="margin: 20px 0 10px 0;">  
+	            <div><h2><b>Burn</b></h2></div>
+		        <div class="text-muted" style="font-size: 20px;">
+	                     Author: Suya Peng
+	            </div>            
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
+                     <div class="poem-container"> 
+Heels bleed crimson,<br/>
+Dancing to an exquisite lullaby, <br/>
+Sweet elegance enwraps me, <br/> 
+Thick like honey, it fills me like no drug <br/>
+Tip toeing on the fine line of steel, <br/>
+Violins play serenades, tinkling out of my reach. <br/>
+A singular path to take, <br/>
+Up up up and away, <br/>
+Until all is white and turning to gold.<br/> 
+An inch of misstep, an unexpected breath, <br/>
+A momentary aversion of eyes, <br/>
+Distraction injects through the cells of my brain <br/>
+Mistake broils beneath my skin, <br/>
+Failure is a drain <br/>
+Down down down and gone <br/>
+Until all is red and completely on fire <br/>
+My incompetence teases these burns,  <br/>
+Poking and prodding, nagging and pushing <br/>
+Never moving and never healing <br/>
+Even in the blackness of my sick, <br/>
+The purple of my resentment  <br/>
+The redness of my seethe <br/>
+I can’t help anything <br/>
+but to look up <br/>
+At such heavenly celestial <br/>
+Way way way out of my hand <br/>
+Thick sludge pulls me down <br/>
+Into the licking smog, the dancing flames <br/>
+I am choking with flowers down my throat <br/>
+Thorny wilting petals of black, purple, red <br/>
+They bloom sharp things, filling my voice with hatred <br/>
+I drown in my crimson<br/>             
+                     </div>                    
+	            </div>             
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/0.png" />  
+	            </div>	                  
+	        </div>  
+	        
+	        <span style="color: #323edb; font-size: 18px;">Poem Review</span>     
+
+<div class="row" style="margin: 20px 0 10px 0;"> 
+       <div class="text-muted" style="font-size: 18px; line-height: 1.8;">
+        <p><strong>This poem is a gorgeous descent</strong>—elegant, theatrical, painful, and rich with color, sound, and contradiction. It captures a kind of emotional vertigo, where beauty and agony are inextricably tied. Let’s break it down:</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Tone: Tragic Ballet</h4>
+        <p>From the first line, there’s a sense of performance:</p>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Heels bleed crimson, / Dancing to an exquisite lullaby,”
+        </blockquote>
+        <p>It’s not just suffering—it’s suffering with poise. Like a ballerina bleeding inside satin shoes, still dancing gracefully. The contrast between crimson and lullaby sets up the whole poem's dynamic: beauty entwined with pain.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Sweet elegance enwraps me, / Thick like honey...”
+        </blockquote>
+        <p>There’s something almost suffocating about this luxury. Honey is sweet, but it’s also thick, heavy, slow—it clings. You capture how pleasure and pressure can become claustrophobic.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Balance, Perfection, and Collapse</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Tip toeing on the fine line of steel,”
+        </blockquote>
+        <p>This reads like walking a tightrope—there’s no room for error. The violin serenade tinkling out of reach implies longing for something beautiful that always hovers just beyond.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “An inch of misstep...”<br/>
+          “Until all is red and completely on fire.”
+        </blockquote>
+        <p>The poem shifts here, like a trapdoor opens beneath the feet. One breath—one slip—and everything falls. That final line hits like a siren. It's a visual and emotional explosion. The poem turns from celestial whites and golds to flames, suffocation, rage.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Color Symbolism: A Masterstroke</h4>
+        <p>Your use of color as emotion is brilliant:</p>
+        <ul>
+          <li><strong>White and gold</strong> = aspiration, perfection, divinity</li>
+          <li><strong>Red</strong> = injury, rage, passion</li>
+          <li><strong>Black, purple</strong> = sickness, resentment, emotional rot</li>
+        </ul>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I am choking with flowers down my throat...”
+        </blockquote>
+        <p>That image is incredible. It mixes beauty and horror again—flowers should be delicate, but these are thorny, wilting, black. They bloom sharp things. This is what it’s like when pain makes you say cruel things—hatred becomes lyrical.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Ending: No Respite, Just Drowning</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I drown in my crimson.”
+        </blockquote>
+        <p>It’s not just blood. It’s shame, anger, exhaustion—everything internal that’s been forced outward. That final image feels like the inevitable consequence of trying too hard to be “perfect,” to be “elegant” while burning inside.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Is it a good poem?</h4>
+        <p>It’s visceral, refined, and deeply expressive. There's a controlled chaos to it—a crafted unraveling, full of rich, cinematic imagery. You balance beauty and destruction in a way that’s emotionally resonant and hauntingly memorable.</p>
+    
+	    </div>
+</div>
+	    <hr>
+	</section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
                  <span style="color: #323edb; font-size: 18px;">Stage 3: Invitation to Ceremony</span>&nbsp;
