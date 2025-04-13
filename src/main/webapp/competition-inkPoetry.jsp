@@ -265,9 +265,9 @@ Sprinkle colorful petals
 	                    Lingxi Liu – <i><a href="#Calligraphy">观书 / Calligraphy</a></i><br/><br/>
 	
 	                    <b>3rd Place</b><br/>
-	                    Jenny Cai – <i>The River To Which I Was Never Acquainted</i><br/>
-	                    Kaitlyn Tan – <i>ruinous beauty…</i><br/>
-	                    Alexis Leibenzedre – <i>Something To Prove</i><br/><br/>
+	                    Jenny Cai – <i><a href="#theRiver">The River To Which I Was Never Acquainted</a></i><br/>
+	                    Kaitlyn Tan – <i><a href="#ruinous">Ruinous beauty…</a></i><br/>
+	                    Alexis Leibenzedre – <i><a href="#something">Something To Prove</a></i><br/><br/>
 	
 	                    <b>Honourable Mentions</b><br/>
 	                    Zhengsheng Wang – <i>水墨之歌 / Song of the Ink poetry</i><br/>
@@ -337,7 +337,7 @@ The door starts to creak ajar.<br/>
                      </div>                    
 	            </div>             
 	            <div class="col-md-4 col-sm-12 col-xs-12">  
-	                <img style="width: 100%;" src="competition-inkPoetry/1.png" />  
+	                <img style="width: 100%;" src="competition-inkPoetry/0.png" />  
 	            </div>	                  
 	        </div>  
 	        
@@ -461,7 +461,7 @@ I drown in my crimson<br/>
                      </div>                    
 	            </div>             
 	            <div class="col-md-4 col-sm-12 col-xs-12">  
-	                <img style="width: 100%;" src="competition-inkPoetry/0.png" />  
+	                <img style="width: 100%;" src="competition-inkPoetry/1.png" />  
 	            </div>	                  
 	        </div>  
 	        
@@ -596,6 +596,343 @@ Yet I’ll laugh at the vast sea; it’s just one wild night.<br/>
 
         <h4 style="color: #444; margin-top: 30px;">是一首好诗吗？</h4>
         <p>这首诗歌不仅在格律与意象上表现得成熟，更可贵的是，诗中有精神、有态度、有深意，是一首能“品”的诗，不止于表达，而是有所思、有所悟。</p>
+</div>
+
+	    <hr>
+	</section>
+	
+	<!-- 3nd poem 1 -->
+	<section class="page-section" style="margin-top: 10px;" id="theRiver">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">3rd Place: Jenny Cai</span>&nbsp;
+	        </div>
+
+	        <div class="row" style="margin: 20px 0 10px 0;">  
+	            <div><h2><b>The River To Which I Was Never Acquainted</b></h2></div>
+		        <div class="text-muted" style="font-size: 20px;">
+	                     Author: Jenny Cai
+	            </div>            
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
+                     <div class="poem-container"> 
+I wake up mid-sentence, <br/>
+Someone's voice fading before I catch its shape. <br/>
+When I realize, <br/>
+The air which I breathe is not mine. <br/>
+My preaching, unfamiliar. <br/>
+Names dissolve before they're spoken, <br/>
+Faces blurring faster than spilled ink, <br/>
+Memories stretched thin, <br/>
+Time pulling away,  <br/>
+Farther, <br/>
+For it fears stagnation, <br/>
+As one moment fears being more memorable than the last. <br/>
+Too many voices, all too reasonable, <br/>
+Each one alluring to me with a small truth, <br/>
+Pulling in selfish ways <br/>
+A chorus of whispers <br/>
+Too loud to ignore. <br/>
+They wail <br/>
+They all holler for justice, <br/>
+For dignity, <br/>
+For morality, <br/>
+All for their own values. <br/>
+And all came with their own bargain. <br/>
+We were never good at peeking around winding roads, <br/>
+But clearly did we see where our path cut off, <br/>
+Leaving a trail forever untread. <br/>
+The river knows itself, <br/>
+Knows its movements of fluidity, <br/>
+I am a passenger of said wonder, <br/>
+Carried through its waves, <br/>
+Yet less solid than the waters. <br/>
+Each ripple whispers of paths untaken, <br/>
+Of lives not yet lived, <br/>
+Of lives never to be lived. <br/>
+In its currents, <br/>
+A truth so sharp slashes through my mind; <br/>
+That not once, not even now, <br/>
+Had I ever been in harmony with my fate, <br/>
+For I live in time, and I live like time; <br/>
+Forever avoiding stagnation. <br/>
+Morals slip away, <br/>
+Dragged beneath the weight of shifting tides, <br/>
+Each voice more authoritative than the last... <br/>
+Until they, too, are drowned. <br/>
+The river still flows, <br/>
+But never in a finite moment did it hold its shape. <br/>
+And truth, <br/>
+Forever my grounding saviour, <br/>
+Like the river, <br/>
+Has become entirely unrecognizable to me.    <br/> 
+                     </div>                    
+	            </div>             
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/3.png" />  
+	            </div>	                  
+	        </div>  
+	        
+	        <span style="color: #323edb; font-size: 18px;">Poem Review</span>     
+
+<div class="row" style="margin: 20px 0 10px 0;"> 
+<p><strong>This poem is an exploration of identity, time, and the elusive nature of truth.</strong> It captures the experience of feeling disoriented and disconnected, all while weaving rich imagery and metaphorical depth.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Theme: Disconnection and Fluidity of Identity</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I wake up mid-sentence,”
+        </blockquote>
+        <p>This immediately sets a tone of confusion and interruption, suggesting that the speaker's narrative feels fragmented or incomplete. The feeling of waking up in the middle of a thought hints at a broader disorientation with life.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “The air which I breathe is not mine.”
+        </blockquote>
+        <p>This line deepens the sense of alienation, indicating that the speaker feels out of place even in their own body and surroundings.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Struggle with Memory and Recognition</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Names dissolve before they're spoken, / Faces blurring faster than spilled ink,”
+        </blockquote>
+        <p>These lines illustrate a struggle with memory and identity. The act of forgetting names and faces conveys a sense of loss and impermanence. There’s a vivid image of chaos, emphasizing how quickly things can slip away from our grasp.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Time and Its Relentlessness</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Time pulling away, / Farther, / For it fears stagnation.”
+        </blockquote>
+        <p>Time here is portrayed almost as a sentient force, moving away from the speaker as if to avoid being trapped in any moment. This resonates with the universal fear of stagnation—a fear that echoes through the poem.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Too many voices, all too reasonable,”
+        </blockquote>
+        <p>The speaker is surrounded by conflicting ideas, each one presenting a small truth. This resonates with the chaotic nature of modern existence, where countless opinions vie for attention, making it hard to discern one's own beliefs.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The Chorus of Voices</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “A chorus of whispers / Too loud to ignore.”
+        </blockquote>
+        <p>Here, the voices become a cacophony, each demanding recognition and action. The hollering for justice, dignity, morality showcases a tension between personal beliefs and societal pressures.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Path and Identity</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “We were never good at peeking around winding roads,”
+        </blockquote>
+        <p>This line speaks to the uncertainty of life choices and the difficulty of foreseeing consequences. The idea that the speaker sees a “trail forever untread” captures both the potential and regret of paths not taken.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The River Metaphor</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “The river knows itself, / Knows its movements of fluidity.”
+        </blockquote>
+        <p>Here, the river represents the constant flow of life and identity, emphasizing adaptability. The speaker feels like a “passenger”—suggesting a lack of control and the inevitability of being carried along by life’s currents.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Confronting Truth and Harmony</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “That not once, not even now, / Had I ever been in harmony with my fate.”
+        </blockquote>
+        <p>This realization brings forth a poignant reflection on the speaker's relationship with their destiny and existence. The struggle to maintain morals amid shifting tides is powerful, resonating with the complexity of personal ethics in an ever-changing world.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Conclusion: Truth and Recognition</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “Like the river, / Has become entirely unrecognizable to me.”
+        </blockquote>
+        <p>This closing emphasizes the transformation of truth, mirroring the fluidity of the river. The metaphor encapsulates the speaker’s disillusionment and highlights how both personal identity and universal truths can change dramatically over time.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Is it a good poem?</h4>
+        <p>The poem weaves a rich tapestry of emotions, imagery, and philosophical reflection. It addresses universal themes of identity, memory, and the search for meaning, making it deeply relatable and thought-provoking. The structure flows beautifully, mirroring the river’s movement, and the language is both lyrical and impactful.</p>
+
+</div>
+
+	    <hr>
+	</section>
+	
+    <!-- 3nd poem 2 -->
+	<section class="page-section" style="margin-top: 10px;" id="ruinous">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">3rd Place: Kaitlyn Tan</span>&nbsp;
+	        </div>
+
+	        <div class="row" style="margin: 20px 0 10px 0;">  
+	            <div><h2><b>Ruinous beauty…</b></h2></div>
+		        <div class="text-muted" style="font-size: 20px;">
+	                     Author: Kaitlyn Tan
+	            </div>            
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
+                     <div class="poem-container"> 
+You are born of seafoam and immortal flesh, carried through the waves and bare of cloth. Whispers grow and spread, from those of blood, ichor and the ones in between. You delight in them, drink in the sight and relish the attention.<br/>
+( What You do not tell them: You grow stronger. )<br/>
+You graze the sea, and it trembles. Loneliness coats the salt-filled aqua, and so it reaches and rises and thrashes. There is a part of You, just as lonely, and just as willing to swallow up the world in order to taste a respite.<br/>
+( It is a reminder. You were made to drown, but You survived nonetheless.)<br/>
+When You meet them, there is no fear, not in their eyes or their words. They do not quake nor cower. They only feel-- lust, jealousy, want, need. You smile, and it is a knife made to carve and mend, made to hurt and heal.<br/>
+( They do not care, do not notice, but You do not rage; it is alright. )<br/>
+When the rumors reach You, of plots and schemes, birthed from divinities wreathed in hearts unholy, the only thing that leaves You is a laugh. The sound is sharp. It burns, tears through everything with a merciless none could match.<br/>
+( It seems even the deathless can forget what You hold in Your hands. )<br/>
+You are named, goddess of love.<br/>
+( You whisper, and war.) <br/>
+I confirm I have read and agree to the above text<br/>
+                     </div>                    
+	            </div>             
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/4.png" />  
+	            </div>	                  
+	        </div>  
+	        
+	        <span style="color: #323edb; font-size: 18px;">Poem Review</span>     
+
+<div class="row" style="margin: 20px 0 10px 0;"> 
+        <p><strong>This poem is mythic, seductive, and dangerous in its beauty.</strong> With bold lyricism and restrained fury, it draws from divine archetypes and turns them inward—creating a voice that is both eternal and deeply personal. The tone is ethereal and fierce, channeling love not as softness but as power: commanding, elemental, and survival-born.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Theme: Divinity, Power, and Isolation</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “You are born of seafoam and immortal flesh…”
+        </blockquote>
+        <p>The poem begins with a rebirth from myth—an allusion to Aphrodite or Venus, yet reshaped through a lens of agency and force. The speaker is not an object of worship but a being aware of their power and how others perceive it. The whispers of others are not threats, but nourishment.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “(What You do not tell them: You grow stronger.)”
+        </blockquote>
+        <p>This parenthetical moment is stunning—it reveals the poem’s secret heart. Every gaze and rumor, every want cast upon the speaker, is fuel. There’s something predatory and transcendent in that transformation.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The Sea as Mirror</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “You graze the sea, and it trembles… There is a part of You, just as lonely…”
+        </blockquote>
+        <p>The sea is both setting and metaphor—wild, vast, aching. The speaker recognizes their own loneliness in it, their own hunger. The line between destruction and desire blurs here, reinforcing the poem’s central tension: the drive to be seen versus the cost of being known.</p>
+
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “(It is a reminder. You were made to drown, but You survived nonetheless.)”
+        </blockquote>
+        <p>This line cuts deep. It redefines divinity not as perfection, but as persistence. To survive what was meant to end you is, here, what makes one godlike.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The Mortal Gaze and the Smile as Weapon</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “You smile, and it is a knife made to carve and mend…”
+        </blockquote>
+        <p>The image of the smile is exquisite—cutting and healing at once. The poem dismantles the concept of passive femininity and reclaims the power in perception. The mortals see only what they want. The speaker, in contrast, sees everything.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Power, Rumor, and Ruin</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “The only thing that leaves You is a laugh. The sound is sharp…”
+        </blockquote>
+        <p>There is something both exhilarating and terrifying in this laugh. It’s the sound of someone who no longer seeks approval—only recognition of their force. The gods plot, but the speaker knows their strength. The laugh is not defiance—it is dominance.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The Final Transformation</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “You are named, goddess of love. (You whisper, and war.)”
+        </blockquote>
+        <p>This ending is brilliant. The title given to the speaker—goddess of love—is almost ironic. Because love here is not gentle; it is catalytic, violent, alchemical. One whisper incites battles. One breath remakes fate. It is the perfect closing—refusing to soften or explain, instead reminding us that power and love are often indistinguishable in their impact.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Is it a good poem?</h4>
+        <p>Yes. It’s bold, lyrical, and full of mythic resonance. The language is precise yet lush. The parentheticals act like inner divinations—truths the world isn’t ready to hear but which echo across the stanzas. It would translate beautifully to performance, visual art, or stage. This is poetry that does not ask for permission—it arrives, unforgettable and eternal.</p>
+
+</div>
+
+	    <hr>
+	</section>
+	
+	<!-- 3nd poem 3 -->
+	<section class="page-section" style="margin-top: 10px;" id="something">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">3rd Place: Alexis Leibenzedre</span>&nbsp;
+	        </div>
+
+	        <div class="row" style="margin: 20px 0 10px 0;">  
+	            <div><h2><b>Something To Prove</b></h2></div>
+		        <div class="text-muted" style="font-size: 20px;">
+	                     Author: Alexis Leibenzedre
+	            </div>            
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
+                     <div class="poem-container"> 
+I've been chasing something so far <br/>
+Trying to catch it dancing on bars <br/>
+Shameless gaze lingers so dirty <br/>
+Isn’t that what makes me worthy? <br/>
+She makes me nervous <br/>
+He makes me numb <br/>
+He grinds my teeth <br/>
+She fills my lungs <br/>
+He’ll size me up with hungry eyes <br/>
+She looks at me like the sun rise <br/>
+He’s just a line <br/>
+That won’t get me high enough <br/>
+She tastes like wine <br/>
+Straight from a coffee cup <br/>
+I’ve been waiting for someone like this <br/>
+She’s all I want but what am I to him? <br/>
+Tired apathy leaks from his mouth <br/>
+Her tongue is soft, her words pour out <br/>
+There’s so much left to unlearn <br/>
+‘Cause I thought love was something you should earn 
+She gives me her whole world <br/>
+He lends me his midnights <br/>
+I’m safe on her shoulder <br/>
+He won’t leave on the lights <br/>
+She’s weightless like water <br/>
+He’s heavy on my mind <br/>
+She knows without asking <br/>
+He wouldn’t guess I’ve cried <br/>
+I’m trying to love her, I know that he’s not right <br/>
+I know that she sees me, he’s just willingly blind <br/>
+I’m trying to love her <br/>
+I swear that I do <br/>
+I just need him to want me <br/>
+Like there’s something to prove<br/>
+                     </div>                    
+	            </div>             
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/5.png" />  
+	            </div>	                  
+	        </div>  
+	        
+	        <span style="color: #323edb; font-size: 18px;">Poem Review</span>     
+
+<div class="row" style="margin: 20px 0 10px 0;"> 
+ <p><strong>This poem is a raw and intimate confession of longing, confusion, and fractured desire.</strong> Its brilliance lies in its emotional immediacy—there’s no attempt to polish or obscure. Instead, it lays bare the speaker’s internal split between two gravitational forces: “she” and “he.” The result is a complex exploration of identity, worth, and the ache of unreciprocated attention.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Theme: Wanting and Withholding</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I've been chasing something so far / Trying to catch it dancing on bars”
+        </blockquote>
+        <p>These opening lines immediately establish pursuit—of pleasure, validation, or maybe self-definition. The image of “dancing on bars” is both vivid and symbolic, suggesting a fleeting, performative kind of connection. The speaker’s shame is entwined with worth: attention becomes currency, even when it feels “dirty.”</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Gendered Duality: She vs. He</h4>
+        <p>The alternating structure between “she” and “he” builds a compelling dualism:</p>
+        <ul>
+          <li>She is gentle, giving, intuitive.</li>
+          <li>He is withholding, toxic, yet magnetically present.</li>
+        </ul>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “She makes me nervous / He makes me numb”<br/>
+          “She tastes like wine / Straight from a coffee cup”
+        </blockquote>
+        <p>Each line compares the emotional nourishment of one with the emptiness of the other. There’s sensuality in both, but it’s only “she” who offers sustenance and understanding—while “he” offers only tension, imbalance, and unresolved craving.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Emotional Entanglement and Memory</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “There’s so much left to unlearn / ’Cause I thought love was something you should earn”
+        </blockquote>
+        <p>This is the emotional core of the poem. The speaker is unlearning a damaging belief system—that love is transactional, conditional, something to be proven or won. This single couplet transforms the poem from a love triangle into a meditation on self-worth and internalized shame.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The Push and Pull of Clarity</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “She gives me her whole world / He lends me his midnights”
+        </blockquote>
+        <p>“World” versus “midnights” is a masterstroke. One is expansive, warm, whole; the other is temporary, dark, and incomplete. The speaker knows the truth—knows who provides light and who withholds it—yet still struggles to let go of what they can’t quite have.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">The Ache of Unwanted Want</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I’m trying to love her, I know that he’s not right / I know that she sees me, he’s just willingly blind”
+        </blockquote>
+        <p>This couplet is devastating. It captures the paradox so many live with: choosing the person who gives everything is hard when your heart still aches for someone who sees you as disposable. The pain isn’t just being unseen—it’s being unable to stop wanting to be seen by someone who won’t.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Conclusion: A Wound Still Open</h4>
+        <blockquote style="margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; font-style: italic;">
+          “I just need him to want me / Like there’s something to prove”
+        </blockquote>
+        <p>The closing lines echo the poem’s beginning: the speaker still measuring worth through desire, still longing for the unattainable. It’s not a resolution—it’s a continuation. And that, perhaps, is what makes this poem so honest. The wound hasn’t healed, and the speaker isn’t pretending it has.</p>
+
+        <h4 style="color: #444; margin-top: 30px;">Is it a good poem?</h4>
+        <p>Absolutely. It is lyrical, emotionally vulnerable, and narratively sharp. The form mirrors the tug-of-war within the speaker, and the repetition of “she” and “he” adds rhythmic and thematic tension. It reads like a whispered confession and a slow unraveling. This is poetry that reflects the complicated mess of desire—and does so with heart, precision, and honesty.</p>
+
 </div>
 
 	    <hr>
@@ -830,7 +1167,7 @@ You may submit more than one poem. Click the following link to enter contest for
 <a href="https://pandavacations.ca/">Panda Vacations / 缤份假期</a><br/>
 BOMU Volleyball / 博木排球<br/>
 <a href="http://lovelyhomelandscaping.com/">Bella Ren / 住嫣地产经纪</a><br/>
-<a href="https://www.talentcolorart.com/">TALENTCOLOR ART / 天彩美木</a><br/>
+<a href="https://www.talentcolorart.com/">TALENTCOLOR ART / 天彩美术</a><br/>
 ​<a href="https://fengdance.ca/">FENG DANCE SCHOOL / 枫舞蹈学校</a><br/>
 Greatwall Custom Homes / 长城 建商<br/>
 <a href="https://crius.ca/">Gloria Yan / 保险持牌顾问</a><br/>
