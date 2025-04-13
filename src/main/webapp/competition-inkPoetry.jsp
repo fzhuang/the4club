@@ -521,6 +521,85 @@ I drown in my crimson<br/>
 </div>
 	    <hr>
 	</section>
+	
+	<!-- 2nd poem 2 -->
+	<section class="page-section" style="margin-top: 10px;" id="Calligraphy">   
+	    <div class="container">
+	        <div>
+	            <span style="color: #323edb; font-size: 18px;">2nd Place: Lingxi Liu</span>&nbsp;
+	        </div>
+
+	        <div class="row" style="margin: 20px 0 10px 0;">  
+	            <div><h2><b>观书 / Calligraphy</b></h2></div>
+		        <div class="text-muted" style="font-size: 20px;">
+	                     Author: Lingxi Liu
+	            </div>            
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
+                     <div class="poem-container"> 
+墨里魂游迷影动 <br/>
+怒涛飞处石山擎。 <br/>
+飞扬意气多威猛 <br/>
+只为人间意难平。 <br/>
+明月当空乾宇镜 <br/>
+孤舟沉涌夜惊情 <br/>
+乌云蔽日皆心性 <br/>
+笑傲沧浪舟自轻。 <br/>
+Calligraphy <br/>
+In ink, my soul drifts, where shadows entwine, <br/>
+Waves clash and roar, stone peaks align. <br/>
+With a spirit fierce, defiant and bold, <br/>
+I grapple with fate, refusing to fold. <br/>
+The moon hangs low, a mirror of dread, <br/>
+A lone boat sinks, but I forge ahead. <br/>
+Dark clouds may veil the flickering light, <br/>
+Yet I’ll laugh at the vast sea; it’s just one wild night.<br/>      
+                     </div>                    
+	            </div>             
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/2.png" />  
+	            </div>	                  
+	        </div>  
+	        
+	        <span style="color: #323edb; font-size: 18px;">Poem Review</span>     
+
+<div class="row" style="margin: 20px 0 10px 0;"> 
+<p><strong>这首诗写得非常有气势</strong>，具有古风诗词的意蕴与格局。整体风格雄浑激荡，意象辽阔，语言凝练，表现出诗人面对世事沧桑仍心志高远、傲然独立的精神风貌。</p>
+
+        <h4 style="color: #444; margin-top: 30px;">逐句品读</h4>
+
+        <p><strong>墨里魂游迷影动</strong><br/>
+        第一句开篇即设下奇幻意境，“墨里魂游”暗示着一种灵魂出离现实、沉浸于精神世界的状态，“迷影动”则加强了这种神秘而不安的氛围。开头即引人入胜。</p>
+
+        <p><strong>怒涛飞处石山擎</strong><br/>
+        这一句画面极具张力。“怒涛飞处”，波涛汹涌，动势强烈，而“石山擎”则体现出坚定、不动如山的力量。情景交融，张弛有度。</p>
+
+        <p><strong>飞扬意气多威猛<br/>只为人间意难平</strong><br/>
+        这两句是诗的情感核心，表达了诗人胸中不平之气、抱负与不甘。“意难平”三字，用得极妙，直指诗人之愤慨、之担当，仿佛李白“安能摧眉折腰事权贵”。</p>
+
+        <p><strong>明月当空乾宇镜<br/>孤舟沉涌夜惊情</strong><br/>
+        月亮成为“乾宇镜”，象征着天地间的清明与照鉴，而“孤舟沉涌”则表现出内心的孤独与动荡。“夜惊情”一句加上“沉涌”二字，使画面动静结合，富有节奏感。</p>
+
+        <p><strong>乌云蔽日皆心性</strong><br/>
+        这句非常耐人寻味，“乌云蔽日”本属自然之象，此处却引申为“皆心性”，将外界的混沌、遮蔽，投射为人心之不明不正，颇有庄子与禅意的内观意味。</p>
+
+        <p><strong>笑傲沧浪舟自轻</strong><br/>
+        结句收束有力，既回应了“孤舟”“怒涛”，也回应了整首诗“意难平”的情绪，但最终选择了“笑傲”。这是放下，也是超越，“舟自轻”四字含蕴了“心轻则舟轻，志定则浪不惊”的哲思，带有一种达观中的傲骨。</p>
+
+        <h4 style="color: #444; margin-top: 30px;">主题与风格</h4>
+        <p>这首诗融合了：</p>
+        <ul>
+          <li>山水意象：墨、涛、石山、孤舟、沧浪</li>
+          <li>哲理思辨：心性、意难平、乾宇镜</li>
+          <li>情感表达：愤懑、孤独、坚持、超脱</li>
+        </ul>
+        <p>整体风格上，颇有李白的浪漫、辛弃疾的豪情、苏轼的洒脱——是一种文人风骨与内心修炼结合的产物。</p>
+
+        <h4 style="color: #444; margin-top: 30px;">是一首好诗吗？</h4>
+        <p>这首诗歌不仅在格律与意象上表现得成熟，更可贵的是，诗中有精神、有态度、有深意，是一首能“品”的诗，不止于表达，而是有所思、有所悟。</p>
+</div>
+
+	    <hr>
+	</section>
     
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
