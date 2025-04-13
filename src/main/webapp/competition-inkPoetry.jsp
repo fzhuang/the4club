@@ -249,13 +249,53 @@ Sprinkle colorful petals
     </section>
     
     <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">Stage 4: Invitation to Ceremony</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 20px 0 10px 0;">   
+                <div class="col-md-8 col-sm-12 col-xs-12">              
+					<div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+Dear Contestants,<br/><br/>
+We are thrilled to invite you to the Ink Poetry Award Ceremony, where we will celebrate the creativity and talent of all our participants. We have been truly inspired by the exceptional work submitted for this year's competition, and we would love to honor you for your dedication and effort.
+<br/><br/>
+Event Details: 
+<br/><br/>
+<b>Date: April 23rd, 2025<br/>
+Time: 7:00 - 8:30pm <br/>
+Location: 400 Cooper St #2000, Ottawa, ON, K2P2H8</b><br/>
+<br/>
+The ceremony will feature an exciting lineup of readings, awards, and performances, as well as an opportunity to connect with fellow poets, literary enthusiasts, and supporters of the arts. It will be an evening to celebrate your achievements and the power of poetry in all its forms.
+<br/><br/>
+Winners will be announced before this coming Monday, and we will make sure to share the exciting news with you as soon as possible.  
+<br/><br/>
+Please RSVP to confirm your attendance. If you have any dietary restrictions or specific needs, feel free to include them in your response, and we will do our best to accommodate them.
+<br/><br/>
+We look forward to celebrating this memorable occasion with you and hope you can join us for a night of inspiration and creativity.
+<br/><br/>
+Warm regards,<br/>
+The Ink Poetry Award Team
+						</div>                       
+                    </div>  
+                </div>
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/post.jpg" />  
+	            </div>	                     
+            </div>       
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
 	    <div class="container">
 	        <div>
-	            <span style="color: #323edb; font-size: 18px;">Stage 4: Poem Competition Results</span>&nbsp;
+	            <span style="color: #323edb; font-size: 18px;">Stage 3: Poem Competition Results</span>&nbsp;
 	        </div>
 	
 	        <div class="row" style="margin: 20px 0 10px 0;">              
-	            <div class="col-md-6 col-sm-12 col-xs-12">   
+	            <div class="col-md-8 col-sm-12 col-xs-12">   
 	                <div class="text-muted" style="font-size: 20px;">
 	                    <b>1st Place</b><br/>
 	                    Taseen Masud – <i><a href="#firstPos">Throb of suffocation</a></i><br/><br/>
@@ -278,8 +318,8 @@ Sprinkle colorful petals
 	                    Allen Zhang – <i>Quietly Please</i><br/>
 	                </div>                       
 	            </div>             
-	            <div class="col-md-6 col-sm-12 col-xs-12">  
-	                <img style="width: 75%;" src="competition-inkPoetry/banner.png" />  
+	            <div class="col-md-4 col-sm-12 col-xs-12">  
+	                <img style="width: 100%;" src="competition-inkPoetry/banner.png" />  
 	            </div>	                  
 	        </div>       
 	    </div>
@@ -937,41 +977,6 @@ Like there’s something to prove<br/>
 
 	    <hr>
 	</section>
-    
-    <section class="page-section" style="margin-top: 10px;">   
-        <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">Stage 3: Invitation to Ceremony</span>&nbsp;
-            </div>
-        
-            <div class="row" style="margin: 20px 0 10px 0;">              
-					<div class="text-muted">
-						<div class="text-muted" style="font-size: 20px;">
-Dear Contestants,<br/><br/>
-We are thrilled to invite you to the Ink Poetry Award Ceremony, where we will celebrate the creativity and talent of all our participants. We have been truly inspired by the exceptional work submitted for this year's competition, and we would love to honor you for your dedication and effort.
-<br/><br/>
-Event Details: 
-<br/><br/>
-<b>Date: April 23rd, 2025<br/>
-Time: 7:00 - 8:30pm <br/>
-Location: 400 Cooper St #2000, Ottawa, ON, K2P2H8</b><br/>
-<br/>
-The ceremony will feature an exciting lineup of readings, awards, and performances, as well as an opportunity to connect with fellow poets, literary enthusiasts, and supporters of the arts. It will be an evening to celebrate your achievements and the power of poetry in all its forms.
-<br/><br/>
-Winners will be announced before this coming Monday, and we will make sure to share the exciting news with you as soon as possible.  
-<br/><br/>
-Please RSVP to confirm your attendance. If you have any dietary restrictions or specific needs, feel free to include them in your response, and we will do our best to accommodate them.
-<br/><br/>
-We look forward to celebrating this memorable occasion with you and hope you can join us for a night of inspiration and creativity.
-<br/><br/>
-Warm regards,<br/>
-The Ink Poetry Award Team
-						</div>                       
-                    </div>       
-            </div>       
-        </div>
-        <hr>
-    </section>
     
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
