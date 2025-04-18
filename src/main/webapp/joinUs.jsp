@@ -75,9 +75,9 @@
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
                               Join us
                         </div>
-                        <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                             加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
+                        <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">                            
             The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language cultural and artistic exchange.
+            加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     
                     <div class="text-muted">
-加中文化教育交流中心（Chinese Canadian Cross Culture Club）会员章程
+Chinese Canadian Cross Culture Club Membership Bylaws:
 <br/><br/>
 1，加中文化教育交流中心（简称4CClub）是一个在加拿大联邦政府注册的非营利机构。<br/>
 2，宗旨和目的：
@@ -105,6 +105,7 @@
 4，董事需遵守加拿大相关法律规定。<br/>
 5，董事会5年一届。主席由选举产生。<br/>
 6，新董事需要董事会全票通过。
+<!-- 
 <br/><br/>
 4CClub 会员权益
 <br/><br/>
@@ -116,7 +117,8 @@
 <br/>
 4，会员可以优先享受特殊优惠和折扣的权利。
 <br/>
-5，会员优先共享4CClub资源                       
+5，会员优先共享4CClub资源   
+ -->                    
                     </div>
                 </div>
 

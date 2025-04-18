@@ -21,7 +21,7 @@
             <ul class="nav navbar-nav">
                 <li><a data-pages="index" href="index.jsp">Home</a></li>
                 
-                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">活动/Activities</a>
+                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">Activities</a>
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
