@@ -120,7 +120,7 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
         
             <h2><b>Board of Directors</b></h2>
             <div class="text-muted" style="font-size: 20px;">
-                The affairs of the 4cClub are governed by Board of Directors. Board members are elected during the Annual General Meeting or a special meeting of OCCSC members, for a five year term. Board members may stand for re-election upon completion of their term of service.
+                The affairs of the 4cClub are governed by Board of Directors. Board members are elected during the Annual General Meeting or a special meeting of members, for a five year term. Board members may stand for re-election upon completion of their term of service.
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">   
                  
