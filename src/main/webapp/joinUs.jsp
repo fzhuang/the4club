@@ -141,7 +141,7 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
                  
                  <div class="col-md-6 col-sm-6 col-xs-12">
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-		                <img src="resource/images/members/na.png" style="border-radius:5%; height:20rem;"></img>
+		                <img src="resource/images/members/guo.png" style="border-radius:5%; height:20rem;"></img>
 		                <h3>郭建平</h3>
 		                Board of Directors<br/><br/>
 		             </div>
@@ -151,7 +151,7 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-	                    <img src="resource/images/members/na2.png" style="border-radius:5%; height:20rem;"></img>
+	                    <img src="resource/images/members/liu.jpg" style="border-radius:5%; height:20rem;"></img>
 		                <h3>灵兮</h3>
 		                Board of Directors<br/><br/>
 		             </div>
