@@ -73,10 +73,11 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              加入我们-成为会员
+                              Join us
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
                              加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
+            The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language cultural and artistic exchange.
                         </div>
                     </div>
                 </div>
@@ -87,29 +88,23 @@
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">加入我们</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">Join us</span>&nbsp;
             </div>
         
+            <h2><b>Membership Bylaws</b></h2>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <span class="far fa-list-alt fa-3x" style="color: #323EDB;"></span>
-                    <h3><b></b></h3>
+                    
                     <div class="text-muted">
 加中文化教育交流中心（Chinese Canadian Cross Culture Club）会员章程
 <br/><br/>
-1，加中文化教育交流中心（简称4CClub）是一个在加拿大联邦政府注册的非营利机构。宗旨是传播和发展中国传统文化，积极融入加拿大多元文化，促进中加文化交流。
-<br/>
-2，4CClub的日常管理由董事会负责。董事会成员由会员中选举产生。
-<br/>
-3，会员有责任和义务参与策划及组织各项文化、艺术活动和加中文化艺术交流项目。
-<br/>
-4，会员需要填写一份会员登记表，经董事会批准，可以根据自己的特长和意愿参与4CClub的管理和运作。
-<br/>
-5，会员需自觉遵守加中两国法律。
-<br/>
-6，会员需18岁以上。
-<br/>
-7， 会员费现阶段为零。
+1，加中文化教育交流中心（简称4CClub）是一个在加拿大联邦政府注册的非营利机构。<br/>
+2，宗旨和目的：
+致力于促进中加文化之间的相互理解、尊重和交流。我们的使命是创造一个包容的空间和平台，让来自不同背景拥有不同兴趣爱好的人们能够共同探索和庆祝我们的的文化传统，通过文化活动和社区外展，致力于弥合文化差异，促进和丰富我们社会的多元文化结构。<br/>
+3，4CClub的管理由董事会负责。董事会由五位董事组成。<br/>
+4，董事需遵守加拿大相关法律规定。<br/>
+5，董事会5年一届。主席由选举产生。<br/>
+6，新董事需要董事会全票通过。
 <br/><br/>
 4CClub 会员权益
 <br/><br/>
@@ -126,7 +121,51 @@
                 </div>
 
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="2025SummerCampBeijing/main.jpg" /> 
+                    <img style="max-width: 100%" src="resource/images/aboutUs.jpg" /> 
+                </div>            
+            </div>          
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+        
+            <h2><b>Board of Directors</b></h2>
+            <div class="text-muted" style="font-size: 20px;">
+                The affairs of the 4cClub are governed by an 5 (maximum) member Board of Directors. Board members are elected during the Annual General Meeting or a special meeting of OCCSC members, for a five year term. Board members may stand for re-election upon completion of their term of service.
+            </div>
+            <div class="row" style="margin: 20px 0 10px 0;">   
+                 
+                 <div class="col-md-6 col-sm-6 col-xs-12">
+	                 <div class="col-md-6 col-sm-6 col-xs-12"> 
+		                <img src="resource/images/members/na.png" style="border-radius:5%; height:20rem;"></img>
+		                <h3>郭建平</h3>
+		                Board of Directors<br/><br/>
+		             </div>
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 	                
+	                    <img src="resource/images/members/na1.png" style="border-radius:5%; height:20rem;"></img>
+		                <h3>王翔</h3>
+		                Board of Directors<br/><br/>
+		             </div>
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 
+	                    <img src="resource/images/members/na2.png" style="border-radius:5%; height:20rem;"></img>
+		                <h3>灵兮</h3>
+		                Board of Directors<br/><br/>
+		             </div>
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 
+	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
+		                <h3>马婉玲</h3>
+		                Board of Directors<br/><br/>
+		             </div>
+	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
+	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>
+		                <h3>Fenqiang Zhuang</h3>
+		                Board of Directors<br/><br/>
+		             </div>
+	            </div>                     
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 100%" src="resource/images/together.jpg" /> 
                 </div>            
             </div>          
         </div>
