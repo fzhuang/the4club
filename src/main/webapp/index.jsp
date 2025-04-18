@@ -23,7 +23,7 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
-                           Chinese-Canadian Cross Culture Club                         
+                           加中文化教育交流中心                        
                         </div>
                         <div class="carousel-caption-subtitle" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
 Through educational initiatives, artistic exchanges, and community involvement, the 4cClub serves as a cultural bridge — encouraging dialogue, collaboration, and mutual appreciation across diverse cultural backgrounds.
