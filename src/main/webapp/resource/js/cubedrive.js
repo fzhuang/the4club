@@ -66,6 +66,8 @@ $(document).ready(function(){
 		pageName = 'showRoom';
 	} else if (href.indexOf('/joinUs') != -1) {
 		pageName = 'aboutUs';
+	} else if (href.indexOf('/spotlight') != -1) {
+		pageName = 'insights';
 	} 
 
     for(var i = 0, len = menuItems.length; i<len; i++){

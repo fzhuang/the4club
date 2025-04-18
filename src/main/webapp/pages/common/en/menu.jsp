@@ -62,14 +62,29 @@
 				            </ul>
 				        </div>
 				     </div>
-                </li>      
+                </li>    
+                
+                <li><a data-pages="insights" href="spotlight-people.jsp">Insights Spotlight</a>
+                     <div class="sub-menu-small">
+						<div class="sub-menu-small-container">
+						    <ul class="sub-menu-list">
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
+									<a href="spotlight-people.jsp"><i class="fas fa-user-plus" style="margin-right: 8px; color: #323EDB;;"></i>人物访谈</a>
+								</li>					
+				            </ul>
+				        </div>
+				     </div>
+                </li>  
                                      
-                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">Show room</a>
+                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">Show Room</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
 									<a href="showRoom-yearSong.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌俱乐部</a>
+								</li>							
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="showRoom-artisthome.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>艺术家之家</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="showRoom-artCom.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>渥太华加华艺术协会</a>
