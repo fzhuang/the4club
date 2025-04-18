@@ -64,7 +64,7 @@
 				     </div>
                 </li>      
                                      
-                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆/Show room</a>
+                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">Show room</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">

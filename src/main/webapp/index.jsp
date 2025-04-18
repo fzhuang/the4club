@@ -23,10 +23,10 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
-                           CHINESE-CANADIAN CROSS CULTURE CLUB                         
+                           Chinese-Canadian Cross Culture Club                         
                         </div>
                         <div class="carousel-caption-subtitle" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
-                             加中文化教育交流中心（4cClub）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。
+Through educational initiatives, artistic exchanges, and community involvement, the 4cClub serves as a cultural bridge — encouraging dialogue, collaboration, and mutual appreciation across diverse cultural backgrounds.
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025 Summer Beijing Camp</b></h1>
+	                <h1><b>2025 Summer Camp</b></h1>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 <div class="text-muted" style="font-size: 18px;">
 <b>Schedule</b>: The summer camp has two tentative start dates:<br/>
@@ -66,8 +66,31 @@ The summer camp aims to help participants learn Chinese and gain an understandin
 	        
          </div>
     </section>
-     <hr>        
-        
+    <hr>    
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+            <div>
+	            <span style="color: #323edb; font-size: 18px;">About 4cClub</span>&nbsp;
+            </div>
+            <div class="text-muted" style="font-size: 20px; margin-top:20px;">
+ The Chinese-Canadian Cross Culture Club is a non-profit organization committed to promoting the development of Chinese language education and supporting the integration of Chinese culture within Canada’s vibrant multicultural society. The Club provides programs and services that foster cultural understanding and participation, with a focus on strengthening connections between communities and celebrating the contributions of people of Chinese heritage.               
+            </div>
+            <div class="row" style="margin: 20px 0 10px 0; font-size: 20px;">                            
+                 <div class="col-md-6 col-sm-6 col-xs-12">
+                    <h2><b>Our Mission</b></h2>   
+                    <div class="text-muted" style="font-size: 20px;">
+Through educational initiatives, artistic exchanges, and community involvement, the Club serves as a cultural bridge—encouraging dialogue, collaboration, and mutual appreciation across diverse cultural backgrounds. It is dedicated to enriching Canada’s multicultural fabric and advancing cross-cultural growth and inclusion.
+	                </div>  
+	             </div>                   
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="resource/images/aboutUs.jpg" /> 
+                </div>            
+            </div>          
+        </div>
+        <hr>
+    </section>
+      
     <section class="page-section" style="margin-top: 30px">
         <div class="container">
         
@@ -173,7 +196,7 @@ The summer camp aims to help participants learn Chinese and gain an understandin
 	                <img src="resource/images/svg/oneClick.svg" style="background-color:#bf4c3d; border-radius:50%; width:5rem;"></img>
 	                <h3><b>推动中文教育发展，满足全球化需求</b></h3>
 	                <div class="text-muted" style="font-size: 18px;">
-	                    随着全球化的发展和中国国际影响力的提升，学习中文已成为全球的重要趋势。加拿大在教育领域始终走在前列，中文教育的普及有助于提升加拿大在国际社会中的竞争力。加中文化教育交流中心可以为中文学习者提供优质的教育资源和文化体验，让学习中文不仅是语言技能的掌握，更是文化理解的深化。
+	                    加拿大在教育领域始终走在前列，中文教育的普及有助于提升加拿大在国际社会中的竞争力。加中文化教育交流中心可以为中文学习者提供优质的教育资源和文化体验，让学习中文不仅是语言技能的掌握，更是文化理解的深化。
 	                </div>
 	            </div>         
 	        </div>
