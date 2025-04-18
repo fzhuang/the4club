@@ -2,7 +2,7 @@
          pageEncoding="UTF-8"%>
 
 <head>
-	<title>加中文化教育交流中心</title>	
+	<title>the4cClub: join us</title>	
 	<meta name="title" content="Chinese Canadian Cross Culture Club"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
 	<meta property="og:title" content="加中文化教育交流中心：2025春假成都交流之旅">
@@ -76,8 +76,7 @@
                               Join us
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">                            
-            The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language cultural and artistic exchange.
-            加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
+The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language, cultural, and artistic exchange, while embracing and celebrating Canada's rich multicultural landscape.
                         </div>
                     </div>
                 </div>
@@ -151,13 +150,13 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-	                    <img src="resource/images/members/liu.jpg" style="border-radius:5%; height:20rem;"></img>
+	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>
 		                <h3>灵兮</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
 	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>马婉玲</h3>
+		                <h3>Wanling Ma</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
