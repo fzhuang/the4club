@@ -126,27 +126,32 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
                  
                  <div class="col-md-6 col-sm-6 col-xs-12">
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-		                <img src="resource/images/members/guo.png" style="border-radius:5%; height:20rem;"></img>
+	                    <!--  
+		                <img src="resource/images/members/guo.png" style="border-radius:5%; height:20rem;"></img>-->
 		                <h3>郭建平</h3>
 		                Board of Directors<br/><br/>
 		             </div>
-		             <div class="col-md-6 col-sm-6 col-xs-12"> 	                
-	                    <img src="resource/images/members/wang.jpg" style="border-radius:5%; height:20rem;"></img>
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 
+		                <!--  	                
+	                    <img src="resource/images/members/wang.jpg" style="border-radius:5%; height:20rem;"></img>-->
 		                <h3>王翔</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>
+		                <!--  
+	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>-->
 		                <h3>灵兮</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
+		                <!--  
+	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>-->
 		                <h3>Wanling Ma</h3>
 		                Board of Directors<br/><br/>
 		             </div>
-	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
-	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>
+	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	 
+	                    <!--                	                	                
+	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>-->
 		                <h3>Fenqiang Zhuang</h3>
 		                Board of Directors<br/><br/>
 		             </div>
