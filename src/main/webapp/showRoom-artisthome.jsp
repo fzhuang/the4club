@@ -127,6 +127,41 @@
         </div>
         <hr>
     </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">敬请观看</span>&nbsp;
+            </div>
+        
+            <div class="row" style="margin: 20px 0 10px 0;">             
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
+                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>书法家曲永仲</b></h3></a>
+                    <div class="text-muted">
+                        艺术家的链接
+                    </div>
+                </div> 
+                           
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
+                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（二）</b></h3></a>
+                    <div class="text-muted">
+                        艺术家的链接
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
+                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（二）</b></h3></a>
+                    <div class="text-muted">
+                        艺术家的链接
+	                </div>
+                </div>            
+            </div>          
+        </div>
+        <hr>
+    </section>
       
     <br/><br/><br/> 
    

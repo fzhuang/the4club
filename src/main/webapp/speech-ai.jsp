@@ -104,8 +104,7 @@ AI大模型近年来取得突破性进展，如GPT-4和DeepSeek等，推动了�
                     <h3><b>主讲嘉宾</b></h3>
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 18px;">
-						Fenqiang Zhuang<br/>
-Founder and CEO of FeyaSoft Inc.
+						F. Zhuang
 						</div>                       
                     </div>
                              

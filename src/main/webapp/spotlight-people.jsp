@@ -104,8 +104,7 @@ Welcome to our interview series where we engage in honest conversations with ind
     
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
-        
-            <div><h2><b>我是庄奋强</b></h2></div>           
+               
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="text-muted">
