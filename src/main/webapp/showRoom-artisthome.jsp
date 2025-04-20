@@ -153,7 +153,7 @@
                 
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（二）</b></h3></a>
+                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（三）</b></h3></a>
                     <div class="text-muted">
                         艺术家的链接
 	                </div>
