@@ -19,9 +19,9 @@
         </div>
         <nav id="mainMenu" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a data-pages="index" href="index.jsp">Home</a></li>
+                <li><a data-pages="index" href="index.jsp">主页/Home</a></li>
                 
-                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">Activities</a>
+                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">活动/Activities</a>
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
@@ -64,7 +64,7 @@
 				     </div>
                 </li>    
                 
-                <li><a data-pages="insights" href="spotlight-people.jsp">Insights Spotlight</a>
+                <li><a data-pages="insights" href="spotlight-people.jsp">闻道特辑/Insights Spotlight</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
@@ -76,26 +76,29 @@
 				     </div>
                 </li>  
                                      
-                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">Show Room</a>
+                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆/Show Room</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
-						    <ul class="sub-menu-list">
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="showRoom-yearSong.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌俱乐部</a>
-								</li>							
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+						    <ul class="sub-menu-list">					        						
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
 									<a href="showRoom-artisthome.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>艺术家之家</a>
 								</li>
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="showRoom-artCom.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>渥太华加华艺术协会</a>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
+									<a href="showRoom-yearSong.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌俱乐部</a>
+								</li>	
+								<h3 class="sub-menu-list-title">文化艺术园地</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>书画摄影篆刻</a>
+								</li>	
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>传统艺术</a>
 								</li>
-						
 				            </ul>
 				        </div>
 				     </div>
                 </li> 
   
-                <li><a data-pages="aboutUs" href="joinUs.jsp">About Us</a>
+                <li><a data-pages="aboutUs" href="joinUs.jsp">关于我们/About Us</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
