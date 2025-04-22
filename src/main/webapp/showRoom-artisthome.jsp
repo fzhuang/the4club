@@ -115,15 +115,12 @@
 <br/><br/>
 曲先生现为加拿大加华艺术协会终身荣誉会长、加拿大中华书画艺术联合会创会会长，以及加拿大中国书画院的艺术顾问。他在加拿大首都地区积极推动书画艺术的发展，组织和策划了多项艺术活动。曲先生也是这个栏目的艺术总监。						
 						</div>                       
-                    </div>
-                    
-                    <div class="responsive-video">
-                        <iframe src="https://www.youtube.com/embed/fK0K167hzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                             
+                    </div>                         
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="artist/qu.jpg" /> 
+                    <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/fK0K167hzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                 </div>            
             </div>          
         </div>
@@ -141,8 +138,9 @@
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
                     <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>书法家曲永仲</b></h3></a>
                     <div class="text-muted">
-                        艺术家的链接
+                                                          艺术家的链接
                     </div>
+                    <img style="max-width:80%;border-radius:5%; height:20rem;" src="artist/qu.jpg" /> 
                 </div> 
                            
                 <div class="col-md-4 col-sm-6 col-xs-12">
