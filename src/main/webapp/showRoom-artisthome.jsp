@@ -113,15 +113,17 @@
 						<div class="text-muted" style="font-size: 20px;">
 曲永仲先生是加拿大著名的华人书法家，长期致力于书法艺术的创作与研究。他的作品被博物馆、美术馆、图书馆、政府机构和社会各界广泛收藏，并曾获得中国文化部“群星奖”以及加拿大联邦多元文化部的优秀艺术奖，被誉为人民艺术家。
 <br/><br/>
-曲先生现为加拿大加华艺术协会终身荣誉会长、加拿大中华书画艺术联合会共同主席，以及加拿大中国书画院的艺术顾问。他在加拿大首都地区积极推动书画艺术的发展，组织和策划了多项艺术活动。曲先生也是这个栏目的艺术总监。						
+曲先生现为加拿大加华艺术协会终身荣誉会长、加拿大中华书画艺术联合会创会会长，以及加拿大中国书画院的艺术顾问。他在加拿大首都地区积极推动书画艺术的发展，组织和策划了多项艺术活动。曲先生也是这个栏目的艺术总监。						
 						</div>                       
+                    </div>
+                    
+                    <div class="responsive-video">
+                        <iframe src="https://www.youtube.com/embed/fK0K167hzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                              
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="responsive-video">
-                    <iframe src="https://www.youtube.com/embed/fK0K167hzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
+                    <img style="max-width: 90%" src="artist/qu.jpg" /> 
                 </div>            
             </div>          
         </div>
