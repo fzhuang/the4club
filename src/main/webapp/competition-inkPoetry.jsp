@@ -263,9 +263,12 @@ We are thrilled to invite you to the Ink Poetry Award Ceremony, where we will ce
 <br/><br/>
 Event Details: 
 <br/><br/>
-<b>Date: April 23rd, 2025<br/>
+<font color='red'>
+<b>Date: May 28th, 2025<br/>
 Time: 7:00 - 8:30pm <br/>
-Location: 400 Cooper St #2000, Ottawa, ON, K2P2H8</b><br/>
+Location: 400 Cooper St #2000, Ottawa, ON, K2P2H8</b>
+</font>
+<br/>
 <br/>
 The ceremony will feature an exciting lineup of readings, awards, and performances, as well as an opportunity to connect with fellow poets, literary enthusiasts, and supporters of the arts. It will be an evening to celebrate your achievements and the power of poetry in all its forms.
 <br/><br/>
