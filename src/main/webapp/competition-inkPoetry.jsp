@@ -284,7 +284,7 @@ The Ink Poetry Award Team
                     </div>  
                 </div>
 	            <div class="col-md-4 col-sm-12 col-xs-12">  
-	                <img style="width: 100%;" src="competition-inkPoetry/post.jpg" />  
+	                <img style="width: 100%;" src="competition-inkPoetry/post1.jpg" />  
 	            </div>	                     
             </div>       
         </div>
