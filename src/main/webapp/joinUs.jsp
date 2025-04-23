@@ -146,13 +146,13 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
 		                <!--  
 	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>-->
-		                <h3>Wanling Ma</h3>
+		                <h3>马婉玲</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	 
 	                    <!--                	                	                
 	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>-->
-		                <h3>Fenqiang Zhuang</h3>
+		                <h3>庄奋强</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 	            </div>                     

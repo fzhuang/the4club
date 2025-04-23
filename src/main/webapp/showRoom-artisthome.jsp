@@ -140,7 +140,7 @@
                     <div class="text-muted">
                                                           艺术家的链接
                     </div>
-                    <img style="max-width:80%;border-radius:5%; height:20rem;" src="artist/qu.jpg" /> 
+                    <img style="max-width:80%;border-radius:5%; height:20rem;margin-bottom:10px;" src="artist/qu.jpg" /> 
                 </div> 
                            
                 <div class="col-md-4 col-sm-6 col-xs-12">
