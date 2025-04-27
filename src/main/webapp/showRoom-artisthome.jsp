@@ -141,17 +141,10 @@
 	                    <div class="text-muted">
 	                                                          艺术家曲永仲的具体作品链接
 	                    </div>
-                    </a>
-                    
+                    </a>                 
                 </div> 
                            
-                <div class="col-md-8 col-sm-8 col-xs-12">
-                    <img style="max-width:80%;border-radius:5%; height:40rem;margin-bottom:10px;" src="artist/qu-product.jpg" /> 
-                </div>
-                
-                
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <br/>
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
                     <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（二）</b></h3></a>
                     <div class="text-muted">
@@ -159,8 +152,7 @@
 	                </div>
                 </div> 
 
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <br/>
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
                     <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（三）</b></h3></a>
                     <div class="text-muted">
