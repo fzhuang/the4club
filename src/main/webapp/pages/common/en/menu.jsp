@@ -25,7 +25,7 @@
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">2025 activities</h3>
+						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025 Summer Beijing Camp</a>
 								</li>
@@ -103,7 +103,7 @@
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="joinUs.jsp"><i class="fas fa-user-plus" style="margin-right: 8px; color: #323EDB;;"></i>Join us</a>
+									<a href="joinUs.jsp"><i class="fas fa-user-plus" style="margin-right: 8px; color: #323EDB;;"></i>加入我们</a>
 								</li>
 						
 				            </ul>

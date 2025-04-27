@@ -26,7 +26,7 @@
                            加中文化教育交流中心                        
                         </div>
                         <div class="carousel-caption-subtitle" style="background: rgba(0,0,0, 0.3); padding: 10px 10px 5px 10px;">
-Through educational initiatives, artistic exchanges, and community involvement, the 4cClub serves as a cultural bridge — encouraging dialogue, collaboration, and mutual appreciation across diverse cultural backgrounds.
+                        通过教育项目、艺术交流和社区参与，加中文化教育交流中心（4cClub）成为一座文化桥梁  -- 在加拿大多元文化下，促进不同文化间的对话、合作与相互欣赏。
                         </div>
                     </div>
                 </div>
@@ -71,14 +71,14 @@ The summer camp aims to help participants learn Chinese and gain an understandin
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
-	            <span style="color: #323edb; font-size: 18px;">About 4cClub</span>&nbsp;
+	            <span style="color: #323edb; font-size: 18px;">关于4cClub</span>&nbsp;
             </div>
             <div class="text-muted" style="font-size: 20px; margin-top:20px;">
  The Chinese-Canadian Cross Culture Club is a non-profit organization committed to promoting the development of Chinese language education and supporting the integration of Chinese culture within Canada’s vibrant multicultural society. The Club provides programs and services that foster cultural understanding and participation, with a focus on strengthening connections between communities and celebrating the contributions of people of Chinese heritage.               
             </div>
             <div class="row" style="margin: 20px 0 10px 0; font-size: 20px;">                            
                  <div class="col-md-6 col-sm-6 col-xs-12">
-                    <h2><b>Our Mission</b></h2>   
+                    <h2><b>我们的使命 / Our Mission</b></h2>   
                     <div class="text-muted" style="font-size: 20px;">
 Through educational initiatives, artistic exchanges, and community involvement, the Club serves as a cultural bridge—encouraging dialogue, collaboration, and mutual appreciation across diverse cultural backgrounds. It is dedicated to enriching Canada’s multicultural fabric and advancing cross-cultural growth and inclusion.
 	                </div>  

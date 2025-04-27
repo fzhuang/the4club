@@ -73,7 +73,7 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              Join us
+                              加入我们
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">                            
 The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language, cultural, and artistic exchange, while embracing and celebrating Canada's rich multicultural landscape.
@@ -126,38 +126,32 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
                  
                  <div class="col-md-6 col-sm-6 col-xs-12">
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-	                    <!--  
-		                <img src="resource/images/members/guo.png" style="border-radius:5%; height:20rem;"></img>-->
+		                <img src="resource/images/members/guo.png" style="border-radius:5%; height:20rem;"></img>
 		                <h3>郭建平</h3>
 		                Board of Directors<br/><br/>
 		             </div>
-		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-		                <!--  	                
-	                    <img src="resource/images/members/wang.jpg" style="border-radius:5%; height:20rem;"></img>-->
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 	                
+	                    <img src="resource/images/members/wang.jpg" style="border-radius:5%; height:20rem;"></img>
 		                <h3>王翔</h3>
 		                Board of Directors<br/><br/>
 		             </div>
-		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-		                <!--  
-	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>-->
+		             <div class="col-md-6 col-sm-6 col-xs-12">  
+	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>
 		                <h3>灵兮</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-		                <!--  
-	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>-->
+	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
 		                <h3>马婉玲</h3>
 		                Board of Directors<br/><br/>
 		             </div>
-	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	 
-	                    <!--                	                	                
-	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>-->
+	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
+	                    <img src="resource/images/members/qu.jpg" style="border-radius:5%; height:20rem;"></img>
 		                <h3>曲永仲</h3>
-		                艺术总监<br/><br/>
+		               Board of Directors, 艺术总监<br/><br/>
 		             </div>
-		             <div class="col-md-6 col-sm-6 col-xs-12"> 	 
-	                    <!--                	                	                
-	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>-->
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 	                	                	                
+	                    <img src="resource/images/members/zhuang.jpg" style="border-radius:5%; height:20rem;"></img>
 		                <h3>庄奋强</h3>
 		                Board of Directors<br/><br/>
 		             </div>

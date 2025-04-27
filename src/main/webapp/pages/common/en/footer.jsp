@@ -26,8 +26,9 @@
                     Menu
                 </h3>
                 <ul class="footer-menu footer-menu-has-style">
-                    <li><a href="/index.jsp">Home</a></li>
-                    <li><a href="/Activities">Activities</a></li>
+                    <li><a href="/index.jsp">主页/Home</a></li>
+                    <li><a href="https://the4cclub.ca/showRoom-artisthome.jsp">艺术家之家</a></li>              
+                    <li><a href="https://the4cclub.ca/the4club/joinUs.jsp">加入我们</a></li>
                     <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club">Sign in</a></li>
                 </ul>
             </div>
