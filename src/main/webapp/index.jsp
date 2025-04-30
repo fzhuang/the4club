@@ -37,7 +37,7 @@
     <section class="page-section" style="margin-top: 60px">
         <div class="container"> 
             <div>
-	            <span style="color: #323edb; font-size: 18px;">当前主要活动</span>&nbsp;
+	            <span style="color: #323edb; font-size: 18px;">近期主要活动</span>&nbsp;
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
