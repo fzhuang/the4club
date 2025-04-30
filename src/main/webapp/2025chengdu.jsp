@@ -9,13 +9,13 @@
 	<meta property="og:description" content="2025春假赴中国成都学生交流团“的项目由加中文化教育交流中心与悠问教育联手举办">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
-	<meta name="description" content="加中文化教育交流中心（SYRG CHINESE-CANADIAN CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
+	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
 	<link rel="canonical" href="https://the4cclub.ca"/>
 	<link rel="shortcut icon" type="image/x-icon" href="/resource/images/favicon.ico">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
 	<meta charset="utf-8"/>
 	<meta name="title" content="加中文化教育交流中心"/>
-	<meta name="description" content="加中文化教育交流中心（SYRG CHINESE-CANADIAN CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
+	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
 	<meta property="og:site_name" content="CubeDrive"/>
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="article"/>

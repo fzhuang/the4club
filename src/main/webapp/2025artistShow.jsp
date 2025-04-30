@@ -2,12 +2,11 @@
          pageEncoding="UTF-8"%>
 
 <head>
-    
-	<title>the4cClub</title>
-	<meta name="title" content="人物访谈"/>
+	<title>墨影华韵: 多元视角下的中国艺术</title>	
+	<meta name="title" content="2025年加拿大加华艺术协会年展"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
-	<meta property="og:title" content="人物访谈">
-	<meta property="og:description" content="人物访谈">
+	<meta property="og:title" content="2025年加拿大加华艺术协会年展">
+	<meta property="og:description" content="2025年加拿大加华艺术协会年展">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
 	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
@@ -55,7 +54,6 @@
 	<script src="resource/bootstrap/js/bootstrap.min.js"></script>
 	<script src="resource/js/cubedrive.js?v=1.12"></script>	
 	<script src="resource/js/QR/qrcode.js"></script>
-
 </head>
 
 <body>
@@ -70,59 +68,82 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active" >
                     <picture>
-					    <source srcset="joinUs/images/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="joinUs/images/bg.jpg" alt="online sheet">
+					    <source srcset="2025paintingByYoung/touch.jpg" media="(max-width: 640px)">
+					    <img srcset="2025paintingByYoung/bg.jpg" alt="online sheet">
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              人物访谈
+                              墨影华韵: 多元视角下的中国艺术
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-在这里，我们与不同领域的人物展开真诚对话，倾听他们的故事、思考与经验。每一次访谈，都是一次心灵与智慧的交流。
-                         </div>
+2025年加拿大加华艺术协会年展以“墨影华韵--多元视角下的中国艺术”为主题，全面汇聚书法、国画、油画、篆刻、剪纸与摄影，既传承中华艺术的悠远韵味，亦展现跨文化视野下的时代风采，展现艺术成果。                         
+                        </div>
                     </div>
                 </div>
             </div>
-            
         </div>
     </section>
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">In-Depth Conversations · Stories that Matter</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">多元视角下的中国艺术</span>&nbsp;
             </div>
-            <div class="row" style="margin: 20px 0 10px 0;">              
-                   <div class="text-muted">
-					<div class="text-muted" style="font-size: 20px;">
-Welcome to our interview series where we engage in honest conversations with individuals from all walks of life. Through their voices, we explore journeys, insights, and the moments that define them.            
-                    </div>        
-            </div>          
-        </div>
-        <hr>
-    </section>
-    
-    <section class="page-section" style="margin-top: 10px;">   
-        <div class="container">
-               
+        
+            <div><h2><b>2025年加拿大加华艺术协会年展 - 墨影华韵</b></h2></div>
+            <div class="text-muted" style="font-size: 20px;">
+在这片绿意盎然的初夏时光，我们诚邀您携家人莅临参观加拿大加华艺术协会年展，共襄盛举。
+本次年展以“墨影华韵--多元视角下的中国艺术”为主题，全面汇聚书法、国画、油画、篆刻、剪纸与摄影，既传承中华艺术的悠远韵味，亦展现跨文化视野下的时代风采。无论您是艺术爱好者，文化探索者，还是寻找灵感的旅人，都能在这一场墨韵丹青之间，感受到传统与创新交融的人文温度与艺术魅力。
+            </div>
+            <hr>
+            
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
+                    <span class="far fa-list-alt fa-3x" style="color: #323EDB;"></span>
+                    
+<br/><br/>
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 20px;">
-					一个普通渥太华移民从商的心路历程。
+时间: <b>2025.06.01 - 06.28</b><br/>
+地点: <b>120 Metcalfe Street,Ottawa,ON</b><br/>
+渥太华中心图书馆(Main Library)<br/>
 						</div>                       
                     </div>
                              
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+						主办单位: 加拿大加华艺术协会<br/>
+						协办单位: 岁月如歌艺术沙龙<br/>
+						联系邮箱: ccacc1990@gmail.com
+						</div>                       
+                    </div>
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="responsive-video">
-                    <iframe src="https://www.youtube.com/embed/xXvpBHpk3Kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
+                    <img style="max-width: 90%" src="2025artistShow/post.jpg" /> 
                 </div>            
             </div>          
         </div>
         <hr>
     </section>
+    
+    <section class="page-section" style="margin-top: 20px;">   
+        <div class="container">
+            <div>
+                 <span style="color: #323edb; font-size: 18px;">介绍</span>&nbsp;
+            </div>
+        
+            <div><h2><b>加拿大加华艺术协会</b></h2></div>
+            <div class="text-muted" style="font-size: 20px;">
+加拿大加华艺术协会成立于一九九零年， 在黄炳麟、陈克辉、曲永仲先后三任会长的带领下，积极开创了加拿大首都地区的华人书画艺术活动，举办了大量的全国和首都地区的书画展览、比赛、义卖, 艺术教育、交流和示范辅导等活动，吸收了百余位华人书画家和书画爱好者入会。很好地活跃了渥太华地区的多元文化生活。给书画艺术家和爱好者们提供了相互学习和交流的平台，同时也提高了书画们家们的鉴赏和创作水平。
+<br/><br/>
+35年来，加华艺术协会得到了当地政府、各界中西人士、商业东主、文化艺术团体和热心义工朋友们的鼎力支持和无私援助。
+以此协会在加拿大的多元文化环境中，弘扬了充满魅力的中华书画艺术，为东西文化的交流、沟通、理解和融合上做出了应有的贡献。
+            </div>
+            
+        </div>
+        <hr>
+    </section>
+    
       
     <br/><br/><br/> 
    
