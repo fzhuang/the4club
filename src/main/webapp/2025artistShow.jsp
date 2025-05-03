@@ -138,7 +138,7 @@
                         <div class="carousel-caption-subtitle">
 点击下面链接提交你的【2025年加拿大加华艺术协会年展 - 墨影华韵】精彩作品。谢谢。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">2025年加拿大加华艺术协会年展提交链接</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">提交你的作品</a> 
                     </div>
                 </div>
             </div>
