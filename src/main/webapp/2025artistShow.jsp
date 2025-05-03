@@ -126,6 +126,25 @@
         <hr>
     </section>
     
+    <section>
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="resource/images/bg2.png" alt="Contact us">
+                    <div class="carousel-caption">
+                        <div class="carousel-caption-title">
+                           提交你的精彩作品
+                        </div>
+                        <div class="carousel-caption-subtitle">
+点击下面链接提交你的【2025年加拿大加华艺术协会年展 - 墨影华韵】精彩作品。谢谢。
+                        </div>
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">2025年加拿大加华艺术协会年展提交链接</a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div>
@@ -143,7 +162,6 @@
         </div>
         <hr>
     </section>
-    
       
     <br/><br/><br/> 
    
