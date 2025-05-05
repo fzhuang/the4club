@@ -112,21 +112,29 @@
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
-                 <span style="color: #323edb; font-size: 18px;">参展作品集</span>&nbsp;
+                 <span style="color: #323edb; font-size: 18px;">作品集</span>&nbsp;
             </div>
         
-            <div class="row" style="margin: 20px 0 10px 0;">             
-                <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="row" style="margin: 20px 0 10px 0;">  
+                
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
                     <a href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">
-                        <h3><b>参展作品集-A</b></h3>
+                        <h3><b>参展作品集</b></h3>
                     </a>                 
                 </div> 
                            
-                <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
                     <a href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">
-                        <h3><b>参展作品集-B</b></h3>
+                        <h3><b>会员作品集-A</b></h3>
+                    </a>                 
+                </div> 
+                           
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
+                    <a href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">
+                        <h3><b>会员作品集-B</b></h3>
                     </a> 
                 </div>  
         </div>
