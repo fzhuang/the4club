@@ -119,21 +119,21 @@
                 
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">
+                    <a href="https://www.cubedrive.com/lite/app/form/7324523979232776192?sceneUid=jNox">
                         <h3><b>参展作品集</b></h3>
                     </a>                 
                 </div> 
                            
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">
+                    <a href="https://www.cubedrive.com/lite/app/form/7324523979232776192?sceneUid=EQPa">
                         <h3><b>会员作品集-A</b></h3>
                     </a>                 
                 </div> 
                            
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/fileId_oF9zVE7Y_BI">
+                    <a href="https://www.cubedrive.com/lite/app/form/7324523979232776192?sceneUid=UKqs">
                         <h3><b>会员作品集-B</b></h3>
                     </a> 
                 </div>  
