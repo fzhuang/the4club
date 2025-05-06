@@ -25,6 +25,11 @@
                     <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
+						        <h3 class="sub-menu-list-title">中文教育</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2025chineseClass.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>Cross Culture Club 特色中文课 </a>
+								</li>
+						    
 						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025artistShow.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年加拿大加华艺术协会年展: 墨影华韵</a>
