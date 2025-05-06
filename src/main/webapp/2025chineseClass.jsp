@@ -90,10 +90,10 @@ Immersive Chinese Language + Cultural Arts Exchange = A Unique Chinese Learning 
                  <span style="color: #323edb; font-size: 18px;">About</span>&nbsp;
             </div>
             
-            <div><h2><b>Cross Culture Club 特色中文课 正式招生啦！</b></h2></div>
+            <div><h2><b>🎉 Cross Culture Club 特色中文课 正式招生啦！🎉</b></h2></div>
             <div><h3>沉浸式中文教学+文化艺术交流 = 独一无二的中文学习体验</h3></div>
             <div class="text-muted" style="font-size: 20px;">
-Cross Culture Club 是一个推动和促进中国文化融入加拿大多元文化以及加中文化艺术交流的非盈利组织。我们提供的不仅仅是简单的中文课程，而是全景式、沉浸式的中国文化、艺术和历史的学习和体验。
+加中文化教育交流中心Canadian Chinese Cross Culture Club(4Cclub) 是一个推动和促进中国文化融入加拿大多元文化以及加中文化艺术交流的非盈利组织。我们提供的课程不仅仅是简单的中文课，而是全景式、沉浸式的中国文化、艺术和历史的学习和体验。
 <br/><br/>
 ●	特色中文课面向没有中文环境和基础的学生学习中文口语（听说）、提供零基础，初中级中文口语班，读写班等。<br/>
 ●	书法、中国乐器、戏曲、舞蹈等各种不同形式的中国传统文化艺术家现场展示和指导。<br/>
@@ -105,7 +105,7 @@ Cross Culture Club 是一个推动和促进中国文化融入加拿大多元文�
             <div><h2><b>Cross Culture Club Special Chinese Program – Now Open for Enrollment!</b></h2></div>
             <div><h3>Immersive Chinese Language + Cultural Arts Exchange = A Unique Chinese Learning Experience</h3></div>
             <div class="text-muted" style="font-size: 20px;">
-The Cross Culture Club is a non-profit organization dedicated to promoting and integrating Chinese culture into Canada's multicultural landscape and fostering Sino-Canadian cultural and artistic exchange.
+The Canadian Chin Cross Culture Club(4Cclub) is a non-profit organization dedicated to promoting and integrating Chinese culture into Canada's multicultural landscape and fostering Sino-Canadian cultural and artistic exchange.
 <br/><br/>
 We offer more than just Chinese classes — our programs provide a panoramic, immersive experience in Chinese language, arts, and history.
 <br/><br/>
@@ -132,8 +132,9 @@ We offer more than just Chinese classes — our programs provide a panoramic, im
                              
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 20px;">
-<b>报名费仅10元 :</b> Only $10<br/>
-(e-transfer syrg4cclub@gmail.com) 报名后即可成为会员<br/><br/>
+<b>报名费 :</b> $10元<br/>
+(e-transfer syrg4cclub@gmail.com) <br/>
+为了便于交流和学习请注册成为我们的会员<br/><br/>
 让我们一起走进中文的世界，遇见璀璨多姿的中华文化！
 						</div>                       
                     </div>            
@@ -153,7 +154,7 @@ Location: <br/>
                              
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 20px;">
-<b>Registration Fee:</b> Only $10<br/>
+<b>Registration Fee:</b> $10<br/>
 (Please e-transfer to: syrg4cclub@gmail.com)<br/>
 Once registered, you become a 4cClub member.<br/><br/>
 Let’s journey into the world of Chinese language and discover the brilliance of Chinese culture together!
