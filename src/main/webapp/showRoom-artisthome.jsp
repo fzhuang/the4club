@@ -129,6 +129,28 @@
     
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
+        
+            <div><h2><b>华人书法家荣爽吉</b></h2></div>           
+            <div class="row" style="margin: 20px 0 10px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+荣爽吉是一位活跃于加拿大蒙特利尔的华人书法家，致力于中华书法艺术的传承与推广。她是“遇见书法书艺社”的社长，该社团在蒙特利尔提供各种风格的书法工作坊，旨在分享传统中国书法的美学和技巧。
+<br/><br/>
+荣爽吉的作品多次入选并被收藏于中国、美国、日本和加拿大的国际书画展览中。她曾在蒙特利尔中华文化节的“琴棋书画品茶花文化周”活动中现场书写《爱我中华》。此外，荣爽吉还担任蒙特利尔书法家协会会长，积极参与加拿大加华艺术协会的活动。
+						</div>                       
+                    </div>                         
+                </div>  
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="showRoom-artisthome/wing1.jpg" /> 
+                </div>            
+            </div>          
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
             <div>
                  <span style="color: #323edb; font-size: 18px;">敬请观看</span>&nbsp;
             </div>
@@ -146,10 +168,12 @@
                            
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（二）</b></h3></a>
-                    <div class="text-muted">
-                        艺术家的链接
-	                </div>
+                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768?sceneUid=xU7f">
+                        <h3><b>华人书法家荣爽吉</b></h3>
+	                    <div class="text-muted">
+	                                                          艺术家荣爽吉的具体作品链接
+	                    </div>
+                    </a>  
                 </div> 
 
                 <div class="col-md-4 col-sm-4 col-xs-12">
