@@ -39,6 +39,45 @@
             <div>
 	            <span style="color: #323edb; font-size: 18px;">近期主要活动</span>&nbsp;
             </div>
+            
+            <div class="row" style="margin: 20px 0 10px 0;">     
+                <h1><b>🎉 Cross Culture  特色中文课 正式招生啦！ 🎉</b></h1>         
+	            <div class="col-md-6 col-sm-6 col-xs-12">	                
+	                
+	                <h2>沉浸式中文教学+文化艺术交流 = 独一无二的中文学习体验</h2>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
+开课日期: <br/>
+<b>2025年6月11日，具体内容请参考每期课程通告</b><br/><br/>
+时间: <br/>
+<b>每周三晚 6:45 - 8:45</b><br/><br/>
+上课地址: <br/>
+<b>1390 Prince of Wales Dr, Suite 304, Ottawa, ON K2C 3N6</b><br/>
+						</div>
+	                </div>
+	                <div class="text-muted" style="font-size: 18px;">
+					    <a class="btn btn-orange btn-lg" href="2025chineseClass.jsp">更多信息</a> 
+					</div>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">	
+	                <h2>Cross Culture Special Chinese Program – Now Open for Enrollment!</h2>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
+Start Date: <br/>
+<b>June 11, 2025 (see course announcements for session details)</b><br/><br/>
+Class Time: <br/>
+<b>Wednesdays 6:45 – 8:45 PM</b><br/><br/>
+Location: <br/>
+<b>1390 Prince of Wales Dr, Suite 304, Ottawa, ON K2C 3N6</b><br/>
+						</div>
+	                </div>
+	                <div class="text-muted" style="font-size: 18px;">
+					    <a class="btn btn-orange btn-lg" href="2025chineseClass.jsp">More</a> 
+					</div>
+	            </div>
+	        </div>
+	        <hr/>
+	        
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
 	                <h1><b>2025年加拿大加华艺术协会年展</b></h1>
