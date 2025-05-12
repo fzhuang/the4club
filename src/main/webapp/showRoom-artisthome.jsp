@@ -135,14 +135,16 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="text-muted">
 						<div class="text-muted" style="font-size: 20px;">
-荣爽吉是一位活跃于加拿大蒙特利尔的华人书法家，致力于中华书法艺术的传承与推广。她是“遇见书法书艺社”的社长，该社团在蒙特利尔提供各种风格的书法工作坊，旨在分享传统中国书法的美学和技巧。
-<br/><br/>
-荣爽吉的作品多次入选并被收藏于中国、美国、日本和加拿大的国际书画展览中。她曾在蒙特利尔中华文化节的“琴棋书画品茶花文化周”活动中现场书写《爱我中华》。此外，荣爽吉还担任蒙特利尔书法家协会会长，积极参与加拿大加华艺术协会的活动。
+荣爽吉，出生于上海，祖籍江苏无锡，九十年代末旅居加拿大蒙特利尔，现
+任蒙特利尔书法家协会会长，加拿大女书家联谊会会长，加拿大中华书画艺
+术联合会共同会长，遇见书法MeetCalligraphy书艺院院长，策展人，设计
+师，拥有三十多年书法实践经验，长期致力于书法创作，中西结合书法创新
+课程开发与研究，从事中加文化交流，书法文化推进与传承。 
 						</div>                       
                     </div>                         
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="showRoom-artisthome/wing1.jpg" /> 
+                    <img style="max-width: 90%" src="artist/rong.png" /> 
                 </div>            
             </div>          
         </div>
@@ -168,7 +170,7 @@
                            
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768?sceneUid=xU7f">
+                    <a href="https://www.cubedrive.com/lite/app/form/fileId_HLtc5hmaiRY">
                         <h3><b>华人书法家荣爽吉</b></h3>
 	                    <div class="text-muted">
 	                                                          艺术家荣爽吉的具体作品链接
