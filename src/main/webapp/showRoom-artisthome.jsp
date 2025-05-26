@@ -154,7 +154,7 @@
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
         
-            <div><h2><b>华人艺术家石介</b></h2></div>           
+            <div><h2><b>华人书法家石介</b></h2></div>           
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="text-muted">
@@ -201,9 +201,9 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
                     <a href="https://www.cubedrive.com/lite/app/form/7332558389941112832">
-                        <h3><b>艺术家石介</b></h3>
+                        <h3><b>华人书法家石介</b></h3>
 	                    <div class="text-muted">
-	                                                          艺术家荣石介的具体作品链接
+	                                                          艺术家石介的具体作品链接
 	                    </div>
                     </a>  
                 </div> 
