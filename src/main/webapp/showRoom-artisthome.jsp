@@ -144,7 +144,27 @@
                     </div>                         
                 </div>  
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="artist/rong.png" /> 
+                    <img style="max-width: 90%" src="artist/rong2.png" /> 
+                </div>            
+            </div>          
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+        
+            <div><h2><b>华人艺术家石介</b></h2></div>           
+            <div class="row" style="margin: 20px 0 10px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+南开大学经济学和燕山大学机械学双硕士  自幼酷爱国学，习书三十余年，坚持行身运气站桩临池。精研《说文解字》，通《易》《诗》，文理兼通，身心双修，旨在探索中西文化的借鉴融合和现实应用。现为加拿大中国书画院院长，都蘭山画院顾问，大西洋书法家协会荣誉会长。
+						</div>                       
+                    </div>                         
+                </div>  
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <img style="max-width: 90%" src="artist/sj.jpg" /> 
                 </div>            
             </div>          
         </div>
@@ -177,14 +197,17 @@
 	                    </div>
                     </a>  
                 </div> 
-
+                
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <span class="fas fa-headphones fa-4x" style="color: #F97664;"></span>
-                    <a href="https://www.cubedrive.com/lite/app/form/7319709145127456768"><h3><b>艺术家（三）</b></h3></a>
-                    <div class="text-muted">
-                        艺术家的链接
-	                </div>
-                </div>            
+                    <a href="https://www.cubedrive.com/lite/app/form/7332558389941112832">
+                        <h3><b>艺术家石介</b></h3>
+	                    <div class="text-muted">
+	                                                          艺术家荣石介的具体作品链接
+	                    </div>
+                    </a>  
+                </div> 
+         
             </div>          
         </div>
         <hr>
