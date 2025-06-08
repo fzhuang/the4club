@@ -251,6 +251,41 @@ Sprinkle colorful petals
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
             <div>
+                 <span style="color: #323edb; font-size: 18px;">Stage 5: Ceremony</span>&nbsp;
+            </div>
+            
+            <div class="row" style="margin: 20px 0 10px 0;">   
+                <div class="col-md-6 col-sm-12 col-xs-12">              
+					<div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
+<b>Ink Poetry Award Ceremony</b><br/><br/>
+Good evening everyone, and welcome to the 2025 Ink Poetry Award Ceremony!<br/><br/>
+We are absolutely delighted to have you here tonight as we gather to celebrate the remarkable voices and creative spirits behind this year’s poetry submissions.<br/><br/>
+On behalf of the Ink Poetry Award Team, I want to extend our heartfelt congratulations to every contestant. Whether you’re a seasoned poet or someone sharing your words for the first time, your work moved us. Each poem was a window into a world of imagination, truth, and emotion.<br/><br/>
+Tonight is not just about awards—it's about community. It’s about recognizing the courage it takes to put pen to paper and share your voice with the world. It’s about honoring how poetry continues to shape how we see, feel, and connect.<br/><br/>
+We have a wonderful lineup of readings and performances tonight, showcasing the diverse talents that have made this year's competition so special. Please sit back and enjoy these powerful pieces.<br/><br/>
+Thank you once again for being here. Whether you’re walking away with an award or the quiet pride of having shared your work, you are all part of something meaningful.<br/><br/>
+We hope you’ll stay a little while longer to chat, connect, and enjoy the creative energy in the room. Thank you for making this night truly unforgettable.
+						</div>                       
+                    </div>  
+                </div>
+	            <div class="col-md-6 col-sm-12 col-xs-12">  
+	                <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/jV_w8p7OyEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <br/>
+                    <img style="width: 100%;" src="competition-inkPoetry/celebration2.JPEG" />  
+                    <br/><br/>
+                    <img style="width: 100%;" src="competition-inkPoetry/celebration1.JPEG" />  
+	            </div>	                     
+            </div>       
+        </div>
+        <hr>
+    </section>
+    
+    <section class="page-section" style="margin-top: 10px;">   
+        <div class="container">
+            <div>
                  <span style="color: #323edb; font-size: 18px;">Stage 4: Invitation to Ceremony</span>&nbsp;
             </div>
         

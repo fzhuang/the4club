@@ -91,11 +91,25 @@
             </div>
         
             <div><h2><b>2025年加拿大加华艺术协会年展 - 墨影华韵</b></h2></div>
-            <div class="text-muted" style="font-size: 20px;">
+
+            <div class="row" style="margin: 20px 0 10px 0;">              
+                <div class="col-md-6 col-sm-6 col-xs-12">
+
+                    <div class="text-muted">
+						<div class="text-muted" style="font-size: 20px;">
 在这片绿意盎然的初夏时光，我们诚邀您携家人莅临参观加拿大加华艺术协会年展，共襄盛举。
 本次年展以“墨影华韵--多元视角下的中国艺术”为主题，全面汇聚书法、国画、油画、篆刻、剪纸与摄影，既传承中华艺术的悠远韵味，亦展现跨文化视野下的时代风采。无论您是艺术爱好者，文化探索者，还是寻找灵感的旅人，都能在这一场墨韵丹青之间，感受到传统与创新交融的人文温度与艺术魅力。
-            </div>
-            <hr>
+						</div>                       
+                    </div>
+                </div>  
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="responsive-video">
+                    <iframe src="https://www.youtube.com/embed/iOHOvS9FDn8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>                    
+                </div>            
+            </div>              
+            
+            <hr/>
             
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
