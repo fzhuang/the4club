@@ -123,7 +123,7 @@
 
  <div class="text-muted" style="font-size: 20px;">
      详情请参考<a href="2025christmas/main.pdf">【PDF内容】</a>有兴趣的家长，请填写以下链接里的报名表。
-     <a class="btn btn-orange btn-lg" href="cubedrive.com/lite/app/form/7376369892636758016">报名表</a> 
+     <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7376369892636758016">报名表</a> 
  </div>
                         
                     </div>
