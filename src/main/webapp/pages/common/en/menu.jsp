@@ -32,6 +32,9 @@
 						    
 						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2025christmas.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025圣诞广州-厦门游学</a>
+								</li>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025artistShow.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年加拿大加华艺术协会年展: 墨影华韵</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
