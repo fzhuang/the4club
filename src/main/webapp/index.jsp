@@ -40,6 +40,31 @@
 	            <span style="color: #323edb; font-size: 18px;">近期主要活动</span>&nbsp;
             </div>
             
+            <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-6 col-xs-12">	                
+	                <h1><b>2025圣诞广州-厦门游学火热报名中</b></h1>
+	                <h2>行走华夏，赓续岭南</h2>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
+						<br/>
+						时间: <b>2025.12.21 - 2025.12.31</b><br/><br/>
+						11天10晚的研学之旅，带你亲历岭南⽂化的厚重，感受海丝精神的开阔；在实地探访与沉浸体验中，让学习超越书本，让⽂化照进⽣活。<br/>
+						</div>
+	                </div>
+	                <div class="text-muted" style="font-size: 18px;">
+					    <a class="btn btn-orange btn-lg" href="2025christmas.jsp">更多信息</a> 
+					</div>
+					<br/>    
+					<div class="text-muted" style="font-size: 20px;">
+与我们⼀同出发，在这⽚海⻛与古韵交织的⼟地上，⼀段跨越千年的⽂化旅程即将启程。
+                    </div>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">	
+	                <img style="max-width: 90%" src="2025christmas/main.jpg" /> 
+	            </div>
+	        </div>
+	        <hr/>
+            
             <div class="row" style="margin: 20px 0 10px 0;">     
                 <h1><b>🎉 Cross Culture  特色中文课 正式招生啦！ 🎉</b></h1>         
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
@@ -76,33 +101,7 @@ Location: <br/>
 					</div>
 	            </div>
 	        </div>
-	        <hr/>
-	        
-            <div class="row" style="margin: 20px 0 10px 0;">              
-	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025年加拿大加华艺术协会年展</b></h1>
-	                <h2>墨影华韵: 多元视角下的中国艺术</h2>
-	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
-						<div class="text-muted" style="font-size: 18px;">
-						<br/>
-						时间: <b>2025.06.01 - 06.28</b><br/>
-						地点: <b>120 Metcalfe Street,Ottawa,ON</b><br/>
-						渥太华中心图书馆(Main Library)<br/>
-						</div>
-	                </div>
-	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2025artistShow.jsp">更多信息</a> 
-					</div>
-					<br/>    
-					<div class="text-muted" style="font-size: 20px;">
-在这片绿意盎然的初夏时光，我们诚邀您携家人莅临参观加拿大加华艺术协会年展，共襄盛举。
-本次年展以“墨影华韵--多元视角下的中国艺术”为主题，全面汇聚书法、国画、油画、篆刻、剪纸与摄影，既传承中华艺术的悠远韵味，亦展现跨文化视野下的时代风采。无论您是艺术爱好者，文化探索者，还是寻找灵感的旅人，都能在这一场墨韵丹青之间，感受到传统与创新交融的人文温度与艺术魅力。
-                    </div>
-	            </div>
-	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2025artistShow/post.jpg" /> 
-	            </div>
-	        </div>
+    
 	        
          </div>
     </section>
