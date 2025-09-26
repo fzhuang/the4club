@@ -100,27 +100,32 @@
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <span class="far fa-list-alt fa-3x" style="color: #323EDB;"></span>
-                    <h3><b>要求</b></h3>
                     <div class="text-muted">
 <div class="text-muted" style="font-size: 18px;">
-参与对象： 任何感兴趣的朋友
+组织机构：<br/>
+中学生学习报社（中国）<br/>
+全球文化教育交流协会（新加坡）<br/>
+加中文化教育交流中心（加拿大）<br/>
+渥太华中文学校基金会
 </div>
 <div class="text-muted" style="font-size: 18px;">
-                     时间：2025/12/21 - 2025/12/31
+参与对象： 12岁以上至30岁的大中学生。
 </div>
 <div class="text-muted" style="font-size: 18px;">
-费用：1799加币（包括食宿旅游，交通费用 - 但不包括从加拿大到中国的来回机票）
+时间：2025/12/20-2025/12/31
 </div>
 <div class="text-muted" style="font-size: 18px;">
-费用支付：2025/11/1交付订金500加元，2025/12/1支付余下的1299加元
+费用：1800加币（包括落地广州后的一切食宿研学和交通费用，不含国际机票）
+</div>
+<div class="text-muted" style="font-size: 18px;">
+2025/11/1交付订金500加元，2025/12/1支付余下的1300加元
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
-退费说明<br/>
+补充说明<br/>
 1. 2025/12月1日日前因为个人原因退出，扣除100加元，剩余费用退还。<br/>
 2. 2025/12/10日及以后因个人原因退出，扣除缴纳费用50%，剩余全部退还。<br/>
 3. 如果因组织方原因本次游学活动取消，100%全款退还。<br/><br/>
-
 </div>
 
  <div class="text-muted" style="font-size: 20px;">
