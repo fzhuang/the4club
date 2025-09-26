@@ -63,9 +63,6 @@
 	                <img style="max-width: 90%" src="2025christmas/main.jpg" /> 
 	            </div>
 	        </div>
-	        <hr/>
-            
-	        
          </div>
     </section>
     <hr>    
