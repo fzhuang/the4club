@@ -699,12 +699,12 @@ A：只要时间一致，欢迎家长参团。国内学校有严格规定，不�
                     <img src="resource/images/bg2.png" alt="Contact us">
                     <div class="carousel-caption">
                         <div class="carousel-caption-title">
-                            加入我们-成为会员
+                            2025圣诞广州-厦门游学报名
                         </div>
                         <div class="carousel-caption-subtitle">
-加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
+“⾏⾛中国,赓续⽂脉—国际研学营· 闽粤线”，带你⾛进岭南与闽地。这⾥，有⼴府的繁华与烟⽕，潮汕的古巷与⼯夫茶，泉州的海丝遗迹，厦⻔的浪漫⻛情……⼀步⼀景，皆是中国⽂脉的⽣动注脚。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">会员申请表</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7376369892636758016">游学报名</a> 
                     </div>
                 </div>
             </div>

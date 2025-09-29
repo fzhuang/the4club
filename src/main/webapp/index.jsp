@@ -47,7 +47,7 @@
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>
-						时间: <b>2025.12.21 - 2025.12.31</b><br/><br/>
+						时间: <b>2025.12.20 - 2025.12.31</b><br/><br/>
 						11天10晚的研学之旅，带你亲历岭南⽂化的厚重，感受海丝精神的开阔；在实地探访与沉浸体验中，让学习超越书本，让⽂化照进⽣活。<br/>
 						</div>
 	                </div>
