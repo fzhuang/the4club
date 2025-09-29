@@ -60,7 +60,7 @@
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2025christmas/main.jpg" /> 
+	                <img style="max-width: 90%" src="2025christmas/main2.jpg" /> 
 	            </div>
 	        </div>
          </div>
