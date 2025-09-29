@@ -2,7 +2,7 @@
          pageEncoding="UTF-8"%>
 
 <head>
-	<title>加中文化教育交流中心：2025圣诞广州-厦门游学</title>	
+	<title>加中文化教育交流中心：2025圣诞行走华夏，赓续岭南-渥太华国际研学营</title>	
 	<meta name="title" content="加中文化教育交流中心"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
 	<meta property="og:title" content="加中文化教育交流中心：2025圣诞广州-厦门游学">
@@ -73,7 +73,7 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              2025圣诞广州-厦门游学
+                              2025圣诞行走华夏，赓续岭南-渥太华国际研学营
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
 “⾏⾛中国,赓续⽂脉—国际研学营· 闽粤线”，
@@ -91,7 +91,7 @@
                  <span style="color: #323edb; font-size: 18px;">介绍</span>&nbsp;
             </div>
         
-            <div><h2><b>2025圣诞广州-厦门游学火热报名中</b></h2></div>
+            <div><h2><b>2025圣诞行走华夏，赓续岭南-渥太华国际研学营火热报名中</b></h2></div>
             <div class="text-muted" style="font-size: 20px;">
             11天10晚的研学之旅，带你亲历岭南⽂化的厚重，感受海丝精神的开阔；在实地探访与沉浸体验中，让学习超越书本，让⽂化照进⽣活。
             <br/>与我们⼀同出发，在这⽚海⻛与古韵交织的⼟地上，⼀段跨越千年的⽂化旅程即将启程。
