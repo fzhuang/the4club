@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="2025christmas/main3.jpg" /> 
+                    <img style="max-width: 90%" src="2025christmas/main5.jpg" /> 
                 </div>            
             </div>          
         </div>
