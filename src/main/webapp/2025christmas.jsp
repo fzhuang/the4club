@@ -121,7 +121,7 @@
 <b>费用:</b> 1800加币（包括落地广州后的一切食宿研学和交通费用，不含国际机票）
 </div>
 <div class="text-muted" style="font-size: 18px;">
-2025/11/1交付订金500加元，2025/12/1支付余下的1300加元
+2025/11/1交付订金500加元，2025/12/1支付余下的1300加元。请e-transfer： syrg4cclub@gmail.com
 </div>
 
 <div class="text-muted" style="font-size: 18px;">
