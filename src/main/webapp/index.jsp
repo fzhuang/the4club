@@ -42,7 +42,7 @@
             
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025圣诞行走华夏，赓续岭南-渥太华国际研学营</b></h1>
+	                <h1><b>2025圣诞奇妙之旅行闽粤线-渥太华国际研学营</b></h1>
 	                <h2>行走华夏，赓续岭南</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
