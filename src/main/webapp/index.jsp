@@ -63,6 +63,32 @@
 	                <img style="max-width: 90%" src="2025christmas/main2.jpg" /> 
 	            </div>
 	        </div>
+	        <hr/>
+	        
+	        <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-6 col-xs-12">	                
+	                <h1><b>2026年春假赴成都和重庆交流学生团</b></h1>
+	                <h2>"成都&重庆"文化之旅</h2>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
+						<br/>
+						时间: <b>2026.3.12 - 2026.3.22</b><br/><br/>
+						10天的研学之旅，带你亲历成都&重庆的文化；在实地探访与沉浸体验中，让学习超越书本，让⽂化照进⽣活。<br/>
+						</div>
+	                </div>
+	                <div class="text-muted" style="font-size: 18px;">
+					    <a class="btn btn-orange btn-lg" href="2026chengdu.jsp">更多信息</a> 
+					</div>
+					<br/>    
+					<div class="text-muted" style="font-size: 20px;">
+与我们⼀同出发，⼀段跨越千年的⽂化旅程即将启程。
+                    </div>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">	
+	                <img style="max-width: 90%" src="2026chengdu/main.png" /> 
+	            </div>
+	        </div>
+	        
          </div>
     </section>
     <hr>    
