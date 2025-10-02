@@ -29,6 +29,11 @@
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025chineseClass.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>Cross Culture 特色中文课 </a>
 								</li>
+								
+								<h3 class="sub-menu-list-title">2026年活动</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2026chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2026年春假成都和重庆文化之旅</a>
+								</li>
 						    
 						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
