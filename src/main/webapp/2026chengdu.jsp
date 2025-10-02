@@ -100,10 +100,10 @@
                     <h3><b>要求</b></h3>
                     <div class="text-muted">
 <div class="text-muted" style="font-size: 18px;">
-参与对象：7-12年级高中生和大学生
+参与对象：7-12年级高中生
 </div>
 <div class="text-muted" style="font-size: 18px;">
-                     时间：2026/3/12 - 2025/3/22
+                     时间：2026/3/12 - 2026/3/22
 </div>
 <div class="text-muted" style="font-size: 18px;">
 总费用：每人 CAD 3,800； <br/>
