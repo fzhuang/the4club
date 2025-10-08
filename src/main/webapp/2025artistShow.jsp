@@ -24,7 +24,7 @@
 	<meta property="article:author" content="https://the4cclub.ca"/>
 	<meta property="article:section" content="Director"/>
 	<meta property="article:published_time" content="2021-01-01T21:25:21+00:00"/>
-	<meta property="article:modified_time" content="2021-01-01T21:25:21+00:00"/>
+	<meta property="article:modified_time" content2025–2026  The 2nd Ottawa Youth Chinese Cultural Festival="2021-01-01T21:25:21+00:00"/>
 	<meta property="og:updated_time" content="2023-01-29T09:25:01+00:00"/>
 	<meta property="og:image" content="https://the4cclub.ca/resource/images/background/main.jpg"/>
 	<meta property="og:image:secure_url" content="https://the4cclub.ca/resource/images/background/main.jpg"/>
