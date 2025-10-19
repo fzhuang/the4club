@@ -702,7 +702,7 @@ A：只要时间一致，欢迎家长参团。国内学校有严格规定，不�
                         <div class="carousel-caption-subtitle">
 让世界青少年触摸华夏文明的根与魂;“行走中国 赓续文脉”国际研学营之京豫陕线;13天12晚文明探脉之旅。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7376369892636758016">游学报名</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_o39HobI_fCk">游学报名</a> 
                     </div>
                 </div>
             </div>
