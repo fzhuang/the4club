@@ -167,7 +167,7 @@
                 </div>
 
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="2026yxx/main.png" /> 
+                    <img style="max-width: 95%" src="2026yxx/about.png" /> 
                 </div>            
             </div>          
         </div>

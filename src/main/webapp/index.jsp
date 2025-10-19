@@ -42,6 +42,31 @@
             
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
+	                <h1><b>2026年春假国际研学营之京豫陕线</b></h1>
+	                <h2>行走中国 赓续文脉</h2>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
+						<br/>
+						时间: <b>2026.03.09 - 2026.03.21</b><br/><br/>
+						让世界青少年触摸华夏文明的根与魂;“行走中国 赓续文脉”国际研学营之京豫陕线;13天12晚文明探脉之旅。<br/>
+						</div>
+	                </div>
+	                <div class="text-muted" style="font-size: 18px;">
+					    <a class="btn btn-orange btn-lg" href="2026yxx.jsp">更多信息</a> 
+					</div>
+					<br/>    
+					<div class="text-muted" style="font-size: 20px;">
+与我们⼀同出发，在这⽚海⻛与古韵交织的⼟地上，⼀段跨越千年的⽂化旅程即将启程。
+                    </div>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">	
+	                <img style="max-width: 90%" src="2026yxx/about.png" /> 
+	            </div>
+	        </div>
+	        <hr/>
+            
+            <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-6 col-xs-12">	                
 	                <h1><b>2025圣诞奇妙之旅行闽粤线-渥太华国际研学营</b></h1>
 	                <h2>行走华夏，赓续岭南</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
