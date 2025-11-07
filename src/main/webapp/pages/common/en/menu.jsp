@@ -22,64 +22,67 @@
                 <li><a data-pages="index" href="index.jsp">主页/Home</a></li>
                 
                 <li><a data-pages="activities" href="2025summerCampBeijing.jsp">活动/Activities</a>
-                    <div class="sub-menu-small">
-						<div class="sub-menu-small-container">
+                    <div class="sub-menu-big">
+						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">中文教育</h3>
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025chineseClass.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>Cross Culture 特色中文课 </a>
-								</li>
 								
 								<h3 class="sub-menu-list-title">2026年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2026chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2026年春假成都和重庆文化之旅</a>
+									<a href="2026chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026年春假成都和重庆文化之旅</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025YouthFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025–2026 The 2nd Ottawa Youth Chinese Cultural Festival</a>
+									<a href="2025YouthFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025–2026 The 2nd Ottawa Youth Chinese Cultural Festival</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2026yxx.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2026年春假国际研学营之京豫陕线</a>
+									<a href="2026yxx.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026年春假国际研学营之京豫陕线</a>
 								</li>
 						    
 						        <h3 class="sub-menu-list-title">2025年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025christmas.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025圣诞广州-厦门游学</a>
+									<a href="2025christmas.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025圣诞广州-厦门游学</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025artistShow.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年加拿大加华艺术协会年展: 墨影华韵</a>
+									<a href="2025artistShow.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025年加拿大加华艺术协会年展: 墨影华韵</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025 Summer Beijing Camp</a>
+									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025 Summer Beijing Camp</a>
 								</li>		        
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025chengduAction.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年成都游学十日</a>
+									<a href="2025chengduAction.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025年成都游学十日</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025SpringFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>岁月如歌文艺沙龙 春节茶话会</a>
+									<a href="2025SpringFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>岁月如歌文艺沙龙 春节茶话会</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025蛇年第二届渥太华青少年生肖绘画比赛</a>
+									<a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025蛇年第二届渥太华青少年生肖绘画比赛</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025snakePainting.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025蛇年加华艺术协会迎春书画展</a>
+									<a href="2025snakePainting.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025蛇年加华艺术协会迎春书画展</a>
 								</li>			 
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>2025年春假赴成都交流学生团</a>
+									<a href="2025chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025年春假赴成都交流学生团</a>
 								</li>	
+							</ul>	
+							<ul class="sub-menu-list">
+							
+				                <h3 class="sub-menu-list-title">中文教育</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2025chineseClass.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>Cross Culture 特色中文课 </a>
+								</li>
 								
 								<h3 class="sub-menu-list-title">比赛</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>Ink Poetry Awards</a>
+									<a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>Ink Poetry Awards</a>
 								</li>		
 								
 								<h3 class="sub-menu-list-title">沙龙讲坛</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="speech-ai.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>AI大模型的进展和展望</a>
+									<a href="speech-ai.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>AI大模型的进展和展望</a>
 								</li>																															
 
 						        <h3 class="sub-menu-list-title">2024年活动</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #323EDB;;"></i>渥太华中文学校慈善基金会五十年庆典</a>
+									<a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>渥太华中文学校慈善基金会五十年庆典</a>
 								</li>																															
 				            </ul>
 				        </div>
@@ -91,7 +94,7 @@
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="spotlight-people.jsp"><i class="fas fa-user" style="margin-right: 8px; color: #323EDB;;"></i>人物访谈</a>
+									<a href="spotlight-people.jsp"><i class="fas fa-user" style="margin-right: 8px; color: #ff0000;"></i>人物访谈</a>
 								</li>					
 				            </ul>
 				        </div>
@@ -103,20 +106,20 @@
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">					        						
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="showRoom-artisthome.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>艺术家之家</a>
+									<a href="showRoom-artisthome.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>艺术家之家</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
-									<a href="showRoom-yearSong.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>岁月如歌俱乐部</a>
+									<a href="showRoom-yearSong.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>岁月如歌俱乐部</a>
 								</li>	
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
-									<a href="showRoom-ccacc.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #323EDB;;"></i>加拿大加华艺术协会</a>
+									<a href="showRoom-ccacc.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>加拿大加华艺术协会</a>
 								</li>	
 								<h3 class="sub-menu-list-title">文化艺术园地</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>书画摄影篆刻</a>
+									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>书画摄影篆刻</a>
 								</li>	
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #323EDB;;"></i>传统艺术</a>
+									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>传统艺术</a>
 								</li>
 				            </ul>
 				        </div>
@@ -128,7 +131,7 @@
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="joinUs.jsp"><i class="fas fa-user-plus" style="margin-right: 8px; color: #323EDB;;"></i>加入我们</a>
+									<a href="joinUs.jsp"><i class="fas fa-user-plus" style="margin-right: 8px; color: #ff0000;"></i>加入我们</a>
 								</li>
 						
 				            </ul>

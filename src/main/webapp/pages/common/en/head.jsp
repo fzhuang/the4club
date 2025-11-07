@@ -38,7 +38,7 @@
 <!--font awesome-->
 <link rel="stylesheet" href="resource/fontawesome-free-5.15.4-web/css/all.css">
 <link rel="stylesheet" href="resource/css/animate.css">
-<link href="resource/css/style.css?v=1.2" rel="stylesheet">
+<link href="resource/css/style.css?v=1.3" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

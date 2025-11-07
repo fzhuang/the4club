@@ -41,7 +41,7 @@
 	<!--font awesome-->
 	<link rel="stylesheet" href="resource/fontawesome-free-5.15.4-web/css/all.css">
 	<link rel="stylesheet" href="resource/css/animate.css">
-	<link href="resource/css/style.css?v=1.2" rel="stylesheet">
+	<link href="resource/css/style.css?v=1.1" rel="stylesheet">
 	
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -62,33 +62,35 @@
     <%@ include file="/pages/common/en/menu.jsp" %>
     
     <section>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <div id="carousel-home" class="carousel slide" data-ride="carousel">
 
-            <!-- Wrapper for slides -->
             <div class="carousel-inner carousel-inner2" role="listbox">
-                <div class="item active" >
-                    <picture>
-					    <source srcset="joinUs/images/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="joinUs/images/bg.jpg" alt="online sheet">
-					</picture>
-					<div class="carousel-caption" >
-                        <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              加入我们
+                <div class="item active" style="background: linear-gradient(135deg, #e60000 0%, #660000 100%);min-height: 400px; display: flex; align-items: center; color: #fff;">
+                    
+                    <div class="carousel-caption" style="flex: 1;">
+                        <div class="carousel-caption-toptitle">
+                                   the 4C Club
                         </div>
-                        <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">                            
+                        <div class="carousel-caption-title">
+                           加入我们
+                        </div>
+                        <div class="carousel-caption-subtitle">
 The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language, cultural, and artistic exchange, while embracing and celebrating Canada's rich multicultural landscape.
-                        </div>
-                    </div>
-                </div>
+                        </div>  
+                    </div>                  
+                </div>         
             </div>
+            
         </div>
     </section>
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">Join us</span>&nbsp;
-            </div>
+            <div class="section-title">
+			   Join us
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>
         
             <h2><b>Membership Bylaws</b></h2>
             <div class="row" style="margin: 20px 0 10px 0;">              
@@ -112,11 +114,16 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
                 </div>            
             </div>          
         </div>
-        <hr>
     </section>
     
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
+        
+            <div class="section-title">
+			   Our Board
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>
         
             <h2><b>Board of Directors</b></h2>
             <div class="text-muted" style="font-size: 20px;">
@@ -164,12 +171,10 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
         <hr>
     </section>
 
-
     <section>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <div class="carousel slide" data-ride="carousel">
             <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img src="resource/images/bg2.png" alt="Contact us">
+                <div class="donationBg">
                     <div class="carousel-caption">
                         <div class="carousel-caption-title">
                             加入我们-成为会员
