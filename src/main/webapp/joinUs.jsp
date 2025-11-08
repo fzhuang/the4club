@@ -69,7 +69,7 @@
                     
                     <div class="carousel-caption" style="flex: 1;">
                         <div class="carousel-caption-toptitle">
-                                   the 4C Club
+                                 加中文化教育交流中心
                         </div>
                         <div class="carousel-caption-title">
                            加入我们

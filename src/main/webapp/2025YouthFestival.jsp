@@ -62,34 +62,35 @@
     <%@ include file="/pages/common/en/menu.jsp" %>
     
     <section>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-            <!-- Wrapper for slides -->
+        <div id="carousel-home" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner carousel-inner2" role="listbox">
-                <div class="item active" >
-                    <picture>
-					    <source srcset="2025paintingByYoung/touch.jpg" media="(max-width: 640px)">
-					    <img srcset="2025paintingByYoung/bg.jpg" alt="online sheet">
-					</picture>
-					<div class="carousel-caption" >
-                        <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              2025–2026 The 2nd Ottawa Youth Chinese Cultural Festival
+                <div class="item active" style="background: linear-gradient(135deg, #e60000 0%, #660000 100%);min-height: 400px; display: flex; align-items: center; color: #fff;">
+                    
+                    <div class="carousel-caption" style="flex: 1;">
+                        <div class="carousel-caption-toptitle">
+                            the 4C Club  
                         </div>
-                        <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                       Theme： Galloping Horses · The Spirit of the Dragon Horse<br/>
-A Cross-Cultural Journey of Heritage and Innovation          
+                        <div class="carousel-caption-title">
+                           2025–2026 The 2nd Ottawa Youth Chinese Cultural Festival
                         </div>
-                    </div>
-                </div>
-            </div>
+                        <div class="carousel-caption-subtitle">
+                   Theme： Galloping Horses · The Spirit of the Dragon Horse<br/>
+A Cross-Cultural Journey of Heritage and Innovation    
+                        </div>  
+                    </div>                  
+                </div>         
+            </div>            
         </div>
     </section>
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">Detail</span>&nbsp;
-            </div>        
+            <div class="section-title">
+			      Detail
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>
+                   
             <div><h2><b>A TASTE OF CHINA: CULTURE CUISINE AND CREATIVITY</b></h2></div>    
             <div class="row" style="margin: 25px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
@@ -123,14 +124,16 @@ Activities:<br/>Games & interactions with local Chinese school students (junior 
                 </div>            
             </div>          
         </div>
-        <hr>
     </section>
     
     <section class="page-section" style="margin-top: 20px;">   
-        <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">About</span>&nbsp;
-            </div>        
+        <div class="container">   
+            <div class="section-title">
+			      About
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>
+			 
             <div><h2><b>A Cross-Cultural Journey of Heritage and Innovation</b></h2></div>    
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
@@ -165,14 +168,15 @@ The 2nd Ottawa Youth Chinese Cultural Festival takes “Spirit of the Zodiac –
                 </div>            
             </div>          
         </div>
-        <hr>
     </section>
     
     <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">Festival Highlights</span>&nbsp;
-            </div>
+            <div class="section-title">
+			      Festival Highlights
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>
 
             <div class="text-muted" style="margin: 20px 0 20px 0; font-size: 20px;">
 
@@ -211,14 +215,15 @@ The 2nd Ottawa Youth Chinese Cultural Festival takes “Spirit of the Zodiac –
                 </div>
             </div>   
         </div> 
-        <hr>
     </section>
     
-       <section class="page-section" style="margin-top: 20px;">   
+   <section class="page-section" style="margin-top: 10px;">   
         <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">Call for Workshop Instructors</span>&nbsp;
-            </div>        
+            <div class="section-title">
+			      Call for Workshop Instructors
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>       
             <div><h2><b>We’re looking for passionate artists and educators!</b></h2></div>    
             <div class="row" style="margin: 20px 0 10px 0;"> 
             
@@ -255,13 +260,15 @@ Please send your resume and workshop proposal to:<br/>
             </div>          
         </div>       
     </section>
-    <hr>
-    
+
     <section class="page-section" style="margin-top: 20px;">   
-        <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">介绍</span>&nbsp;
-            </div>        
+        <div class="container">    
+            <div class="section-title">
+			      介绍
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div>   
+			 
             <div><h2><b>2025–2026 第二届渥太华青少年中华文化艺术节 </b></h2></div>    
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
@@ -296,14 +303,16 @@ Please send your resume and workshop proposal to:<br/>
                 </div>            
             </div>          
         </div>
-        <hr>
     </section>
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
-            <div>
-                 <span style="color: #323edb; font-size: 18px;">活动</span>&nbsp;
-            </div>        
+            <div class="section-title">
+			      活动
+			  <span class="icon-red"></span>
+			  <div class="section-line"></div>
+			</div> 
+			       
             <div class="row" style="margin: 20px 0 10px 0;">           
 
                 <div class="col-md-6 col-sm-6 col-xs-12" style="font-size: 20px;"> 

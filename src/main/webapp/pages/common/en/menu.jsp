@@ -21,7 +21,7 @@
             <ul class="nav navbar-nav">
                 <li><a data-pages="index" href="index.jsp">主页/Home</a></li>
                 
-                <li><a data-pages="activities" href="2025summerCampBeijing.jsp">活动/Activities</a>
+                <li><a data-pages="activities" href="2025youthAct.jsp">活动/Activities</a>
                     <div class="sub-menu-big">
 						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
@@ -38,6 +38,9 @@
 								</li>
 						    
 						        <h3 class="sub-menu-list-title">2025年活动</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2025youthAct.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>渥太华第二届青少年中华文化艺术节首场活动</a>
+								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025christmas.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025圣诞广州-厦门游学</a>
 								</li>

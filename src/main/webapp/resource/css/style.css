@@ -1410,6 +1410,10 @@ a:focus, a:hover {
 .carousel-inner.carousel-inner2 img{
     max-height: 650px;
 }
+.carousel-caption .carousel-caption-toptitle{
+    font-size: 26px;
+    padding: 2px 0px 15px 0px;
+}
 .carousel .carousel-control{
     
 }
@@ -1761,6 +1765,9 @@ h3, .h3 {
     }
     .carousel-caption .carousel-caption-subtitle{
         font-size: 18px;
+    }
+        .carousel-caption .carousel-caption-toptitle{
+        font-size: 20px;
     }
     .carousel-inner img{
         min-height: 480px;
