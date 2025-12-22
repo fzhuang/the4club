@@ -117,6 +117,10 @@
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
 									<a href="showRoom-ccacc.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>加拿大加华艺术协会</a>
 								</li>	
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
+									<a href="showRoom-loveHappy.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>爱乐合唱团</a>
+								</li>	
+								<!--  
 								<h3 class="sub-menu-list-title">文化艺术园地</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>书画摄影篆刻</a>
@@ -124,6 +128,7 @@
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="showRoom-artCom.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>传统艺术</a>
 								</li>
+								-->
 				            </ul>
 				        </div>
 				     </div>
