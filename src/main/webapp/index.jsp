@@ -148,65 +148,46 @@ Through educational initiatives, artistic exchanges, and community involvement, 
         <div class="container">
         
             <!-- application -->
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <img style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;max-width: 90%;"
-                            src="resource/images/background/culture.jpg" />
+            <div class="row" style="margin: 20px 0 10px 0;"> 
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">                                 
+		                <h2>文化传承：维系历史与未来的纽带</h2>
+		                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+ 文化传承是一种记忆的延续，它将语言、艺术、习俗、信仰以及其他传统形式，通过代际的学习和实践保存下来。在海外中文教育的背景下，文化传承尤其重要。它不仅能够帮助海外华人后代保持对自身根源的认同，还能够将中华文化的精髓展示给更多国家和民族。比如，通过教授中文、传播中国书法、音乐、戏剧和民间艺术等形式，能够使不同文化背景的人感受到中华文化的魅力，并激发他们的兴趣与热爱。                               	                    
+		                </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
-                     style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;">
-                    <div style="padding-top: 60%">
-                        <div class="position-center" style="width: 95%">
-                            <br/>
-                            <h3 class="text-size-title">文化传承：维系历史与未来的纽带</h3>
-                            <p class="text-size-description">
- 文化传承是一种记忆的延续，它将语言、艺术、习俗、信仰以及其他传统形式，通过代际的学习和实践保存下来。在海外中文教育的背景下，文化传承尤其重要。它不仅能够帮助海外华人后代保持对自身根源的认同，还能够将中华文化的精髓展示给更多国家和民族。比如，通过教授中文、传播中国书法、音乐、戏剧和民间艺术等形式，能够使不同文化背景的人感受到中华文化的魅力，并激发他们的兴趣与热爱。                               
-                            </p>
-                        </div>
-                    </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <img style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;max-width: 100%"
+                         src="resource/images/background/culture.jpg" alt="Service"/>
                 </div>
             </div>
-            <br>
-            <hr>
-        
-            <!-- Reserve Fund Study -->
-            <div class="row" style="margin: 30px 0;">  
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
-                     style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;">
-                    <div style="padding-top: 65%">
-                        <div class="position-center" style="width: 95%">
-                            <h3 class="text-size-title">文化交流互动：搭建理解与合作的桥梁</h3>
-                            <p class="text-size-description">
-                                文化交流互动是打破隔阂的重要途径，通过分享与对话，不同文化之间的误解可以得到澄清，而共通之处则可以被发现并加以珍视。加中文化教育交流中心的设立，为促进中华文化与加拿大多元文化的融合提供了理想的平台。在这里，不同文化背景的人可以通过艺术展览、音乐会、文化节等形式，体验到彼此文化的精髓。这种互动不仅可以增进彼此的理解，还可以激发创新灵感，为文化艺术的发展注入新的动力。
-                            </p>                           
-                        </div>
-                    </div>
-                </div>
+            
+            <div class="row" style="margin: 20px 0 10px 0;"> 
+                
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <img style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;max-width: 90%"
-                         src="resource/images/background/culture2.jpg" />                    
+                         src="resource/images/background/culture2.jpg" alt="Service"/>
                 </div>
-            </div>        
-            <hr/>   
-            
-            <!-- Excel -->
-            <div class="row" style="margin: 30px 0;">   
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">                                 
+		                <h2>文化交流互动：搭建理解与合作的桥梁</h2>
+		                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+  文化交流互动是打破隔阂的重要途径，通过分享与对话，不同文化之间的误解可以得到澄清，而共通之处则可以被发现并加以珍视。加中文化教育交流中心的设立，为促进中华文化与加拿大多元文化的融合提供了理想的平台。在这里，不同文化背景的人可以通过艺术展览、音乐会、文化节等形式，体验到彼此文化的精髓。这种互动不仅可以增进彼此的理解，还可以激发创新灵感，为文化艺术的发展注入新的动力。
+  		                </div>
+                </div>
+            </div>      
+
+            <div class="row" style="margin: 20px 0 10px 0;"> 
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">                                 
+		                <h2>合作共赢</h2>
+		                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+   文化的传承与交流互动并非单向的过程，而是双赢的合作。通过交流，中华文化能够融入加拿大的多元文化语境，同时加拿大本土文化也能为中华文化带来新的视角。这种双向的学习和影响，能够推动双方文化艺术的共同进步，同时也能够让彼此的文化在全球化的今天更加繁荣和具有影响力。
+   		                </div>
+                </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <img style="visibility: visible; animation-duration: 1s; animation-name: slideInLeft;max-width: 100%;"
-                            src="resource/images/background/communication2.jpg"/>
+                    <img style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;max-width: 100%"
+                         src="resource/images/background/communication2.jpg" alt="Service"/>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"
-                     style="visibility: visible; animation-duration: 1s; animation-name: slideInRight;">
-                    <div style="padding-top: 60%">
-                        <div class="position-center" style="width: 95%">
-                            <h3 class="text-size-title">合作共赢</h3>
-                            <p class="text-size-description">
-                                文化的传承与交流互动并非单向的过程，而是双赢的合作。通过交流，中华文化能够融入加拿大的多元文化语境，同时加拿大本土文化也能为中华文化带来新的视角。这种双向的学习和影响，能够推动双方文化艺术的共同进步，同时也能够让彼此的文化在全球化的今天更加繁荣和具有影响力。
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>            
+            </div>  
+                     
         </div>
     </section>
     
