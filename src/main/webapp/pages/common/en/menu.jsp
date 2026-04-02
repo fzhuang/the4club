@@ -27,6 +27,9 @@
 						    <ul class="sub-menu-list">
 								
 								<h3 class="sub-menu-list-title">2026年活动</h3>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2026Mother_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>《生而为人，妈妈的故事》母亲节征文</a>
+								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026年春假成都和重庆文化之旅</a>
 								</li>
