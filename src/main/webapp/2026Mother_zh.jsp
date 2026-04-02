@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <title>OCLS: 母亲节征文启事 - 生而为人，妈妈的故事</title>    
+    <title>4cClub: 母亲节征文启事 - 生而为人，妈妈的故事</title>    
     <meta name="title" content="生而为人，妈妈的故事 - 母亲节征文启事"/>
 	<meta name="description" content="Ottawa Chinese Language School Charity (OCLS)"/>
 	<link rel="canonical" href="https://www.ocls-ottawa.ca/ocls"/>
