@@ -194,6 +194,50 @@ a:focus, a:hover {
     outline: 0;
 }
 
+   .judge-card {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: #fff;
+        padding: 15px;
+        margin-bottom: 20px; /* 增加间距 */
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        transition: all 0.3s ease;
+    }
+
+    /* 鼠标悬停时的视觉反馈 */
+    .judge-link:hover .judge-card {
+        background-color: #f9f9f9;
+        border-color: #ccc;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .judge-info {
+        flex: 1;
+        padding-right: 15px;
+    }
+
+    .judge-name {
+        font-size: 16px;
+        color: #333;
+        margin: 0 0 8px 0;
+        line-height: 1.4;
+    }
+
+    .judge-meta {
+        font-size: 13px;
+        color: #888;
+        margin: 0;
+    }
+
+    .judge-photo img {
+        width: 80px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 4px;
+    }
+
 /****************************OCSL*********************************************/
 
 :root{

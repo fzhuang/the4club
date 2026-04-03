@@ -44,50 +44,29 @@
             
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2026年春假国际研学营之京豫陕线</b></h1>
-	                <h2>行走中国 赓续文脉</h2>
+	                <h1><b>生而为人，妈妈的故事</b></h1>
+	                <h2>母亲节征文</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>
-						时间: <b>2026.03.09 - 2026.03.21</b><br/><br/>
-						让世界青少年触摸华夏文明的根与魂;“行走中国 赓续文脉”国际研学营之京豫陕线;13天12晚文明探脉之旅。<br/>
+						时间: <b>2026年3月27日 — 2026月5月8日</b><br/><br/>
+						每一位妈妈，都有故事。 这个母亲节，写一段关于她的故事吧！写给她，也写给自己。<br/>
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026yxx.jsp">更多信息</a> 
+					    <a class="btn btn-orange btn-lg" href="2026Mother_zh.jsp">更多信息</a> 
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">
-与我们⼀同出发，在这⽚海⻛与古韵交织的⼟地上，⼀段跨越千年的⽂化旅程即将启程。
+                        关于母爱，关于成长，关于亲情<br/>
+关于回忆，关于误会和理解，关于遗憾和懊悔<br/>
+一件小事、一句话、一次争吵<br/>
+当你成为母亲之后，才明白的那一刻<br/>
+真实真诚，就已足够动人！不需要华丽的辞藻。
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2026yxx/about.png" /> 
-	            </div>
-	        </div>
-	        <hr/>
-            
-            <div class="row" style="margin: 20px 0 10px 0;">              
-	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2025圣诞奇妙之旅行闽粤线-渥太华国际研学营</b></h1>
-	                <h2>行走华夏，赓续岭南</h2>
-	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
-						<div class="text-muted" style="font-size: 18px;">
-						<br/>
-						时间: <b>2025.12.20 - 2025.12.31</b><br/><br/>
-						11天10晚的研学之旅，带你亲历岭南⽂化的厚重，感受海丝精神的开阔；在实地探访与沉浸体验中，让学习超越书本，让⽂化照进⽣活。<br/>
-						</div>
-	                </div>
-	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2025christmas.jsp">更多信息</a> 
-					</div>
-					<br/>    
-					<div class="text-muted" style="font-size: 20px;">
-与我们⼀同出发，在这⽚海⻛与古韵交织的⼟地上，⼀段跨越千年的⽂化旅程即将启程。
-                    </div>
-	            </div>
-	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2025christmas/main2.jpg" /> 
+	                <img style="max-width: 90%" src="2026mother/main.jpg" /> 
 	            </div>
 	        </div>
 	        <hr/>
