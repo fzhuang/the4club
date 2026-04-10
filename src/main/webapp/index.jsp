@@ -73,17 +73,16 @@
 	        
 	        <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>2026年春假赴成都和重庆交流学生团</b></h1>
-	                <h2>"成都&重庆"文化之旅</h2>
+	                <h1><b>“行走中国 赓续文脉”国际研学营之京豫线</b></h1>
+	                <h2>让世界青少年触摸华夏文明的根与魂；10天9晚文明探脉之旅。</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>
-						时间: <b>2026.3.12 - 2026.3.22</b><br/><br/>
-						10天的研学之旅，带你亲历成都&重庆的文化；在实地探访与沉浸体验中，让学习超越书本，让⽂化照进⽣活。<br/>
+						时间: <b>2026年8月9日—19日（10天9晚）</b><br/>
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026chengdu.jsp">更多信息</a> 
+					    <a class="btn btn-orange btn-lg" href="2026yxxSummer.jsp">更多信息</a> 
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">
@@ -91,7 +90,7 @@
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2026chengdu/main.png" /> 
+	                <img style="max-width: 90%" src="2026yxx/about.png" /> 
 	            </div>
 	        </div>
 	        
