@@ -320,8 +320,9 @@
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <h2>唐老先生与文艺沙龙</h2>
                     <div class="tang-text">
-                        唐教授酷爱中国传统文化，诗书俱佳，对于春联尤其擅长，文艺沙龙深受唐老先生教诲。
-                        他的笔墨承载着温厚的人格，也把传统文化中关于仁爱、勤勉、和美的精神传递给身边的人。
+                        唐公正中，雅好中华传统之学，诗书并擅，尤精春联。岁月如歌文艺沙龙诸同仁久沐教泽，受益良多，感念弗忘。
+                        <br/><br/>
+                        今闻唐老先生仙逝，深致哀悼。先生的笔墨承载着温厚的人格，也把传统文化中关于仁爱、勤勉、和美的精神传递给身边的人。
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xs-12">
@@ -338,7 +339,7 @@
                     <div class="tang-panel">
                         <h2>永久的纪念</h2>
                         <div class="tang-text">
-                            为了永久纪念唐老先生，Helen唐准备以唐正中教授的名字设立一个专门用于书法、春联活动的基金，来奖励和推动我们的传统文化事业的发展。
+                            Helen唐拟以“唐正中”之名设立书法与春联文化基金，用以资助相关文化活动及奖励后学，冀承先生之志，弘扬传统文化之精神。
                             <br/><br/>
                             另外，我们的枫华闻道网站也将开辟一个专栏介绍唐老先生生平以及他书法及诗歌作品。
                         </div>
@@ -360,7 +361,7 @@
                 <div class="col-md-7 col-sm-12 col-xs-12">
                     <h2>唐正中书法及春联文化基金</h2>
                     <div class="tang-text">
-                        基金将用于书法、春联相关活动，奖励和推动传统文化事业的发展。欢迎有心人士共同支持，让唐教授珍爱的文化薪火继续传承。
+                        基金将用于书法、春联相关活动，资助文化活动并奖励后学。欢迎有心人士共同支持，让唐教授珍爱的文化薪火继续传承。
                     </div>
                     <a class="tang-email" href="mailto:Helen.y.tang@gmail.com">Helen.y.tang@gmail.com</a>
                 </div>
@@ -430,6 +431,10 @@
                     <figcaption>青年时期的唐正中教授</figcaption>
                 </figure>
                 <figure>
+                    <img src="showRoom-tang/award-certificate.jpg" alt="唐正中奖状">
+                    <figcaption>青年时期工作成绩奖状</figcaption>
+                </figure>
+                <figure>
                     <img src="showRoom-tang/couplet-home.jpg" alt="唐教授春联作品">
                     <figcaption>春联作品：安民泰国，紫气生风</figcaption>
                 </figure>
@@ -456,6 +461,10 @@
                 <figure>
                     <img src="showRoom-tang/paper-cutting-show.jpg" alt="唐教授与书法作品合影">
                     <figcaption>传统文化活动中的珍贵瞬间</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/self-confidence-calligraphy.jpg" alt="唐教授与书法作品合影">
+                    <figcaption>书法作品留念：自立自强自信</figcaption>
                 </figure>
                 <figure>
                     <img src="showRoom-tang/calligraphy-demo.jpg" alt="唐教授现场书法示范">
