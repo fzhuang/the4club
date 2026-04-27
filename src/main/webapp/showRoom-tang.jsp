@@ -519,10 +519,6 @@
                     <figcaption>2019 年春节招待会春联留念</figcaption>
                 </figure>
                 <figure>
-                    <img src="showRoom-tang/handshake.jpg" alt="唐教授与友人亲切交流">
-                    <figcaption>亲切交流，笑语如昨</figcaption>
-                </figure>
-                <figure>
                     <img src="showRoom-tang/salon-banner.jpg" alt="文艺沙龙联欢会书法横幅">
                     <figcaption>文艺沙龙联欢会墨迹</figcaption>
                 </figure>
@@ -545,6 +541,90 @@
                 <figure>
                     <img src="showRoom-tang/calligraphy-demo.jpg" alt="唐教授现场书法示范">
                     <figcaption>现场书法示范</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-kindness.jpg" alt="唐教授书法作品：善">
+                    <figcaption>书法作品：善</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-harmony.jpg" alt="唐教授书法作品：和">
+                    <figcaption>书法作品：和</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-joy.jpg" alt="唐教授书法作品：乐">
+                    <figcaption>书法作品：乐</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-mulan.jpg" alt="唐教授书法作品">
+                    <figcaption>书法作品：大将筹边</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/painting-goldfish.jpg" alt="唐教授画作：同游共舞">
+                    <figcaption>画作：同游共舞</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/painting-shrimp.jpg" alt="唐教授画作：畅游">
+                    <figcaption>画作：畅游</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/photo-geese-reflection.jpg" alt="摄影作品：水边倒影">
+                    <figcaption>摄影作品：水边倒影</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/photo-geese-flight.jpg" alt="摄影作品：振翅">
+                    <figcaption>摄影作品：振翅</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/photo-geese-snow.jpg" alt="摄影作品：雪地留影">
+                    <figcaption>摄影作品：雪地留影</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/painting-plum.jpg" alt="唐教授画作：梅花">
+                    <figcaption>画作：梅花</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-renzhe-shou.jpg" alt="唐教授书法作品：仁者寿">
+                    <figcaption>书法作品：仁者寿</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-sun-tzu.jpg" alt="唐教授书法作品：孙子兵法">
+                    <figcaption>书法作品：孙子兵法</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/couplet-virtue-family.jpg" alt="唐教授春联作品">
+                    <figcaption>春联作品：为善为仁，克勤克俭</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-virtue-heart.jpg" alt="唐教授书法作品：有容德乃大">
+                    <figcaption>书法作品：有容德乃大</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-more-do.jpg" alt="唐教授书法作品：多做有益事">
+                    <figcaption>书法作品：多做有益事</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-river-mountain.jpg" alt="唐教授书法作品：江流天地外">
+                    <figcaption>书法作品：江流天地外</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-gold-books.jpg" alt="唐教授书法作品：黄金非宝书为宝">
+                    <figcaption>书法作品：黄金非宝书为宝</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-cultivate.jpg" alt="唐教授书法作品：教书育人">
+                    <figcaption>书法作品：教书育人</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-confidence-small.jpg" alt="唐教授书法作品：自立自强自信">
+                    <figcaption>书法作品：自立自强自信</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/painting-morning-glory.jpg" alt="唐教授画作：牵牛花">
+                    <figcaption>画作：牵牛花</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/work-diligent-truth.jpg" alt="唐教授书法作品：实事力求真善美">
+                    <figcaption>书法作品：实事力求真善美</figcaption>
                 </figure>
             </div>
         </div>
