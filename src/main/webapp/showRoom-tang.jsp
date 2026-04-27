@@ -161,6 +161,12 @@
             margin-bottom: 0;
         }
 
+        .tang-poem-author {
+            margin: -8px 0 18px 0;
+            font-size: 18px;
+            color: #7c1f17;
+        }
+
         .tang-fund {
             background: #7c1f17;
             color: #fff;
@@ -334,8 +340,6 @@
                         <div class="tang-text">
                             为了永久纪念唐老先生，Helen唐准备以唐正中教授的名字设立一个专门用于书法、春联活动的基金，来奖励和推动我们的传统文化事业的发展。
                             <br/><br/>
-                            文艺沙龙理事会决定拿出 $300 元支持这一善举，以此告慰唐老先生英灵。
-                            <br/><br/>
                             另外，我们的枫华闻道网站也将开辟一个专栏介绍唐老先生生平以及他书法及诗歌作品。
                         </div>
                     </div>
@@ -376,6 +380,7 @@
                 <div class="col-md-7 col-sm-12 col-xs-12">
                     <div class="tang-panel">
                         <h2>《悼唐公》</h2>
+                        <div class="tang-poem-author">作者：小瑞（郑雪）</div>
                         <p class="tang-poem">
                             投笔从戎志未休，<br/>
                             书生风骨立潮头。<br/>
