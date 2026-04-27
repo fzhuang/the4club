@@ -127,6 +127,9 @@
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
 									<a href="showRoom-loveHappy.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>爱乐合唱团</a>
 								</li>	
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" >
+									<a href="showRoom-tang.jsp"><i class="fas fa-cube" style="margin-right: 8px; color: #ff0000;"></i>纪念唐正中教授</a>
+								</li>	
 								<!--  
 								<h3 class="sub-menu-list-title">文化艺术园地</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
