@@ -288,6 +288,26 @@
         </div>
     </section>
 
+    <section class="tang-section" style="background: #fff;">
+        <div class="container">
+            <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <img class="tang-photo" src="showRoom-tang/young-professor-tang.jpg" alt="青年时期的唐正中教授">
+                </div>
+                <div class="col-md-8 col-sm-12 col-xs-12">
+                    <h2>早年经历</h2>
+                    <div class="tang-text">
+                        1961 年 8 月武大毕业，即分配到国防科委属下 15 所，参与防空自动化系统的研究。当时为一组，共 11 人，分别来自北大、南开、武大、川大、复旦、吉大、中大的数学系毕业生。这是我国最早防空系统研究组，一切从头开始。
+                        <br/><br/>
+                        防空系统研制组 1963 年扩展为一个研究室，1964 年扩建为研究所，即 28 所。后迁锦州，再后迁南京。1964 年在唐山郊区建立了试验基地。唐山大地震时，设备已遭损坏，不复存在。
+                        <br/><br/>
+                        <span style="color: #7c1f17;">——唐正中</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="tang-section">
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
@@ -399,6 +419,10 @@
                 <figure>
                     <img src="showRoom-tang/memory-app.jpg" alt="记得，永远记得">
                     <figcaption>记得，永远记得</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/young-professor-tang.jpg" alt="青年时期的唐正中教授">
+                    <figcaption>青年时期的唐正中教授</figcaption>
                 </figure>
                 <figure>
                     <img src="showRoom-tang/couplet-home.jpg" alt="唐教授春联作品">
