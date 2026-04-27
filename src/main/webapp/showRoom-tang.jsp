@@ -58,6 +58,10 @@
             color: #34251f;
         }
 
+        .tang-page .container {
+            max-width: 1180px;
+        }
+
         .tang-hero {
             position: relative;
             min-height: 540px;
@@ -114,14 +118,24 @@
         }
 
         .tang-section {
-            padding: 56px 0;
+            padding: 64px 0;
+            position: relative;
         }
 
         .tang-section h2 {
             font-size: 32px;
             font-weight: 700;
-            margin: 0 0 24px 0;
+            margin: 0 0 22px 0;
             color: #3b241b;
+        }
+
+        .tang-section h2:after {
+            content: "";
+            display: block;
+            width: 56px;
+            height: 3px;
+            background: #9d2117;
+            margin-top: 12px;
         }
 
         .tang-section h3 {
@@ -137,11 +151,21 @@
             color: #56443c;
         }
 
+        .tang-split {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .tang-split-top {
+            align-items: flex-start;
+        }
+
         .tang-panel {
             background: #fff;
             border: 1px solid #eaded3;
             border-radius: 6px;
-            padding: 28px;
+            padding: 34px;
             box-shadow: 0 10px 26px rgba(82, 55, 36, 0.08);
         }
 
@@ -168,13 +192,17 @@
         }
 
         .tang-fund {
-            background: #7c1f17;
+            background: linear-gradient(135deg, #7c1f17 0%, #3b241b 100%);
             color: #fff;
         }
 
         .tang-fund h2,
         .tang-fund .tang-text {
             color: #fff;
+        }
+
+        .tang-fund h2:after {
+            background: #f1c9a8;
         }
 
         .tang-email {
@@ -198,25 +226,43 @@
             margin-bottom: 24px;
         }
 
+        .tang-photo-soft {
+            padding: 8px;
+            background: #fff;
+        }
+
+        .tang-photo-portrait {
+            display: block;
+            max-width: 300px;
+            margin: 0 auto 24px auto;
+        }
+
+        .tang-photo-wide {
+            object-fit: contain;
+            background: #fff;
+        }
+
         .tang-gallery {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 22px;
+            column-count: 3;
+            column-gap: 22px;
         }
 
         .tang-gallery figure {
+            display: inline-block;
+            width: 100%;
             margin: 0;
+            margin-bottom: 22px;
             background: #fff;
             border: 1px solid #eaded3;
             border-radius: 6px;
             overflow: hidden;
             box-shadow: 0 10px 26px rgba(82, 55, 36, 0.08);
+            break-inside: avoid;
         }
 
         .tang-gallery img {
             width: 100%;
-            height: 260px;
-            object-fit: cover;
+            height: auto;
             display: block;
         }
 
@@ -228,7 +274,11 @@
 
         @media (max-width: 991px) {
             .tang-gallery {
-                grid-template-columns: repeat(2, 1fr);
+                column-count: 2;
+            }
+
+            .tang-panel {
+                margin-top: 20px;
             }
         }
 
@@ -258,7 +308,7 @@
             }
 
             .tang-section {
-                padding: 38px 0;
+                padding: 42px 0;
             }
 
             .tang-section h2 {
@@ -266,11 +316,7 @@
             }
 
             .tang-gallery {
-                grid-template-columns: 1fr;
-            }
-
-            .tang-gallery img {
-                height: auto;
+                column-count: 1;
             }
         }
     </style>
@@ -296,9 +342,9 @@
 
     <section class="tang-section" style="background: #fff;">
         <div class="container">
-            <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
+            <div class="row tang-split">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                    <img class="tang-photo" src="showRoom-tang/young-professor-tang.jpg" alt="青年时期的唐正中教授">
+                    <img class="tang-photo tang-photo-soft tang-photo-portrait" src="showRoom-tang/young-professor-tang.jpg" alt="青年时期的唐正中教授">
                 </div>
                 <div class="col-md-8 col-sm-12 col-xs-12">
                     <h2>早年经历</h2>
@@ -316,7 +362,7 @@
 
     <section class="tang-section">
         <div class="container">
-            <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
+            <div class="row tang-split">
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <h2>唐老先生与文艺沙龙</h2>
                     <div class="tang-text">
@@ -326,7 +372,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xs-12">
-                    <img class="tang-photo" src="showRoom-tang/salon-banner.jpg" alt="文艺沙龙联欢会书法横幅">
+                    <img class="tang-photo tang-photo-soft tang-photo-wide" src="showRoom-tang/salon-banner.jpg" alt="文艺沙龙联欢会书法横幅">
                 </div>
             </div>
         </div>
@@ -357,7 +403,7 @@
 
     <section class="tang-section tang-fund">
         <div class="container">
-            <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
+            <div class="row tang-split">
                 <div class="col-md-7 col-sm-12 col-xs-12">
                     <h2>唐正中书法及春联文化基金</h2>
                     <div class="tang-text">
