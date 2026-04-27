@@ -400,6 +400,38 @@
                     <img src="showRoom-tang/memory-app.jpg" alt="记得，永远记得">
                     <figcaption>记得，永远记得</figcaption>
                 </figure>
+                <figure>
+                    <img src="showRoom-tang/couplet-home.jpg" alt="唐教授春联作品">
+                    <figcaption>春联作品：安民泰国，紫气生风</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/spring-gala-2019.jpg" alt="2019年春节招待会春联留念">
+                    <figcaption>2019 年春节招待会春联留念</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/handshake.jpg" alt="唐教授与友人亲切交流">
+                    <figcaption>亲切交流，笑语如昨</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/salon-banner.jpg" alt="文艺沙龙联欢会书法横幅">
+                    <figcaption>文艺沙龙联欢会墨迹</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/brushwork-room.jpg" alt="唐教授书写沙龙作品">
+                    <figcaption>沙龙挥毫，笔墨传情</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/spring-gala-group.jpg" alt="春节活动合影">
+                    <figcaption>春节活动合影留念</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/paper-cutting-show.jpg" alt="唐教授与书法作品合影">
+                    <figcaption>传统文化活动中的珍贵瞬间</figcaption>
+                </figure>
+                <figure>
+                    <img src="showRoom-tang/calligraphy-demo.jpg" alt="唐教授现场书法示范">
+                    <figcaption>现场书法示范</figcaption>
+                </figure>
             </div>
         </div>
     </section>
