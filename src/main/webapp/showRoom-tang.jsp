@@ -319,7 +319,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xs-12">
-                    <img class="tang-photo" src="showRoom-tang/calligraphy.jpg" alt="唐正中教授挥毫书写">
+                    <img class="tang-photo" src="showRoom-tang/salon-banner.jpg" alt="文艺沙龙联欢会书法横幅">
                 </div>
             </div>
         </div>
