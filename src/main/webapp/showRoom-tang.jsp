@@ -277,8 +277,16 @@
                 column-count: 2;
             }
 
-            .tang-panel {
-                margin-top: 20px;
+            .tang-split > [class*="col-"] + [class*="col-"] {
+                margin-top: 28px;
+            }
+
+            .tang-fund .col-md-5 {
+                margin-top: 34px;
+            }
+
+            .tang-quote {
+                margin-top: 24px;
             }
         }
 
@@ -305,6 +313,28 @@
             .tang-text,
             .tang-email {
                 font-size: 18px;
+            }
+
+            .tang-panel {
+                padding: 26px 22px;
+            }
+
+            .tang-quote {
+                padding: 22px 20px;
+                font-size: 18px;
+                line-height: 1.85;
+            }
+
+            .tang-email {
+                display: block;
+                width: 100%;
+                text-align: center;
+                margin: 22px 0 6px 0;
+                padding: 14px 12px;
+            }
+
+            .tang-photo {
+                margin-bottom: 18px;
             }
 
             .tang-section {
