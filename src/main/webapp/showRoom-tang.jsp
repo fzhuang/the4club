@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
 <head>
@@ -424,6 +424,39 @@
         </div>
     </section>
 
+    <section class="tang-section tang-remarks">
+        <div class="container">
+            <h2>Helen唐感言</h2>
+            <div class="tang-remarks-images">
+                <img src="showRoom-tang/helen-remarks-group.jpg" alt="Helen唐感言现场合影">
+                <img src="showRoom-tang/helen-remarks-display.jpg" alt="追思现场作品陈列">
+            </div>
+            <div class="tang-panel tang-remarks-body tang-text">
+                <p>尊敬的各位亲友、各位来宾：</p>
+                <p>大家好。</p>
+                <p>今天，我怀着无比沉痛，同时也无比感恩的心情，代表我的继母曹学英，代表我的先生 Hamid，我的两个女儿 Parisa 和 Minna，代表我的弟弟怡辉一家：弟媳张fan，侄女 Alison、Annette，妹妹千慧一家，妹夫孟烨，侄女 Melody，向今天前来送别我父亲的所有亲友，表示最真诚的感谢。</p>
+                <p>Thank you all for being here today to honor my father’s life and to support our family during this difficult time.</p>
+                <p>谢谢你们在百忙之中来到这里，陪伴我们一起送父亲最后一程。</p>
+                <p>我的父亲唐正中先生，走完了他 88 岁的人生旅程。</p>
+                <p>回顾父亲的一生，我们心中除了不舍，更多的是敬佩。他年轻时胸怀家国，投身国防科研事业，把自己最好的年华奉献给国家。作为教授和科研工作者，他严谨治学、勤奋钻研，一生获得许多荣誉，却从不张扬，始终低调谦逊。</p>
+                <p>但对于我们子女来说，比起他的成就，更深刻影响我们的，是他如何做人。</p>
+                <p>父亲从小就教育我们：与人为善，助人为乐。他常说，一个人真正的价值，不在于拥有多少，而在于能够为别人带来多少帮助。</p>
+                <p>他也是一个极其自律的人。无论寒冬酷暑，他常常带着我和弟弟清晨六点起床跑步、游泳、洗冷水澡，帮助我们锻炼身体，也磨练意志。小时候，我们觉得父亲太严格；长大后才明白，他锻炼的不只是我们的身体，更是面对人生困难时的勇气、纪律与韧性。</p>
+                <p>他一直用行动告诉我们：人生没有捷径，唯有勤奋、坚持与担当。</p>
+                <p>父亲一生善于学习、勤于思考，多才多艺，文理兼修。他不仅自己热爱书法、诗词、摄影和体育，也鼓励我们德智体全面发展，培养了我们对书法、诗歌、游泳、羽毛球、排球等多方面的兴趣。</p>
+                <p>退休以后，父亲依然践行：活到老，学到老，贡献到老。他参加老年大学，认真学习书画、摄影、诗词，并多次获奖。来到加拿大后，他积极参加海外老年华人联合会、岁月如歌文艺沙龙，以及加拿大加华艺术协会的活动，结交朋友，传播中华文化，并获得义工奖。</p>
+                <p>他让我们看到，一个人即使到了晚年，依然可以活得有热情、有价值、有光芒。</p>
+                <p>父亲这一生，也许并不完美，但他始终正直、善良、勤奋、坚韧。这些品质，已经成为我们家族最珍贵的财富。</p>
+                <p>今天，我们虽然失去了父亲，但他给予我们的爱、教诲和榜样，将继续陪伴我们走完未来的人生。我们也会继承他的精神：善待他人，努力工作，持续学习，服务社会。</p>
+                <p>斯人虽去，墨香长存。为了纪念父亲的遗志，我们计划设立“唐氏书法奖”，希望将他对书法的热爱、对中华文化的情怀延续下去，也为中华文化的传承尽一份绵薄之力。</p>
+                <p>爸爸，谢谢您给予我们的一切。谢谢您为家庭、为社会、为国家所做的贡献。您的风骨、您的墨香、您的爱，都会一直留在我们心中。</p>
+                <p>His legacy lives on through the values he taught us — kindness, integrity, discipline, lifelong learning, and service to others.</p>
+                <p>我们永远爱您，也永远怀念您。</p>
+                <p>爸爸，一路走好。谢谢大家。</p>
+            </div>
+        </div>
+    </section>
+
     <section class="tang-section">
         <div class="container">
             <div class="row tang-split">
@@ -504,39 +537,6 @@
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="tang-section tang-remarks">
-        <div class="container">
-            <h2>Helen唐感言</h2>
-            <div class="tang-remarks-images">
-                <img src="showRoom-tang/helen-remarks-group.jpg" alt="Helen唐感言现场合影">
-                <img src="showRoom-tang/helen-remarks-display.jpg" alt="追思现场作品陈列">
-            </div>
-            <div class="tang-panel tang-remarks-body tang-text">
-                <p>尊敬的各位亲友、各位来宾：</p>
-                <p>大家好。</p>
-                <p>今天，我怀着无比沉痛，同时也无比感恩的心情，代表我的继母曹学英，代表我的先生 Hamid，我的两个女儿 Parisa 和 Minna，代表我的弟弟怡辉一家：弟媳张fan，侄女 Alison、Annette，妹妹千慧一家，妹夫孟烨，侄女 Melody，向今天前来送别我父亲的所有亲友，表示最真诚的感谢。</p>
-                <p>Thank you all for being here today to honor my father’s life and to support our family during this difficult time.</p>
-                <p>谢谢你们在百忙之中来到这里，陪伴我们一起送父亲最后一程。</p>
-                <p>我的父亲唐正中先生，走完了他 88 岁的人生旅程。</p>
-                <p>回顾父亲的一生，我们心中除了不舍，更多的是敬佩。他年轻时胸怀家国，投身国防科研事业，把自己最好的年华奉献给国家。作为教授和科研工作者，他严谨治学、勤奋钻研，一生获得许多荣誉，却从不张扬，始终低调谦逊。</p>
-                <p>但对于我们子女来说，比起他的成就，更深刻影响我们的，是他如何做人。</p>
-                <p>父亲从小就教育我们：与人为善，助人为乐。他常说，一个人真正的价值，不在于拥有多少，而在于能够为别人带来多少帮助。</p>
-                <p>他也是一个极其自律的人。无论寒冬酷暑，他常常带着我和弟弟清晨六点起床跑步、游泳、洗冷水澡，帮助我们锻炼身体，也磨练意志。小时候，我们觉得父亲太严格；长大后才明白，他锻炼的不只是我们的身体，更是面对人生困难时的勇气、纪律与韧性。</p>
-                <p>他一直用行动告诉我们：人生没有捷径，唯有勤奋、坚持与担当。</p>
-                <p>父亲一生善于学习、勤于思考，多才多艺，文理兼修。他不仅自己热爱书法、诗词、摄影和体育，也鼓励我们德智体全面发展，培养了我们对书法、诗歌、游泳、羽毛球、排球等多方面的兴趣。</p>
-                <p>退休以后，父亲依然践行：活到老，学到老，贡献到老。他参加老年大学，认真学习书画、摄影、诗词，并多次获奖。来到加拿大后，他积极参加海外老年华人联合会、岁月如歌文艺沙龙，以及加拿大加华艺术协会的活动，结交朋友，传播中华文化，并获得义工奖。</p>
-                <p>他让我们看到，一个人即使到了晚年，依然可以活得有热情、有价值、有光芒。</p>
-                <p>父亲这一生，也许并不完美，但他始终正直、善良、勤奋、坚韧。这些品质，已经成为我们家族最珍贵的财富。</p>
-                <p>今天，我们虽然失去了父亲，但他给予我们的爱、教诲和榜样，将继续陪伴我们走完未来的人生。我们也会继承他的精神：善待他人，努力工作，持续学习，服务社会。</p>
-                <p>斯人虽去，墨香长存。为了纪念父亲的遗志，我们计划设立“唐氏书法奖”，希望将他对书法的热爱、对中华文化的情怀延续下去，也为中华文化的传承尽一份绵薄之力。</p>
-                <p>爸爸，谢谢您给予我们的一切。谢谢您为家庭、为社会、为国家所做的贡献。您的风骨、您的墨香、您的爱，都会一直留在我们心中。</p>
-                <p>His legacy lives on through the values he taught us — kindness, integrity, discipline, lifelong learning, and service to others.</p>
-                <p>我们永远爱您，也永远怀念您。</p>
-                <p>爸爸，一路走好。谢谢大家。</p>
             </div>
         </div>
     </section>
