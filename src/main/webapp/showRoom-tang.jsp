@@ -531,10 +531,6 @@
                     <figcaption>春节活动合影留念</figcaption>
                 </figure>
                 <figure>
-                    <img src="showRoom-tang/paper-cutting-show.jpg" alt="唐教授与书法作品合影">
-                    <figcaption>传统文化活动中的珍贵瞬间</figcaption>
-                </figure>
-                <figure>
                     <img src="showRoom-tang/self-confidence-calligraphy.jpg" alt="唐教授与书法作品合影">
                     <figcaption>书法作品留念：自立自强自信</figcaption>
                 </figure>
