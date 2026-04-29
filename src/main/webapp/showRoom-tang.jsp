@@ -434,7 +434,7 @@
             <div class="tang-panel tang-remarks-body tang-text">
                 <p>尊敬的各位亲友、各位来宾：</p>
                 <p>大家好。</p>
-                <p>今天，我怀着无比沉痛，同时也无比感恩的心情，代表我的继母曹学英，代表我的先生 Hamid，我的两个女儿 Parisa 和 Minna，代表我的弟弟怡辉一家：弟媳张fan，侄女 Alison、Annette，妹妹千慧一家，妹夫孟烨，侄女 Melody，向今天前来送别我父亲的所有亲友，表示最真诚的感谢。</p>
+                <p>今天，我怀着无比沉痛，同时也无比感恩的心情，代表我的继母曹学英，代表我的先生 Hamid，我的两个女儿 Parisa 和 Minna，代表我的弟弟怡辉一家：弟媳张帆，侄女 Alison、Annette，妹妹千慧一家，妹夫孟研，侄女 Melody，向今天前来送别我父亲的所有亲友，表示最真诚的感谢。</p>
                 <p>Thank you all for being here today to honor my father’s life and to support our family during this difficult time.</p>
                 <p>谢谢你们在百忙之中来到这里，陪伴我们一起送父亲最后一程。</p>
                 <p>我的父亲唐正中先生，走完了他 88 岁的人生旅程。</p>
@@ -651,7 +651,7 @@
                 </figure>
                 <figure>
                     <img src="showRoom-tang/work-sun-tzu.jpg" alt="唐教授书法作品：孙子兵法">
-                    <figcaption>书法作品：孙子兵法</figcaption>
+                    <figcaption>书法作品：岳忠武王年谱</figcaption>
                 </figure>
                 <figure>
                     <img src="showRoom-tang/couplet-virtue-family.jpg" alt="唐教授春联作品">
@@ -686,8 +686,8 @@
                     <figcaption>画作：牵牛花</figcaption>
                 </figure>
                 <figure>
-                    <img src="showRoom-tang/work-diligent-truth.jpg" alt="唐教授书法作品：实事力求真善美">
-                    <figcaption>书法作品：实事力求真善美</figcaption>
+                    <img src="showRoom-tang/work-diligent-truth.jpg" alt="唐教授书法作品：做事力求真善美">
+                    <figcaption>书法作品：做事力求真善美</figcaption>
                 </figure>
             </div>
         </div>
