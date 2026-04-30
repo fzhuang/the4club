@@ -78,7 +78,9 @@
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>
-						时间: <b>2026年8月9日—19日（10天9晚）</b><br/>
+						时间: <b>2026年8月9日—19日（11天10晚）</b><br/>
+						路线: <b>北京—安阳—林州—开封—登封—洛阳—郑州</b><br/>
+						费用: <b>$1600（行程增加两天，价格不变）</b><br/>
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
@@ -86,7 +88,7 @@
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">
-与我们⼀同出发，⼀段跨越千年的⽂化旅程即将启程。
+与我们一同出发，踏访京豫文明地标，开启一段跨越千年的文化旅程。
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
