@@ -73,8 +73,8 @@
 	        
 	        <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>“行走中国 赓续文脉”国际研学营之京豫线</b></h1>
-	                <h2>让世界青少年触摸华夏文明的根与魂；10天9晚文明探脉之旅。</h2>
+	                <h1><b>“行走中国 赓续文脉”国际研学营之京豫线（11天10晚）</b></h1>
+	                <h2>让世界青少年触摸华夏文明的根与魂；11天10晚文明探脉之旅，行程增加两天，价格不变。</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>

@@ -2,11 +2,11 @@
          pageEncoding="UTF-8"%>
 
 <head>
-	<title>加中文化教育交流中心：2026“行走中国 赓续文脉”国际研学营之京豫线</title>	
+	<title>加中文化教育交流中心：2026“行走中国 赓续文脉”国际研学营之京豫线（11天10晚）</title>	
 	<meta name="title" content="加中文化教育交流中心"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
-	<meta property="og:title" content="加中文化教育交流中心：2026“行走中国 赓续文脉”国际研学营之京豫线">
-	<meta property="og:description" content="2026“行走中国 赓续文脉”国际研学营之京豫线">
+	<meta property="og:title" content="加中文化教育交流中心：2026“行走中国 赓续文脉”国际研学营之京豫线（11天10晚）">
+	<meta property="og:description" content="2026“行走中国 赓续文脉”国际研学营之京豫线：11天10晚，行程增加两天，价格不变。">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
 	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化。"/>
@@ -66,7 +66,7 @@
                               “行走中国 赓续文脉”国际研学营之京豫线
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                            让世界青少年触摸华夏文明的根与魂；10天9晚文明探脉之旅。
+                            让世界青少年触摸华夏文明的根与魂；11天10晚文明探脉之旅，行程增加两天，价格不变。
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div><span style="color: #323edb; font-size: 18px;">介绍</span></div>
-            <div><h2><b>2026年春假国际研学营之京豫线火热报名中</b></h2></div>
+            <div><h2><b>2026年暑期国际研学营之京豫线火热报名中</b></h2></div>
             <div class="text-muted" style="font-size: 20px;">让世界青少年触摸华夏文明的根与魂</div>
             
             <div class="row" style="margin: 20px 0 10px 0;">          
@@ -88,16 +88,19 @@
 加中文化教育交流中心（加拿大）
 </div>
 <div class="text-muted" style="font-size: 18px;">
-接待方全球文化教育交流协会与中学生学习报社，将以“匠心”为笔，为你写就一场刻骨铭心的京豫陕文化之旅！让世界青少年触摸中国京豫陕的文化温度!
+接待方全球文化教育交流协会与中学生学习报社，将以“匠心”为笔，为你写就一场刻骨铭心的京豫文化之旅！让世界青少年触摸中国京豫的文化温度!
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>参与对象：</b> 12岁-25岁（家长可以陪同）。
+<b>参与对象：</b> 全球青少年，12岁-25岁（家长可以陪同）。
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>时间：</b> 2026年8月9日—19日（10天9晚）
+<b>时间：</b> 2026年8月9日—19日（11天10晚）
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>费用:</b> $1600（不含机票和保险）包括国内所有吃住行及学习参观等及带队老师费用
+<b>路线：</b> 北京—安阳—林州—开封—登封—洛阳—郑州
+</div>
+<div class="text-muted" style="font-size: 18px;">
+<b>费用:</b> $1600（不含机票和保险）包括国内所有吃住行及学习参观等及带队老师费用。活动升级为11天10晚，价格不做调整。
 </div>
 <div class="text-muted" style="font-size: 18px;">
 报名费500（人数15人成团，不能成团费用全部退还）。请e-transfer： syrg4cclub@gmail.com
@@ -308,14 +311,17 @@
     <section class="page-section">   
         <div class="container">
             <div><span style="color: #323edb; font-size: 18px;">07 行程速览</span></div>
-            <div style="margin: 20px 0;"><img src="2026yxx/100.png" style="width:100%;" alt="行程速览"></div>
+            <div class="text-muted" style="font-size: 18px; margin: 16px 0;">
+                新版行程为11天10晚，增加林州太行大峡谷、红旗渠等内容，价格保持 $1600 不变。
+            </div>
+            <div style="margin: 20px 0;"><img src="2026yxx/schedule-11days.jpg" style="width:100%; max-width: 900px;" alt="11天10晚行程速览"></div>
             
             <div style="margin-top: 30px;"><span style="color: #323edb; font-size: 18px;">08 匠心护行程：专业保障，安心探索文明</span></div>
             <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
-                <p>✅ <b>安全保障：</b>24小时专业陪同，高额意外险，住携程4钻酒店</p>
-                <p>✅ <b>家长沟通：</b>每日推送“孩子动态”（照片+短视频），实时可见成长</p>
-                <p>✅ <b>专属福利：</b>获结业证书，研学报告优先刊登，赠送“华夏文明大礼包”</p>
-                <p>✅ <b>行程衔接：</b>9天行程紧凑，完美衔接假期，不耽误学业</p>
+                <p>✅ <b>安全保障：</b>24小时专业人员陪同，高额意外险，交通提前核线，住携程4钻酒店</p>
+                <p>✅ <b>家长沟通：</b>每日群共享推送“孩子动态”（照片+短视频），实时可见成长</p>
+                <p>✅ <b>专属福利：</b>获“京豫线研学结业证书”；优秀研学报告优先刊登协会合作刊物；赠“华夏文明大礼包”</p>
+                <p>✅ <b>行程衔接：</b>11天行程紧凑不赶场，完美衔接假期，不耽误学业；行前发“研学手册”，行后赠“研学专刊”。</p>
             </div>
         </div>
         <hr>
@@ -325,8 +331,13 @@
         <div class="container">
             <div><span style="color: #323edb; font-size: 18px;">关于我们</span></div>
             <div class="text-muted" style="font-size: 20px; margin-top: 10px;">
+                营期: 2026年8月9日—19日（11天10晚）<br/>
+                路线: 北京—安阳—林州—开封—登封—洛阳—郑州<br/>
                 报名链接: https://the4cclub.ca/the4club/2026yxxSummer.jsp <br/>
                 电话咨询: 613-866-1341 王老师
+            </div>
+            <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
+                【重要提醒】精彩不止一站！更多选择等您开启。另有“京豫陕线”、“闽粤线”、“西安线”等精品研学路线也可供选择。如您（或贵校/机构）有意组团参与，欢迎随时来电或来函详询。
             </div>
         </div>
     </section>
