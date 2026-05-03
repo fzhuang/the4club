@@ -121,7 +121,7 @@
                 <div class="item active mother-event-hero">
                     <div class="carousel-caption" style="flex: 1;">
                         <div class="carousel-caption-toptitle">
-                            渥太华中文学校慈善机构 (OCLS)
+                            加中文化教育交流中心
                         </div>
                         <div class="carousel-caption-title">
                             5月9日母亲节活动

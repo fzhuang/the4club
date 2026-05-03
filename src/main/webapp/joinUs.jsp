@@ -148,8 +148,8 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
-	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>马婉玲</h3>
+	                    <img src="resource/images/members/wu.jpg" style="border-radius:5%; height:20rem;"></img>
+		                <h3>吴迪</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
@@ -163,8 +163,8 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
 		               Board of Directors, 艺术总监<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
-	                    <img src="resource/images/members/wu.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>吴迪</h3>
+	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
+		                <h3>马婉玲</h3>
 		                Board of Directors<br/><br/>
 		             </div>
 	            </div>                     
