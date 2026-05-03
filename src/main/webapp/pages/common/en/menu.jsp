@@ -34,6 +34,9 @@
 									<a href="2026Mother_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>《生而为人，妈妈的故事》母亲节征文</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2026MotherActivities_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>5月9日母亲节活动｜领取马年纪念币</a>
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026-paintingByYoung_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026年第三届渥太华青少年生肖绘画比赛（马年）</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">

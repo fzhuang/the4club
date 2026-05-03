@@ -162,6 +162,11 @@ Chinese Canadian Cross Culture Club Membership Bylaws:
 		                <h3>曲永仲</h3>
 		               Board of Directors, 艺术总监<br/><br/>
 		             </div>
+		             <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
+	                    <img src="resource/images/members/wu.jpg" style="border-radius:5%; height:20rem;"></img>
+		                <h3>吴迪</h3>
+		                Board of Directors<br/><br/>
+		             </div>
 	            </div>                     
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <img style="max-width: 100%" src="resource/images/together.jpg" /> 
