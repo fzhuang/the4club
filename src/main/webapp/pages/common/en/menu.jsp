@@ -102,12 +102,12 @@
 				     </div>
                 </li>    
                 
-                <li><a data-pages="insights" href="spotlight-people.jsp">闻道特辑/Insights Spotlight</a>
+                <li><a data-pages="insights" href="spotlight-qu-cultural-model.jsp">闻道特辑/Insights Spotlight</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
-									<a href="spotlight-people.jsp"><i class="fas fa-user" style="margin-right: 8px; color: #ff0000;"></i>人物访谈</a>
+									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
 								</li>					
 				            </ul>
 				        </div>
