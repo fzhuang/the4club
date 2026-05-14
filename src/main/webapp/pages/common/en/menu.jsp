@@ -305,6 +305,168 @@
 
 
 						        </li>
+
+
+
+
+
+
+
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+
+
+
+
+
+
+
+						        	<a href="spotlight-zhang-min-opera-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：专访张敏——工程师与戏曲人的双重人生</a>
+
+
+
+
+
+
+
+
+
+
+
+						        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+
+
+
+
+
+
+
+
+						        	<a href="spotlight-shi-jing-stage-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台</a>
+
+
+
+
+
+
+
+
+
+
+
+
+						        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+						        	<a href="spotlight-shi-jing-stage-part2.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（下）</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+						        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						        	<a href="spotlight-spelling-bee-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>从“试试玩”到冠军：一场比赛，改变了一家人的未来</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						        </li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
 									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
 								</li>					
