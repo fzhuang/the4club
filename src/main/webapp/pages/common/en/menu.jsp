@@ -105,12 +105,12 @@
 				     </div>
                 </li>    
                 
-                <li><a data-pages="insights" href="spotlight-qu-cultural-model.jsp">闻道特辑/Insights Spotlight</a>
+                <li><a data-pages="insights" href="spotlight-insight.jsp">闻道特辑/Insights Spotlight</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title">97.9FM 渥太华中文电台</h3>
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 16px;">
+						        <h3 class="sub-menu-list-title" style="margin-bottom: 4px; padding-bottom: 6px;">97.9FM 渥太华中文电台</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 4px;">
 									<a href="spotlight-lufeng-interview-part1.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>专访路风老师——艺海流光（上）</a>
 								</li>
 
@@ -530,6 +530,10 @@
         </nav>
     </div>
 </header>
+
+
+
+
 
 
 
