@@ -137,6 +137,39 @@
 
 
 						        </li>
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+						        	<a href="spotlight-qu-yongzhong-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM渥太华中文电台：书法家曲永仲老师专访</a>
+
+
+
+
+						        </li>
+
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+
+						        	<a href="spotlight-xiaorui-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM渥太华中文电台：小瑞（郑雪）专访——水墨芳华 · 心安自在</a>
+
+
+
+
+
+						        </li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
 									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
 								</li>					
