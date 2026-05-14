@@ -44,29 +44,32 @@
             
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>生而为人，妈妈的故事</b></h1>
-	                <h2>母亲节征文</h2>
+	                <h1><b>西安秦岭研学12天</b></h1>
+	                <h2>北京-西安-宝鸡秦岭生态文化研学之旅</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>
-						时间: <b>2026年3月27日 — 2026月5月8日</b><br/><br/>
-						每一位妈妈，都有故事。 这个母亲节，写一段关于她的故事吧！写给她，也写给自己。<br/>
+						参与对象: <b>全球青少年，12岁-25岁（家长可以陪同）</b><br/>
+						路线: <b>北京—西安—宝鸡—秦岭</b><br/>
+						费用: <b>$1680（不含机票和保险）</b><br/>
+						报名费: <b>$500，10人成团，不能成团费用全部退还</b><br/>
+						E-transfer: <b>syrg4cclub@gmail.com</b><br/><br/>
+						走进周秦汉唐文明，探秘秦岭生态与国宝珍稀物种，在非遗手作、博物馆课程与校际交流中完成一次有深度的文化学习。<br/>
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026Mother_zh.jsp">更多信息</a> 
+					    <a class="btn btn-orange btn-lg" href="2026xianQinling.jsp">更多信息</a> 
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">
-                        关于母爱，关于成长，关于亲情<br/>
-关于回忆，关于误会和理解，关于遗憾和懊悔<br/>
-一件小事、一句话、一次争吵<br/>
-当你成为母亲之后，才明白的那一刻<br/>
-真实真诚，就已足够动人！不需要华丽的辞藻。
+                        西安与宝鸡双核心，历史文明、秦岭生态、非遗体验、校际交流和成果展示并行。<br/>
+                        线路覆盖兵马俑、西安碑林、乾陵、汉阳陵、宝鸡青铜器博物院、周原景区、秦岭四宝馆、秦岭国家植物园及太白山国家森林公园。
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2026mother/main.jpg" /> 
+	                <a href="2026xianQinling.jsp">
+	                    <img style="max-width: 90%" src="2026xianQinling/xian-cover-title.jpg" alt="西安秦岭研学12天" />
+	                </a> 
 	            </div>
 	        </div>
 	        <hr/>
