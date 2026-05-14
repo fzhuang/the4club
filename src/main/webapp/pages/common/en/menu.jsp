@@ -110,6 +110,9 @@
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
+									<a href="spotlight-lufeng-interview-part1.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：专访路风老师——艺海流光（上）</a>
+								</li>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 20px;">
 									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
 								</li>					
 				            </ul>
