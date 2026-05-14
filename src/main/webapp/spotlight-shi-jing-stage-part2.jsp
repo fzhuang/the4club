@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@
     <meta name="description" content="97.9FM 渥太华中文电台专访石静，继续走近她从上戏到渥太华的人生与舞台故事。"/>
     <meta property="og:title" content="97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（下）"/>
     <meta property="og:description" content="97.9FM 渥太华中文电台专访石静，继续走近她从上戏到渥太华的人生与舞台故事。"/>
-    <meta property="og:image" content="https://the4cclub.ca/the4club/spotlight-shi-jing-stage-part2/shi-jing-stage-part2-01.jpg"/>
+    <meta property="og:image" content="https://the4cclub.ca/the4club/spotlight-shi-jing-stage-part2/shi-jing-stage-part2-02.jpg"/>
     <meta property="og:type" content="article"/>
     <meta name="robots" content="all"/>
     <meta name="author" content="4cClub"/>
@@ -163,7 +163,7 @@
                     <p>承接上篇访谈，石静老师继续分享她的舞台经历、艺术追求与在渥太华生活中的心路历程。</p>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-12 text-center">
-                    <img class="lf-hero-img" src="spotlight-shi-jing-stage-part2/shi-jing-stage-part2-01.jpg" alt="石静人生与舞台下">
+                    <img class="lf-hero-img" src="spotlight-shi-jing-stage-part2/shi-jing-stage-part2-02.jpg" alt="石静人生与舞台下">
                 </div>
             </div>
         </div>
@@ -185,3 +185,4 @@
 </div>
 </body>
 </html>
+

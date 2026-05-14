@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+﻿<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 
 <header class="header">
 
@@ -366,7 +366,7 @@
 
 
 
-						        	<a href="spotlight-shi-jing-stage-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台</a>
+						        	<a href="spotlight-shi-jing-stage-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（上）</a>
 
 
 
@@ -451,7 +451,7 @@
 
 
 
-						        	<a href="spotlight-spelling-bee-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>从“试试玩”到冠军：一场比赛，改变了一家人的未来</a>
+						        	<a href="spotlight-spelling-bee-interview.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：从“试试玩”到冠军，一场比赛，改变了一家人的未来</a>
 
 
 
@@ -528,3 +528,4 @@
         </nav>
     </div>
 </header>
+

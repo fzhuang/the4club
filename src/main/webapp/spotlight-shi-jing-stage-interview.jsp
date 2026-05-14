@@ -1,15 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <title>4cClub: 97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台</title>
+    <title>4cClub: 97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（上）</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    <meta name="title" content="97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台"/>
+    <meta name="title" content="97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（上）"/>
     <meta name="description" content="97.9FM 渥太华中文电台专访石静，走近她从上戏到渥太华的人生与舞台故事。"/>
-    <meta property="og:title" content="97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台"/>
+    <meta property="og:title" content="97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（上）"/>
     <meta property="og:description" content="97.9FM 渥太华中文电台专访石静，走近她从上戏到渥太华的人生与舞台故事。"/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/spotlight-shi-jing-stage/shi-jing-stage-01.jpg"/>
     <meta property="og:type" content="article"/>
@@ -159,7 +159,7 @@
             <div class="row" style="display:flex; align-items:center; flex-wrap:wrap;">
                 <div class="col-md-7 col-sm-7 col-xs-12">
                     <div class="lf-kicker">闻道特辑 / Insights Spotlight</div>
-                    <h1>97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台</h1>
+                    <h1>97.9FM 渥太华中文电台：从上戏到渥太华——石静的人生与舞台（上）</h1>
                     <p>从上戏到渥太华，石静老师的人生经历与舞台故事，记录了艺术、教育与生活之间的绽续与开阔。</p>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-12 text-center">
@@ -173,7 +173,7 @@
         <div class="container">
             <div class="lf-source">
                 本文内容整理自97.9FM 渥太华中文电台《枫华闻道》微信文章：
-                <a href="https://mp.weixin.qq.com/s/PrII81H8wVlYsHTbzP2hbA" target="_blank">《从上戏到渥太华——石静的人生与舞台》</a>。页面尽量保留原文采访段落、图片与问答内容；原文音频请通过微信文章收听。
+                <a href="https://mp.weixin.qq.com/s/PrII81H8wVlYsHTbzP2hbA" target="_blank">《从上戏到渥太华——石静的人生与舞台（上）》</a>。页面尽量保留原文采访段落、图片与问答内容；原文音频请通过微信文章收听。
             </div>
             <article class="lf-article">
                 <%@ include file="/spotlight-shi-jing-stage/article-content.jspf" %>
@@ -185,3 +185,4 @@
 </div>
 </body>
 </html>
+

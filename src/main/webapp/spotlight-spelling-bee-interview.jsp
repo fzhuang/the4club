@@ -1,15 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <title>4cClub: 从“试试玩”到冠军：一场比赛，改变了一家人的未来——专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu</title>
+    <title>4cClub: 97.9FM 渥太华中文电台：从“试试玩”到冠军，一场比赛，改变了一家人的未来——专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    <meta name="title" content="从“试试玩”到冠军：一场比赛，改变了一家人的未来——专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu"/>
+    <meta name="title" content="97.9FM 渥太华中文电台：从“试试玩”到冠军，一场比赛，改变了一家人的未来——专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu"/>
     <meta name="description" content="专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu，讲述从“试试玩”到冠军的成长故事，以及一场比赛如何改变一家人的未来。"/>
-    <meta property="og:title" content="从“试试玩”到冠军：一场比赛，改变了一家人的未来——专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu"/>
+    <meta property="og:title" content="97.9FM 渥太华中文电台：从“试试玩”到冠军，一场比赛，改变了一家人的未来——专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu"/>
     <meta property="og:description" content="专访Canada Super Spelling Bee 创办人Tony Zhang &amp; Lucy Hu，讲述从“试试玩”到冠军的成长故事，以及一场比赛如何改变一家人的未来。"/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/spotlight-spelling-bee/spelling-bee-01.jpg"/>
     <meta property="og:type" content="article"/>
@@ -159,7 +159,7 @@
             <div class="row" style="display:flex; align-items:center; flex-wrap:wrap;">
                 <div class="col-md-7 col-sm-7 col-xs-12">
                     <div class="lf-kicker">闻道特辑 / Insights Spotlight</div>
-                    <h1>从“试试玩”到冠军：一场比赛，改变了一家人的未来</h1>
+                    <h1>97.9FM 渥太华中文电台：从“试试玩”到冠军，一场比赛，改变了一家人的未来</h1>
                     <p>从一场拼词比赛出发，走近Canada Super Spelling Bee 创办人的教育理念、家庭故事与青少年成长之路。</p>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-12 text-center">
@@ -173,7 +173,7 @@
         <div class="container">
             <div class="lf-source">
                 本文内容整理自《枫华闻道》微信文章：
-                <a href="https://mp.weixin.qq.com/s/Zc_e_dv6jpqqmpC83rix3g" target="_blank">《从“试试玩”到冠军：一场比赛，改变了一家人的未来》</a>。页面尽量保留原文采访段落、图片与问答内容；原文音频请通过微信文章收听。
+                <a href="https://mp.weixin.qq.com/s/Zc_e_dv6jpqqmpC83rix3g" target="_blank">《97.9FM 渥太华中文电台：从“试试玩”到冠军，一场比赛，改变了一家人的未来》</a>。页面尽量保留原文采访段落、图片与问答内容；原文音频请通过微信文章收听。
             </div>
             <article class="lf-article">
                 <%@ include file="/spotlight-spelling-bee/article-content.jspf" %>
@@ -185,3 +185,4 @@
 </div>
 </body>
 </html>
+
