@@ -170,6 +170,27 @@
 
 
 						        </li>
+
+
+
+
+
+
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+
+
+
+
+
+
+						        	<a href="spotlight-chinese-education-culture.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.9FM 渥太华中文电台：海外中文教育与中华文化传承</a>
+
+
+
+
+
+
+						        </li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
 									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
 								</li>					
