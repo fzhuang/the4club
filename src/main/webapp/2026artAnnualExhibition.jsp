@@ -8,10 +8,10 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
     <meta name="title" content="2026年加拿大加华艺术协会年展"/>
-    <meta name="description" content="由加拿大加华艺术协会主办、岁月如歌文艺沙龙协办的2026年书画艺术年展将于渥太华中心图书馆举行。"/>
+    <meta name="description" content="加拿大加华艺术协会2026年书画艺术年展活动回顾，感谢社区各界支持，展示艺术创作、现场活动与展览风采。"/>
     <meta property="og:title" content="2026年加拿大加华艺术协会年展"/>
-    <meta property="og:description" content="展览日期：2026.05.31 - 2026.06.28；地点：渥太华中心图书馆 Main Library。"/>
-    <meta property="og:image" content="https://the4cclub.ca/the4club/2026artAnnualExhibition/cover.jpg"/>
+    <meta property="og:description" content="加拿大加华艺术协会2026年书画艺术年展活动回顾。"/>
+    <meta property="og:image" content="https://the4cclub.ca/the4club/2026artAnnualExhibition/art-exhibition-01.png"/>
     <meta property="og:type" content="article"/>
     <meta name="robots" content="all"/>
     <meta name="author" content="4cClub"/>
@@ -29,8 +29,8 @@
 
     <style>
         .art-exhibition-hero {
-            background: linear-gradient(135deg, rgba(116, 22, 18, .9), rgba(34, 68, 48, .78));
-            min-height: 460px;
+            background: linear-gradient(135deg, rgba(116, 22, 18, .92), rgba(37, 75, 54, .82));
+            min-height: 500px;
             display: flex;
             align-items: center;
             color: #fff;
@@ -47,17 +47,18 @@
         .art-exhibition-hero p {
             font-size: 21px;
             line-height: 1.75;
-            max-width: 740px;
+            max-width: 760px;
             margin-bottom: 22px;
         }
 
         .art-hero-image {
             width: 100%;
-            max-height: 360px;
+            max-height: 380px;
             object-fit: cover;
-            object-position: center 42%;
+            object-position: center center;
             border-radius: 6px;
             box-shadow: 0 18px 42px rgba(0, 0, 0, .28);
+            background: #fff;
         }
 
         .art-pill {
@@ -122,11 +123,34 @@
             margin-top: 7px;
         }
 
-        .art-invite {
-            background: #f6f7f2;
+        .art-gallery-section {
+            background: #f6f4ef;
         }
 
-        .art-note {
+        .art-gallery {
+            column-count: 3;
+            column-gap: 18px;
+        }
+
+        .art-gallery-item {
+            display: inline-block;
+            width: 100%;
+            margin: 0 0 18px 0;
+            break-inside: avoid;
+            background: #fff;
+            border: 1px solid #e4ddd2;
+            border-radius: 6px;
+            overflow: hidden;
+            box-shadow: 0 10px 24px rgba(40, 33, 24, .08);
+        }
+
+        .art-gallery-item img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .art-footer-note {
             background: #fff;
             border: 1px solid #e5e0d6;
             border-radius: 6px;
@@ -136,10 +160,10 @@
             color: #444;
         }
 
-        .art-cover-full {
-            width: 100%;
-            border-radius: 6px;
-            box-shadow: 0 12px 34px rgba(0, 0, 0, .12);
+        @media (max-width: 991px) {
+            .art-gallery {
+                column-count: 2;
+            }
         }
 
         @media (max-width: 767px) {
@@ -149,23 +173,27 @@
             }
 
             .art-exhibition-hero h1 {
-                font-size: 32px;
+                font-size: 31px;
             }
 
             .art-exhibition-hero p,
             .art-copy,
             .art-info-item,
-            .art-note {
+            .art-footer-note {
                 font-size: 16px;
             }
 
             .art-hero-image {
                 margin-top: 24px;
-                max-height: 280px;
+                max-height: 300px;
             }
 
             .art-section h2 {
                 font-size: 26px;
+            }
+
+            .art-gallery {
+                column-count: 1;
             }
         }
     </style>
@@ -180,13 +208,13 @@
         <div class="container">
             <div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
                 <div class="col-md-7 col-sm-7 col-xs-12">
-                    <div class="art-pill">开幕邀请</div>
+                    <div class="art-pill">活动回顾</div>
                     <div class="art-pill">书画艺术年展</div>
                     <h1>2026年加拿大加华艺术协会年展</h1>
-                    <p>风传花信，绿树成荫，又是一年夏初的美好时光。诚邀您与至亲好友一同走进艺术的殿堂，共享书画带来的温暖与感动。</p>
+                    <p>感谢社区各界及大家对我们的鼎力支持！感谢您的观赏！欢迎关注加拿大加华艺术协会，我们将在这里定期分享各类艺术创作、艺术活动和展览信息。</p>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-12">
-                    <img class="art-hero-image" src="2026artAnnualExhibition/cover.jpg" alt="2026年加拿大加华艺术协会年展"/>
+                    <img class="art-hero-image" src="2026artAnnualExhibition/art-exhibition-01.png" alt="2026年加拿大加华艺术协会年展"/>
                 </div>
             </div>
         </div>
@@ -197,26 +225,25 @@
             <div class="row">
                 <div class="col-md-7 col-sm-7 col-xs-12">
                     <div class="art-section-kicker">展览介绍</div>
-                    <h2>书法、国画与多元艺术的夏日相会</h2>
+                    <h2>艺术创作、社区支持与展览风采</h2>
                     <div class="art-copy">
-                        <p>由加拿大加华艺术协会主办、岁月如歌文艺沙龙协办的“2026年书画艺术年展”即将于渥太华拉开帷幕。</p>
-                        <p>本次展览全面汇聚书法、国画等诸多艺术佳作，既传承华夏艺术的悠远韵味，更具交融创新的艺术魅力。</p>
-                        <p>我们诚挚邀请您与至亲好友一同走进这片艺术的殿堂，共享艺术带来的温暖与感动。</p>
+                        <p>感谢社区各界及大家对我们的鼎力支持！感谢您的观赏！</p>
+                        <p>加拿大加华艺术协会将持续分享各类艺术创作、艺术活动和展览信息。无论您是艺术爱好者，还是创作者，我们都期待与您一起交流与分享艺术的无限魅力。</p>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-12">
                     <div class="art-info-card">
                         <div class="art-info-item">
-                            <i class="fa fa-calendar-alt"></i>
-                            <div><b>展览日期：</b><br/>2026.05.31 - 2026.06.28</div>
+                            <i class="fa fa-palette"></i>
+                            <div><b>主题：</b><br/>2026年加拿大加华艺术协会年展</div>
                         </div>
                         <div class="art-info-item">
-                            <i class="fa fa-map-marker-alt"></i>
-                            <div><b>展览地点：</b><br/>渥太华中心图书馆（Main Library）<br/>120 Metcalfe Street, Ottawa</div>
+                            <i class="fa fa-users"></i>
+                            <div><b>内容：</b><br/>书画艺术作品、活动现场与社区支持回顾</div>
                         </div>
                         <div class="art-info-item">
-                            <i class="fa fa-mug-hot"></i>
-                            <div><b>特别活动：开幕茶会</b><br/>5月31日 12:00，协会将特备茶点迎宾。</div>
+                            <i class="fa fa-heart"></i>
+                            <div><b>致谢：</b><br/>感谢社区各界朋友的关注、观赏与支持。</div>
                         </div>
                     </div>
                 </div>
@@ -224,18 +251,212 @@
         </div>
     </section>
 
-    <section class="art-section art-invite">
+    <section class="art-section art-gallery-section">
         <div class="container">
-            <div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
-                <div class="col-md-5 col-sm-5 col-xs-12">
-                    <img class="art-cover-full" src="2026artAnnualExhibition/cover.jpg" alt="2026年书画艺术年展开幕邀请"/>
-                </div>
-                <div class="col-md-7 col-sm-7 col-xs-12">
-                    <div class="art-note">
-                        <p>开幕茶会将于 <b>2026年5月31日中午12:00</b> 举行。协会将特备茶点迎宾，诚邀各位会员与各界朋友携亲友前来共赏佳作、品茗畅谈。</p>
-                        <p style="margin-bottom: 0;">在初夏的渥太华，与书画相遇，与朋友相聚，也与中华艺术的温润气韵相逢。</p>
-                    </div>
-                </div>
+            <div class="art-section-kicker">图文回顾</div>
+            <h2>年展现场与作品集锦</h2>
+            <div class="art-gallery">
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-01.png" alt="2026年加拿大加华艺术协会年展 图片1" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-02.png" alt="2026年加拿大加华艺术协会年展 图片2" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-03.png" alt="2026年加拿大加华艺术协会年展 图片3" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-04.png" alt="2026年加拿大加华艺术协会年展 图片4" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-05.png" alt="2026年加拿大加华艺术协会年展 图片5" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-06.png" alt="2026年加拿大加华艺术协会年展 图片6" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-07.png" alt="2026年加拿大加华艺术协会年展 图片7" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-08.jpg" alt="2026年加拿大加华艺术协会年展 图片8" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-09.png" alt="2026年加拿大加华艺术协会年展 图片9" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-10.png" alt="2026年加拿大加华艺术协会年展 图片10" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-11.jpg" alt="2026年加拿大加华艺术协会年展 图片11" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-12.png" alt="2026年加拿大加华艺术协会年展 图片12" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-13.jpg" alt="2026年加拿大加华艺术协会年展 图片13" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-14.png" alt="2026年加拿大加华艺术协会年展 图片14" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-15.png" alt="2026年加拿大加华艺术协会年展 图片15" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-16.jpg" alt="2026年加拿大加华艺术协会年展 图片16" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-17.png" alt="2026年加拿大加华艺术协会年展 图片17" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-18.png" alt="2026年加拿大加华艺术协会年展 图片18" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-19.jpg" alt="2026年加拿大加华艺术协会年展 图片19" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-20.png" alt="2026年加拿大加华艺术协会年展 图片20" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-21.jpg" alt="2026年加拿大加华艺术协会年展 图片21" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-22.png" alt="2026年加拿大加华艺术协会年展 图片22" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-23.jpg" alt="2026年加拿大加华艺术协会年展 图片23" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-24.png" alt="2026年加拿大加华艺术协会年展 图片24" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-25.jpg" alt="2026年加拿大加华艺术协会年展 图片25" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-26.jpg" alt="2026年加拿大加华艺术协会年展 图片26" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-27.png" alt="2026年加拿大加华艺术协会年展 图片27" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-28.jpg" alt="2026年加拿大加华艺术协会年展 图片28" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-29.png" alt="2026年加拿大加华艺术协会年展 图片29" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-30.jpg" alt="2026年加拿大加华艺术协会年展 图片30" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-31.jpg" alt="2026年加拿大加华艺术协会年展 图片31" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-32.jpg" alt="2026年加拿大加华艺术协会年展 图片32" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-33.jpg" alt="2026年加拿大加华艺术协会年展 图片33" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-34.jpg" alt="2026年加拿大加华艺术协会年展 图片34" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-35.png" alt="2026年加拿大加华艺术协会年展 图片35" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-36.jpg" alt="2026年加拿大加华艺术协会年展 图片36" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-37.jpg" alt="2026年加拿大加华艺术协会年展 图片37" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-38.jpg" alt="2026年加拿大加华艺术协会年展 图片38" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-39.jpg" alt="2026年加拿大加华艺术协会年展 图片39" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-40.png" alt="2026年加拿大加华艺术协会年展 图片40" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-41.jpg" alt="2026年加拿大加华艺术协会年展 图片41" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-42.png" alt="2026年加拿大加华艺术协会年展 图片42" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-43.png" alt="2026年加拿大加华艺术协会年展 图片43" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-44.jpg" alt="2026年加拿大加华艺术协会年展 图片44" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-45.jpg" alt="2026年加拿大加华艺术协会年展 图片45" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-46.jpg" alt="2026年加拿大加华艺术协会年展 图片46" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-47.jpg" alt="2026年加拿大加华艺术协会年展 图片47" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-48.png" alt="2026年加拿大加华艺术协会年展 图片48" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-49.jpg" alt="2026年加拿大加华艺术协会年展 图片49" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-50.jpg" alt="2026年加拿大加华艺术协会年展 图片50" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-51.jpg" alt="2026年加拿大加华艺术协会年展 图片51" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-52.png" alt="2026年加拿大加华艺术协会年展 图片52" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-53.jpg" alt="2026年加拿大加华艺术协会年展 图片53" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-54.png" alt="2026年加拿大加华艺术协会年展 图片54" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-55.png" alt="2026年加拿大加华艺术协会年展 图片55" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-56.jpg" alt="2026年加拿大加华艺术协会年展 图片56" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-57.jpg" alt="2026年加拿大加华艺术协会年展 图片57" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-58.jpg" alt="2026年加拿大加华艺术协会年展 图片58" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-59.png" alt="2026年加拿大加华艺术协会年展 图片59" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-60.jpg" alt="2026年加拿大加华艺术协会年展 图片60" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-61.jpg" alt="2026年加拿大加华艺术协会年展 图片61" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-62.jpg" alt="2026年加拿大加华艺术协会年展 图片62" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-63.png" alt="2026年加拿大加华艺术协会年展 图片63" loading="lazy"/>
+                    </figure>
+                    <figure class="art-gallery-item">
+                        <img src="2026artAnnualExhibition/art-exhibition-64.jpg" alt="2026年加拿大加华艺术协会年展 图片64" loading="lazy"/>
+                    </figure>
+            </div>
+        </div>
+    </section>
+
+    <section class="art-section">
+        <div class="container">
+            <div class="art-footer-note">
+                <p>欢迎关注加拿大加华艺术协会，了解更多艺术创作、艺术活动和展览信息。</p>
+                <p style="margin-bottom: 0;">让艺术连接社区，也让文化在交流中继续生长。</p>
             </div>
         </div>
     </section>
