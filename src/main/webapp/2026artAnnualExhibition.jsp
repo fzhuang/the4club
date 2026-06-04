@@ -380,9 +380,6 @@
                         <img src="2026artAnnualExhibition/art-exhibition-41.jpg" alt="2026年加拿大加华艺术协会年展 图片41" loading="lazy"/>
                     </figure>
                     <figure class="art-gallery-item">
-                        <img src="2026artAnnualExhibition/art-exhibition-42.png" alt="2026年加拿大加华艺术协会年展 图片42" loading="lazy"/>
-                    </figure>
-                    <figure class="art-gallery-item">
                         <img src="2026artAnnualExhibition/art-exhibition-43.png" alt="2026年加拿大加华艺术协会年展 图片43" loading="lazy"/>
                     </figure>
                     <figure class="art-gallery-item">
