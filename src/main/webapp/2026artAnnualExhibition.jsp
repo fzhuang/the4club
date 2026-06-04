@@ -11,7 +11,7 @@
     <meta name="description" content="加拿大加华艺术协会2026年书画艺术年展活动回顾，感谢社区各界支持，展示艺术创作、现场活动与展览风采。"/>
     <meta property="og:title" content="2026年加拿大加华艺术协会年展"/>
     <meta property="og:description" content="加拿大加华艺术协会2026年书画艺术年展活动回顾。"/>
-    <meta property="og:image" content="https://the4cclub.ca/the4club/2026artAnnualExhibition/art-exhibition-01.png"/>
+    <meta property="og:image" content="https://the4cclub.ca/the4club/2026artAnnualExhibition/annual-exhibition-hero.jpg"/>
     <meta property="og:type" content="article"/>
     <meta name="robots" content="all"/>
     <meta name="author" content="4cClub"/>
@@ -53,6 +53,7 @@
 
         .art-hero-image {
             width: 100%;
+            aspect-ratio: 16 / 9;
             max-height: 380px;
             object-fit: cover;
             object-position: center center;
@@ -214,7 +215,7 @@
                     <p>感谢社区各界及大家对我们的鼎力支持！感谢您的观赏！欢迎关注加拿大加华艺术协会，我们将在这里定期分享各类艺术创作、艺术活动和展览信息。</p>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-12">
-                    <img class="art-hero-image" src="2026artAnnualExhibition/art-exhibition-01.png" alt="2026年加拿大加华艺术协会年展"/>
+                    <img class="art-hero-image" src="2026artAnnualExhibition/annual-exhibition-hero.jpg" alt="2026年加拿大加华艺术协会年展"/>
                 </div>
             </div>
         </div>
