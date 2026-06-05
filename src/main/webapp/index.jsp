@@ -74,31 +74,6 @@
 	        </div>
 	        <hr/>
 
-	        <div class="row" style="margin: 20px 0 10px 0;">
-	            <div class="col-md-6 col-sm-6 col-xs-12">
-	                <h1><b>5月9日母亲节活动</b></h1>
-	                <h2>母亲节艺术展暨诗歌朗诵会，诚邀生肖绘画比赛选手领取马年纪念币。</h2>
-	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
-						<div class="text-muted" style="font-size: 18px;">
-						<br/>
-						时间: <b>2026年5月9日（周六）下午 1:00 - 3:00</b><br/>
-						地点: <b>710 Broadview Ave.</b><br/><br/>
-						汉服合影、艺术展览、诗歌朗诵，共度温馨母亲节时光。马年生肖绘画比赛奖品纪念币将在活动现场发放。<br/>
-						</div>
-	                </div>
-	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026MotherActivities_zh.jsp">更多信息</a>
-					</div>
-					<br/>
-					<div class="text-muted" style="font-size: 20px;">
-                        欢迎同学与家长一同参与，用艺术之名感恩母爱，也为孩子们的创作留下一个温暖的纪念。
-                    </div>
-	            </div>
-	            <div class="col-md-6 col-sm-6 col-xs-12">
-	                <img style="max-width: 90%" src="2026motherActivities/mother-day-art-zh.png" />
-	            </div>
-	        </div>
-	        <hr/>
 	        
 	        <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
