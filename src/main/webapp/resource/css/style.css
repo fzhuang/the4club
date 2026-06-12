@@ -2051,3 +2051,114 @@ video {
 
 
 
+
+/* Floating language switch copied from OCLS */
+.lang-switch-float {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 9999;
+    background: #ff0000;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    text-decoration: none !important;
+    font-size: 14px;
+    border: 2px solid #fff;
+    transition: transform 0.3s;
+}
+
+.lang-switch-float:hover,
+.lang-switch-float:focus {
+    transform: scale(1.1);
+    color: #fff;
+}
+
+/* Home hero typography aligned with the OCLS homepage style */
+.carousel-caption.left-caption.home-hero-caption {
+    width: 46%;
+    left: 8%;
+    bottom: 50%;
+    transform: translateY(50%);
+    color: #fff;
+    text-align: left;
+    font-family: 'Roboto', Arial, sans-serif;
+    text-shadow: 0 2px 12px rgba(0,0,0,0.45);
+}
+
+.home-hero-caption .carousel-caption-toptitle {
+    display: inline-block;
+    margin-bottom: 14px;
+    padding: 6px 12px;
+    border: 1px solid rgba(255,255,255,0.65);
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    background: rgba(0,0,0,0.16);
+}
+
+.home-hero-caption .carousel-caption-title {
+    max-width: 760px;
+    padding: 0 0 14px 0;
+    font-size: 46px;
+    line-height: 1.12;
+    font-weight: 700;
+    background: transparent;
+}
+
+.home-hero-caption .carousel-caption-subtitle {
+    max-width: 700px;
+    padding: 0;
+    font-size: 21px;
+    line-height: 1.65;
+    font-weight: 500;
+    background: transparent;
+}
+
+@media (max-width: 992px) {
+    .carousel-caption.left-caption.home-hero-caption {
+        width: 72%;
+        left: 8%;
+    }
+
+    .home-hero-caption .carousel-caption-title {
+        font-size: 38px;
+    }
+
+    .home-hero-caption .carousel-caption-subtitle {
+        font-size: 18px;
+        line-height: 1.55;
+    }
+}
+
+@media (max-width: 640px) {
+    .carousel-caption.left-caption.home-hero-caption {
+        width: 84%;
+        left: 8%;
+        top: 12%;
+        bottom: auto;
+        transform: none;
+    }
+
+    .home-hero-caption .carousel-caption-toptitle {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .home-hero-caption .carousel-caption-title {
+        font-size: 30px;
+        line-height: 1.16;
+    }
+
+    .home-hero-caption .carousel-caption-subtitle {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+}

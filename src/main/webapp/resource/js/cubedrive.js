@@ -60,7 +60,7 @@ $(document).ready(function(){
     var href = location.href, pageName = "index", pathname = location.pathname;
     var menuItems = $("#mainMenu a"),menuItem,containPages;
 
-    if (href.indexOf('/202') != -1 || href.indexOf('/competition') != -1) {
+    if (href.indexOf('/activities') != -1 || href.indexOf('/202') != -1 || href.indexOf('/competition') != -1) {
 		pageName = 'activities';
 	} else if (href.indexOf('/showRoom') != -1 ) {
 		pageName = 'showRoom';

@@ -2,15 +2,15 @@
          pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <title>4cClub: 闻道特辑 / Insights Spotlight</title>
+    <title>4cClub: Insights Spotlight</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    <meta name="title" content="闻道特辑 / Insights Spotlight"/>
-    <meta name="description" content="闻道特辑汇聚 4C Club 的人物访谈、专题报道与文化故事。"/>
-    <meta property="og:title" content="闻道特辑 / Insights Spotlight"/>
-    <meta property="og:description" content="人物访谈、专题报道与文化故事汇总。"/>
+    <meta name="title" content="Insights Spotlight"/>
+    <meta name="description" content="Insights Spotlight brings together 4cClub interviews, feature stories, and cultural reports."/>
+    <meta property="og:title" content="Insights Spotlight"/>
+    <meta property="og:description" content="A collection of interviews, feature stories, cultural reports, and community voices."/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png"/>
     <meta property="og:type" content="website"/>
     <meta name="robots" content="all"/>
@@ -25,7 +25,7 @@
 
     <script src="resource/js/jquery.min.js"></script>
     <script src="resource/bootstrap/js/bootstrap.min.js"></script>
-    <script src="resource/js/cubedrive.js?v=1.15"></script>
+    <script src="resource/js/cubedrive.js?v=1.16"></script>
 
     <style>
         .insights-hero {
@@ -133,9 +133,9 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active insights-hero">
                     <div class="carousel-caption">
-                        <div class="carousel-caption-toptitle">闻道特辑 / Insights Spotlight</div>
-                        <div class="carousel-caption-title">闻道特辑</div>
-                        <div class="carousel-caption-subtitle">人物访谈、专题报道与文化故事汇总</div>
+                        <div class="carousel-caption-toptitle">Insights Spotlight</div>
+                        <div class="carousel-caption-title">Insights Spotlight</div>
+                        <div class="carousel-caption-subtitle">Interviews, feature stories, cultural reports, and community voices</div>
                     </div>
                 </div>
             </div>
@@ -145,31 +145,31 @@
     <section class="insights-page">
         <div class="container">
             <p class="insights-intro">
-                这里汇聚 4C Club 的闻道特辑文章，包含电台访谈、人物故事与文化专题。未来会有更多的文章在这里。
+                This page brings together 4cClub's Insights Spotlight articles, including radio interviews, personal stories, cultural features, and community reports. More stories will continue to be added here.
             </p>
 
-            <h2 class="insights-section-title">电台访谈</h2>
+            <h2 class="insights-section-title">Radio Interviews</h2>
             <ul class="insights-list">
-                <li class="insights-item"><a href="spotlight-lufeng-interview-part1.jsp"><i class="fas fa-microphone-alt"></i><span>专访路风老师——艺海流光（上）<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-lufeng-interview-part2.jsp"><i class="fas fa-microphone-alt"></i><span>专访路风老师——艺海流光（下）<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-helianhua-interview.jsp"><i class="fas fa-microphone-alt"></i><span>专访贺连华老师——人间烟火与翰墨丹青之间<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-fengluobaiyi-interview.jsp"><i class="fas fa-microphone-alt"></i><span>用故事还原历史-枫落白衣专访（回放）<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-qu-yongzhong-interview.jsp"><i class="fas fa-microphone-alt"></i><span>书法家曲永仲老师专访<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-xiaorui-interview.jsp"><i class="fas fa-microphone-alt"></i><span>小瑞（郑雪）专访——水墨芳华 · 心安自在<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-chinese-education-culture.jsp"><i class="fas fa-microphone-alt"></i><span>海外中文教育与中华文化传承<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-zhao-yunfeng-interview.jsp"><i class="fas fa-microphone-alt"></i><span>赵云凤老师专访<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-meng-wei-yueju-part1.jsp"><i class="fas fa-microphone-alt"></i><span>孟伟越剧专题访谈（上）<span class="insights-tag">97.7FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-meng-wei-yueju-part2.jsp"><i class="fas fa-microphone-alt"></i><span>孟伟越剧社专题访谈（下）<span class="insights-tag">97.7FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-yang-liya-interview.jsp"><i class="fas fa-microphone-alt"></i><span>对话杨丽娅老师<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-zhang-min-opera-interview.jsp"><i class="fas fa-microphone-alt"></i><span>专访张敏——工程师与戏曲人的双重人生<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-shi-jing-stage-interview.jsp"><i class="fas fa-microphone-alt"></i><span>从上戏到渥太华——石静的人生与舞台（上）<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-shi-jing-stage-part2.jsp"><i class="fas fa-microphone-alt"></i><span>从上戏到渥太华——石静的人生与舞台（下）<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
-                <li class="insights-item"><a href="spotlight-spelling-bee-interview.jsp"><i class="fas fa-microphone-alt"></i><span>从“试试玩”到冠军，一场比赛，改变了一家人的未来<span class="insights-tag">97.9FM 渥太华中文电台</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-lufeng-interview-part1.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with Lu Feng: The Flow of Art and Memory, Part 1<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-lufeng-interview-part2.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with Lu Feng: The Flow of Art and Memory, Part 2<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-helianhua-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with He Lianhua: Everyday Life and Ink Painting<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-fengluobaiyi-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Restoring History Through Stories: Interview with Feng Luo Bai Yi<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-qu-yongzhong-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with Calligrapher Qu Yongzhong<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-xiaorui-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with Xiaorui (Zheng Xue): Ink, Grace, and Inner Ease<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-chinese-education-culture.jsp"><i class="fas fa-microphone-alt"></i><span>Overseas Chinese Education and Chinese Cultural Heritage<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-zhao-yunfeng-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with Zhao Yunfeng<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-meng-wei-yueju-part1.jsp"><i class="fas fa-microphone-alt"></i><span>Meng Wei Yue Opera Feature Interview, Part 1<span class="insights-tag">97.7FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-meng-wei-yueju-part2.jsp"><i class="fas fa-microphone-alt"></i><span>Meng Wei Yue Opera Society Feature Interview, Part 2<span class="insights-tag">97.7FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-yang-liya-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Conversation with Yang Liya<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-zhang-min-opera-interview.jsp"><i class="fas fa-microphone-alt"></i><span>Interview with Zhang Min: Engineer and Opera Artist<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-shi-jing-stage-interview.jsp"><i class="fas fa-microphone-alt"></i><span>From Shanghai Theatre Academy to Ottawa: Shi Jing's Life and Stage, Part 1<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-shi-jing-stage-part2.jsp"><i class="fas fa-microphone-alt"></i><span>From Shanghai Theatre Academy to Ottawa: Shi Jing's Life and Stage, Part 2<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
+                <li class="insights-item"><a href="spotlight-spelling-bee-interview.jsp"><i class="fas fa-microphone-alt"></i><span>From "Just Trying It" to Champion: A Competition That Changed a Family's Future<span class="insights-tag">97.9FM Ottawa Chinese Radio</span></span></a></li>
             </ul>
 
-            <h2 class="insights-section-title">闻道人物</h2>
+            <h2 class="insights-section-title">People</h2>
             <ul class="insights-list">
-                <li class="insights-item"><a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award"></i><span>曲永仲先生被授予“国际文化榜样”荣誉称号</span></a></li>
+                <li class="insights-item"><a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award"></i><span>Qu Yongzhong Honored with the "International Cultural Model" Title</span></a></li>
             </ul>
         </div>
     </section>

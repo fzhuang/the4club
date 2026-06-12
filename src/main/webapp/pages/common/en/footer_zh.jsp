@@ -30,14 +30,14 @@
 <%
     String currentPage = request.getRequestURI();
     currentPage = currentPage.substring(currentPage.lastIndexOf("/") + 1);
-    String zhPage = "index_zh.jsp";
-    if ("activities.jsp".equals(currentPage)) {
-        zhPage = "activities_zh.jsp";
-    } else if ("spotlight-insight.jsp".equals(currentPage)) {
-        zhPage = "spotlight-insight_zh.jsp";
+    String enPage = "index.jsp";
+    if ("activities_zh.jsp".equals(currentPage)) {
+        enPage = "activities.jsp";
+    } else if ("spotlight-insight_zh.jsp".equals(currentPage)) {
+        enPage = "spotlight-insight.jsp";
     }
 %>
-<a href="<%=request.getContextPath()%>/<%=zhPage%>" class="lang-switch-float">中文</a>
+<a href="<%=request.getContextPath()%>/<%=enPage%>" class="lang-switch-float">EN</a>
 
 <!-- BEGIN OF FOOTER -->
 <footer class="footer">
@@ -45,15 +45,15 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 <div class="logo">
-                    <a href="/index.jsp"><img src="resource/images/logo_white.png" align="logo-footer" style="width:350px;height:150px;"/></a>
+                    <a href="/index_zh.jsp"><img src="resource/images/logo_white.png" align="logo-footer" style="width:350px;height:150px;"/></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-8">
                 <h3 class="item-title">
-                    Contact Us
+                    联系我们
                 </h3>
                 <ul class="footer-menu footer-menu-has-icon">
-                    <li>Canadian-Chinese Cross Culture Club</li>
+                    <li>加中文化教育交流中心</li>
                     <li><i class="far fa-address-card" style="margin-right: 10px;"></i><br/>
                         1390 Prince of Wales Dr, Suite 304, Ottawa ON K2C 3N6
                     </li>
@@ -65,10 +65,10 @@
                     Menu
                 </h3>
                 <ul class="footer-menu footer-menu-has-style">
-                    <li><a href="/index.jsp">Home</a></li>
-                    <li><a href="https://the4cclub.ca/showRoom-artisthome.jsp">Artists Home</a></li>              
-                    <li><a href="https://the4cclub.ca/the4club/joinUs.jsp">Join Us</a></li>
-                    <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club">Sign in</a></li>
+                    <li><a href="/index_zh.jsp">主页</a></li>
+                    <li><a href="https://the4cclub.ca/showRoom-artisthome.jsp">艺术家之家</a></li>              
+                    <li><a href="https://the4cclub.ca/the4club/joinUs.jsp">加入我们</a></li>
+                    <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club">登录</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -81,7 +81,7 @@
     </div>
 
     <div class="copy_right">
-        Copyright &copy; 2026 Canadian-Chinese Cross Culture Club  All Rights Reserved.
+        Copyright &copy; 2026 加中文化教育交流中心  All Rights Reserved.
     </div>
 </footer>
 <!-- END OF FOOTER -->
