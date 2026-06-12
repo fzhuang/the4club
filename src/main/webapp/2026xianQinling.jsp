@@ -2,21 +2,21 @@
          pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <title>加中文化教育交流中心：西安秦岭研学12天</title>
+    <title>4cClub: Xi'an Qinling 12-Day Study Tour</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    <meta name="title" content="西安秦岭研学12天"/>
-    <meta name="description" content="北京-西安-宝鸡秦岭生态文化研学之旅12天，走进周秦汉唐文明，探秘秦岭生态，体验非遗与校际交流。"/>
-    <meta property="og:title" content="加中文化教育交流中心：西安秦岭研学12天"/>
-    <meta property="og:description" content="北京-西安-宝鸡秦岭生态文化研学之旅12天，走进周秦汉唐文明，探秘秦岭生态，体验非遗与校际交流。"/>
+    <meta name="title" content="Xi'an Qinling 12-Day Study Tour"/>
+    <meta name="description" content="A 12-day Beijing-Xi'an-Baoji Qinling ecological and cultural study tour exploring Chinese civilization, Qinling ecology, intangible heritage, and school exchange."/>
+    <meta property="og:title" content="4cClub: Xi'an Qinling 12-Day Study Tour"/>
+    <meta property="og:description" content="A 12-day Beijing-Xi'an-Baoji Qinling ecological and cultural study tour exploring Chinese civilization, Qinling ecology, intangible heritage, and school exchange."/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png"/>
     <meta property="og:type" content="article"/>
     <meta name="robots" content="all"/>
     <meta name="author" content="4cClub"/>
 
-    <link rel="canonical" href="https://the4cclub.ca"/>
+    <link rel="canonical" href="https://the4cclub.ca/2026xianQinling.jsp"/>
     <link rel="shortcut icon" type="image/x-icon" href="resource/images/favicon.ico">
     <link href="resource/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="resource/fontawesome-free-5.15.4-web/css/all.css">
@@ -25,7 +25,7 @@
 
     <script src="resource/js/jquery.min.js"></script>
     <script src="resource/bootstrap/js/bootstrap.min.js"></script>
-    <script src="resource/js/cubedrive.js?v=1.15"></script>
+    <script src="resource/js/cubedrive.js?v=1.16"></script>
 
     <style>
         .xian-hero {
@@ -245,13 +245,13 @@
     <section class="xian-hero">
         <div class="container">
             <div>
-                <span class="xian-pill">2026 活动</span>
-                <span class="xian-pill">12天研学</span>
-                <span class="xian-pill">北京 - 西安 - 宝鸡</span>
+                <span class="xian-pill">2026 Program</span>
+                <span class="xian-pill">12-Day Study Tour</span>
+                <span class="xian-pill">Beijing - Xi'an - Baoji</span>
             </div>
-            <h1>西安秦岭研学12天</h1>
-            <p>北京-西安-宝鸡秦岭生态文化研学之旅：走进周秦汉唐文明脉络，探秘秦岭生态与国宝珍稀物种，在非遗手作、博物馆课程与校际交流中完成一次有深度的文化学习。</p>
-            <a class="xian-btn" href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">查看完整PDF行程</a>
+            <h1>Xi'an Qinling 12-Day Study Tour</h1>
+            <p>A Beijing-Xi'an-Baoji ecological and cultural journey through the heritage of Zhou, Qin, Han, and Tang civilization, Qinling biodiversity, museum learning, hands-on heritage workshops, and school exchange.</p>
+            <a class="xian-btn" href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">View Full PDF Itinerary</a>
         </div>
     </section>
 
@@ -259,20 +259,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7">
-                    <div class="xian-section-title">活动概览</div>
-                    <h2>历史文明与秦岭生态并重的课程化研学</h2>
+                    <div class="xian-section-title">Program Overview</div>
+                    <h2>A curriculum-based journey through history, culture, and Qinling ecology</h2>
                     <div class="xian-note">
-                        本线路以西安、宝鸡为双核心，串联秦始皇帝陵博物院、西安碑林、乾陵、汉阳陵、宝鸡青铜器博物院、周原景区、秦岭四宝馆、秦岭国家植物园及太白山国家森林公园等研学点。每一站围绕任务、导师讲解、实践体验和成果展示展开，不只是观光，更强调理解、表达与探究。
+                        This route centers on Xi'an and Baoji, connecting the Emperor Qinshihuang's Mausoleum Site Museum, Xi'an Forest of Stone Steles, Qianling Mausoleum, Hanyangling Museum, Baoji Bronze Ware Museum, Zhouyuan Scenic Area, Qinling Four Treasures Museum, Qinling National Botanical Garden, and Taibai Mountain National Forest Park. Each stop is built around guided learning, hands-on practice, inquiry, and presentation.
                     </div>
                 </div>
                 <div class="col-md-5">
                     <div class="xian-card">
-                        <div class="xian-fact"><i class="fa fa-route"></i><div><b>路线：</b>北京集合出发，西安与宝鸡深度研学。</div></div>
-                        <div class="xian-fact"><i class="fa fa-users"></i><div><b>参与对象：</b>全球青少年，12岁-25岁；家长可以陪同。</div></div>
-                        <div class="xian-fact"><i class="fa fa-tag"></i><div><b>费用：</b>$1680，不含机票和保险。</div></div>
-                        <div class="xian-fact"><i class="fa fa-credit-card"></i><div><b>报名费：</b>$500；10人成团，不能成团费用全部退还。</div></div>
-                        <div class="xian-fact"><i class="fa fa-envelope"></i><div><b>E-transfer：</b>syrg4cclub@gmail.com</div></div>
-                        <div class="xian-fact"><i class="fa fa-file-pdf"></i><div><b>资料：</b><a href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">下载/查看PDF行程方案</a></div></div>
+                        <div class="xian-fact"><i class="fa fa-route"></i><div><b>Route:</b> Depart from Beijing, with in-depth study in Xi'an and Baoji.</div></div>
+                        <div class="xian-fact"><i class="fa fa-users"></i><div><b>Participants:</b> Global youth ages 12-25; parents may accompany.</div></div>
+                        <div class="xian-fact"><i class="fa fa-tag"></i><div><b>Fee:</b> $1680, excluding airfare and insurance.</div></div>
+                        <div class="xian-fact"><i class="fa fa-credit-card"></i><div><b>Deposit:</b> $500; minimum 10 participants. Full refund if the group is not formed.</div></div>
+                        <div class="xian-fact"><i class="fa fa-envelope"></i><div><b>E-transfer:</b> syrg4cclub@gmail.com</div></div>
+                        <div class="xian-fact"><i class="fa fa-file-pdf"></i><div><b>Materials:</b> <a href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">Download / view the PDF itinerary</a></div></div>
                     </div>
                 </div>
             </div>
@@ -281,31 +281,31 @@
 
     <section class="xian-section">
         <div class="container">
-            <div class="xian-section-title">研学目标</div>
-            <h2>让孩子在行走中建立文化理解与科学探究能力</h2>
+            <div class="xian-section-title">Learning Goals</div>
+            <h2>Build cultural understanding and inquiry skills through travel-based learning</h2>
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="xian-card">
-                        <h3>认知文明脉络</h3>
-                        <p>从周秦汉唐的历史现场出发，理解中华文明的形成、传承与发展。</p>
+                        <h3>Understand Civilization</h3>
+                        <p>Explore historical sites from the Zhou, Qin, Han, and Tang periods to understand the formation and continuity of Chinese civilization.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="xian-card">
-                        <h3>探秘秦岭生态</h3>
-                        <p>认识大熊猫、金丝猴、朱鹮、羚牛等珍稀物种，建立生态保护意识。</p>
+                        <h3>Explore Qinling Ecology</h3>
+                        <p>Learn about rare species such as giant pandas, golden snub-nosed monkeys, crested ibises, and takins, and develop ecological awareness.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="xian-card">
-                        <h3>体验非遗手工</h3>
-                        <p>通过拓片、青铜纹样、汉服与传统手作体验，提升跨文化表达能力。</p>
+                        <h3>Experience Heritage Craft</h3>
+                        <p>Practice rubbing, bronze-pattern design, Hanfu experience, and traditional crafts to turn knowledge into tangible expression.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="xian-card">
-                        <h3>培养团队素养</h3>
-                        <p>在任务协作、自然观察、校际交流与成果展示中锻炼综合能力。</p>
+                        <h3>Develop Team Skills</h3>
+                        <p>Strengthen collaboration, observation, communication, and presentation skills through group tasks and school exchange.</p>
                     </div>
                 </div>
             </div>
@@ -314,31 +314,31 @@
 
     <section class="xian-section" style="background: #fbfaf7;">
         <div class="container">
-            <div class="xian-section-title">方案亮点</div>
-            <h2>西安 + 宝鸡双核心：文明、生态与实践并行</h2>
+            <div class="xian-section-title">Program Highlights</div>
+            <h2>Xi'an + Baoji: history, ecology, and hands-on learning</h2>
             <div class="row">
                 <div class="col-md-6">
                     <div class="xian-card">
-                        <h3>历史文明 + 秦岭生态</h3>
-                        <p>线路覆盖西安、宝鸡两大文化与生态节点，将周秦汉唐历史、青铜文明、秦岭自然与国宝珍稀物种放在同一条学习线索中理解。</p>
+                        <h3>History + Qinling Ecology</h3>
+                        <p>The route connects Xi'an and Baoji, placing Zhou-Qin-Han-Tang history, bronze civilization, Qinling nature, and rare species into one coherent learning path.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="xian-card">
-                        <h3>全课程化设计</h3>
-                        <p>每站安排研学任务、导师讲解和体验活动，重视观察、记录、表达与反思，帮助学生从“看见”走向“理解”。</p>
+                        <h3>Curriculum-Based Design</h3>
+                        <p>Each stop includes guided tasks, instructor interpretation, and experiential activities, encouraging students to move from seeing to understanding.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="xian-card">
-                        <h3>校际交流与成果展示</h3>
-                        <p>走进咸阳秦都英才学校，与当地中小学生交流学习与生活，行程末进行英文成果汇报并颁发研学证书。</p>
+                        <h3>School Exchange & Presentation</h3>
+                        <p>Visit Xianyang Qindu Yingcai School, exchange with local students, and complete an English final presentation with study-tour certificates.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="xian-card">
-                        <h3>非遗与博物馆实践</h3>
-                        <p>通过拓片、青铜纹样、篆刻文化、汉代礼仪与传统手作，把文化知识转化为可触摸、可表达的学习成果。</p>
+                        <h3>Heritage & Museum Practice</h3>
+                        <p>Through rubbings, bronze motifs, seal culture, Han etiquette, and craft workshops, students transform cultural knowledge into visible learning outcomes.</p>
                     </div>
                 </div>
             </div>
@@ -347,77 +347,77 @@
 
     <section class="xian-section">
         <div class="container">
-            <div class="xian-section-title">12天行程速览</div>
-            <h2>北京-西安-宝鸡秦岭生态文化研学之旅</h2>
+            <div class="xian-section-title">12-Day Itinerary</div>
+            <h2>Beijing-Xi'an-Baoji Qinling Ecological and Cultural Study Tour</h2>
             <div class="table-responsive">
                 <table class="xian-table">
                     <thead>
                     <tr>
-                        <th>天数</th>
-                        <th>行程安排</th>
-                        <th>住宿</th>
+                        <th>Day</th>
+                        <th>Program</th>
+                        <th>Accommodation</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <th>D1</th>
-                        <td>北京西站集合出发，抵达西安；西安城墙开营仪式与城墙骑行。</td>
-                        <td>西安酒店</td>
+                        <td>Gather at Beijing West Railway Station and depart for Xi'an; opening ceremony on Xi'an City Wall and city wall cycling.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D2</th>
-                        <td>秦始皇帝陵博物院（兵马俑）；兵马俑DIY；秦始皇陵铜车马与丽山园。</td>
-                        <td>西安酒店</td>
+                        <td>Emperor Qinshihuang's Mausoleum Site Museum (Terracotta Warriors); Terracotta Warrior DIY; Bronze Chariots and Lishan Garden.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D3</th>
-                        <td>西安博物院；大雁塔；大唐芙蓉园；汉服体验；大唐不夜城。</td>
-                        <td>西安酒店</td>
+                        <td>Xi'an Museum; Giant Wild Goose Pagoda; Tang Paradise; Hanfu experience; Grand Tang Mall.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D4</th>
-                        <td>西安碑林博物馆；拓片体验；千古情演出；钟鼓楼广场与回民街。</td>
-                        <td>西安酒店</td>
+                        <td>Xi'an Forest of Stone Steles Museum; rubbing workshop; Songcheng Romance show; Bell and Drum Tower Square and Muslim Quarter.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D5</th>
-                        <td>乾陵；袁家村关中印象体验地，走进关中民俗与传统手工。</td>
-                        <td>西安酒店</td>
+                        <td>Qianling Mausoleum; Yuanjia Village Guanzhong folk culture experience and traditional crafts.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D6</th>
-                        <td>咸阳秦都英才学校（小学与中学）交流考察，开展校园参访与学生交流。</td>
-                        <td>西安酒店</td>
+                        <td>Visit Xianyang Qindu Yingcai School (elementary and middle school) for campus tour and student exchange.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D7</th>
-                        <td>秦岭四宝馆；秦岭国家植物园，认识秦岭生态与珍稀物种保护。</td>
-                        <td>西安酒店</td>
+                        <td>Qinling Four Treasures Museum and Qinling National Botanical Garden, focusing on Qinling ecology and rare-species conservation.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D8</th>
-                        <td>西安赴宝鸡；宝鸡青铜器博物院，学习青铜文明与铭文文化。</td>
-                        <td>宝鸡酒店</td>
+                        <td>Travel from Xi'an to Baoji; Baoji Bronze Ware Museum, learning about bronze civilization and inscription culture.</td>
+                        <td>Baoji hotel</td>
                     </tr>
                     <tr>
                         <th>D9</th>
-                        <td>周原景区；周文化博物馆，了解礼乐文明与周文化源流。</td>
-                        <td>宝鸡酒店</td>
+                        <td>Zhouyuan Scenic Area and Zhou Culture Museum, exploring ritual-music civilization and the origins of Zhou culture.</td>
+                        <td>Baoji hotel</td>
                     </tr>
                     <tr>
                         <th>D10</th>
-                        <td>太白山国家森林公园，开展生态、地质与森林研学；返回西安。</td>
-                        <td>西安酒店</td>
+                        <td>Taibai Mountain National Forest Park for ecology, geology, and forest study; return to Xi'an.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D11</th>
-                        <td>汉阳陵博物馆，了解汉景帝与“文景之治”；模拟考古与汉代体育体验。</td>
-                        <td>西安酒店</td>
+                        <td>Hanyangling Museum, learning about Emperor Jing of Han and the Reign of Wen and Jing; simulated archaeology and Han sports experience.</td>
+                        <td>Xi'an hotel</td>
                     </tr>
                     <tr>
                         <th>D12</th>
-                        <td>闭营仪式；英文成果展示；颁发国际研学证书；结束行程。</td>
-                        <td>返程</td>
+                        <td>Closing ceremony; English final presentation; international study-tour certificate; program concludes.</td>
+                        <td>Return trip</td>
                     </tr>
                     </tbody>
                 </table>
@@ -427,43 +427,43 @@
 
     <section class="xian-section" style="background: #fbfaf7;">
         <div class="container">
-            <div class="xian-section-title">每日研学重点</div>
-            <h2>从历史现场到自然课堂</h2>
+            <div class="xian-section-title">Daily Learning Focus</div>
+            <h2>From historical sites to natural classrooms</h2>
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="xian-card xian-day">
-                        <h3>秦俑与大一统</h3>
-                        <p>在兵马俑与铜车马展区中观察秦代制度、工艺与国家治理想象。</p>
+                        <h3>Terracotta Warriors and Unification</h3>
+                        <p>Observe Qin institutions, craftsmanship, and ideas of governance through the Terracotta Warriors and Bronze Chariots.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="xian-card xian-day">
-                        <h3>盛唐与城市记忆</h3>
-                        <p>通过大雁塔、大唐芙蓉园与大唐不夜城，感受长安城的开放气象。</p>
+                        <h3>Tang Chang'an and Urban Memory</h3>
+                        <p>Experience the openness of ancient Chang'an through the Giant Wild Goose Pagoda, Tang Paradise, and Grand Tang Mall.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="xian-card xian-day">
-                        <h3>碑林与书法金石</h3>
-                        <p>走进西安碑林博物馆，学习碑刻、拓片与汉字书法的传承。</p>
+                        <h3>Stone Steles and Calligraphy</h3>
+                        <p>Study inscriptions, rubbings, and the inheritance of Chinese calligraphy at the Forest of Stone Steles Museum.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="xian-card xian-day">
-                        <h3>关中民俗体验</h3>
-                        <p>在袁家村体验关中生活方式与传统工艺，理解地方文化的日常生命力。</p>
+                        <h3>Guanzhong Folk Culture</h3>
+                        <p>Experience local life and traditional crafts in Yuanjia Village, seeing how regional culture lives in daily practice.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="xian-card xian-day">
-                        <h3>秦岭自然教育</h3>
-                        <p>通过秦岭四宝馆、植物园和太白山课程，建立生态观察与保护意识。</p>
+                        <h3>Qinling Nature Education</h3>
+                        <p>Build ecological observation and conservation awareness through the Qinling Four Treasures Museum, botanical garden, and Taibai Mountain.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="xian-card xian-day">
-                        <h3>青铜与礼乐文明</h3>
-                        <p>在宝鸡青铜器博物院与周原景区中理解青铜器、铭文与周礼文化。</p>
+                        <h3>Bronze and Ritual Culture</h3>
+                        <p>Understand bronze vessels, inscriptions, and Zhou ritual culture through Baoji Bronze Ware Museum and Zhouyuan.</p>
                     </div>
                 </div>
             </div>
@@ -472,38 +472,38 @@
 
     <section class="xian-section">
         <div class="container">
-            <div class="xian-section-title">费用说明</div>
-            <h2>费用包含与不含</h2>
+            <div class="xian-section-title">Fee Details</div>
+            <h2>What's included and not included</h2>
             <div class="row">
                 <div class="col-md-6">
                     <div class="xian-card">
-                        <h3>费用已含</h3>
+                        <h3>Included</h3>
                         <ul>
-                            <li>费用为$1680，不含机票和保险。</li>
-                            <li>包含国内所有吃住行、学习参观及带队老师费用。</li>
-                            <li>携程四钻酒店住宿。</li>
-                            <li>行程所列景点首道大门票。</li>
-                            <li>11早21正餐。</li>
-                            <li>正规旅游大巴车，确保一人一座。</li>
-                            <li>英文专职导游及行程服务。</li>
+                            <li>The program fee is $1680, excluding airfare and insurance.</li>
+                            <li>All domestic meals, accommodation, transportation, learning visits, and group leader costs.</li>
+                            <li>Ctrip four-diamond hotel accommodation.</li>
+                            <li>First admission tickets for listed attractions.</li>
+                            <li>11 breakfasts and 21 regular meals.</li>
+                            <li>Licensed tour coach with one seat per participant.</li>
+                            <li>English-speaking professional guide and itinerary services.</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="xian-card">
-                        <h3>费用不含</h3>
+                        <h3>Not Included</h3>
                         <ul>
-                            <li>单男单女产生的单房差。</li>
-                            <li>行程内未约定包含的景区内交通、自费项目及私人消费。</li>
-                            <li>航空保险及个人贵重物品保管责任。</li>
-                            <li>不可抗力或交通延误、取消等导致的额外费用。</li>
-                            <li>中途自愿离团产生的相关费用与责任。</li>
+                            <li>Single-room supplement when room sharing is not available.</li>
+                            <li>Internal attraction transportation, optional activities, and personal expenses not listed as included.</li>
+                            <li>Air travel insurance and responsibility for personal valuables.</li>
+                            <li>Extra costs caused by force majeure, transportation delays, or cancellations.</li>
+                            <li>Costs and responsibilities arising from voluntary early departure from the group.</li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="xian-note">
-                报名费$500，人数10人成团；如不能成团，费用全部退还。请通过 e-transfer 支付至 syrg4cclub@gmail.com。行前建议：安全第一，轻装上阵；准备必要学习装备；研学期间注意文明礼仪、反思记录和健康保障。具体营期请以最终发布通知为准。
+                A $500 deposit is required. The program runs with a minimum of 10 participants; if the group is not formed, all fees will be refunded. Please pay by e-transfer to syrg4cclub@gmail.com. Before departure, students should prioritize safety, pack lightly, prepare necessary learning materials, observe proper etiquette, keep reflection notes, and maintain health awareness. Final dates are subject to the official announcement.
             </div>
         </div>
     </section>
@@ -512,11 +512,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <h2>西安秦岭研学12天</h2>
-                    <p>完整行程来自《北京-西安-宝鸡秦岭生态文化研学之旅12天》PDF方案。费用$1680，不含机票和保险；报名费$500，请 e-transfer 至 syrg4cclub@gmail.com。</p>
+                    <h2>Xi'an Qinling 12-Day Study Tour</h2>
+                    <p>The full itinerary is based on the Beijing-Xi'an-Baoji Qinling 12-day ecological and cultural study tour PDF. Fee: $1680, excluding airfare and insurance. Deposit: $500 by e-transfer to syrg4cclub@gmail.com.</p>
                 </div>
                 <div class="col-md-4 text-md-right">
-                    <a class="xian-btn" href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">打开PDF行程</a>
+                    <a class="xian-btn" href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">Open PDF Itinerary</a>
                 </div>
             </div>
         </div>

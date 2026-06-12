@@ -61,7 +61,7 @@
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026xianQinling.jsp">更多信息</a> 
+					    <a class="btn btn-orange btn-lg" href="2026xianQinling_zh.jsp">更多信息</a> 
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">
@@ -70,7 +70,7 @@
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <a href="2026xianQinling.jsp">
+	                <a href="2026xianQinling_zh.jsp">
 	                    <img style="max-width: 90%" src="2026xianQinling/xian-cover-title.jpg" alt="西安秦岭研学12天" />
 	                </a> 
 	            </div>
@@ -91,7 +91,7 @@
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026yxxSummer.jsp">更多信息</a> 
+					    <a class="btn btn-orange btn-lg" href="2026yxxSummer_zh.jsp">更多信息</a> 
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">

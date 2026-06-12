@@ -1,16 +1,18 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<title>加中文化教育交流中心：2026“行走中国 赓续文脉”国际研学营之京豫线（11天10晚）</title>	
-	<meta name="title" content="加中文化教育交流中心"/>
+	<title>4cClub: 2026 International Study Tour - Beijing-Henan Route (11 Days / 10 Nights)</title>	
+	<meta name="title" content="Canadian-Chinese Cross Culture Club"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
-	<meta property="og:title" content="加中文化教育交流中心：2026“行走中国 赓续文脉”国际研学营之京豫线（11天10晚）">
-	<meta property="og:description" content="2026“行走中国 赓续文脉”国际研学营之京豫线：11天10晚，行程增加两天，价格不变。">
+	<meta property="og:title" content="4cClub: 2026 International Study Tour - Beijing-Henan Route (11 Days / 10 Nights)">
+	<meta property="og:description" content="2026 International Study Tour: Beijing-Henan Route. The program has been expanded to 11 days / 10 nights with no price increase.">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
-	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化。"/>
-	<link rel="canonical" href="https://the4cclub.ca"/>
+	<meta name="description" content="Canadian-Chinese Cross Culture Club promotes Chinese education, cultural exchange, and cross-cultural learning in Canada's multicultural communities."/>
+	<link rel="canonical" href="https://the4cclub.ca/2026yxxSummer.jsp"/>
 	<link rel="shortcut icon" type="image/x-icon" href="/resource/images/favicon.ico">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
 	<meta charset="utf-8"/>
@@ -63,10 +65,10 @@
 					</picture>
 					<div class="carousel-caption" >
                         <div class="carousel-caption-title" style="padding: 5px 10px 10px 10px;">
-                              “行走中国 赓续文脉”国际研学营之京豫线
+                              2026 International Study Tour: Beijing-Henan Route
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                            让世界青少年触摸华夏文明的根与魂；11天10晚文明探脉之旅，行程增加两天，价格不变。
+                            A journey into the roots and spirit of Chinese civilization. Now expanded to 11 days / 10 nights with no price increase.
                         </div>
                     </div>
                 </div>
@@ -76,39 +78,39 @@
     
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">介绍</span></div>
-            <div><h2><b>2026年暑期国际研学营之京豫线火热报名中</b></h2></div>
-            <div class="text-muted" style="font-size: 20px;">让世界青少年触摸华夏文明的根与魂</div>
+            <div><span style="color: #323edb; font-size: 18px;">Introduction</span></div>
+            <div><h2><b>2026 Summer International Study Tour: Beijing-Henan Route</b></h2></div>
+            <div class="text-muted" style="font-size: 20px;">Helping young people around the world experience the roots and spirit of Chinese civilization</div>
             
             <div class="row" style="margin: 20px 0 10px 0;">          
                 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="text-muted" style="font-size: 18px;">
-<b>组织机构：</b><br/><br/>
-中学生学习报社（中国）<br/>
-加中文化教育交流中心（加拿大）
+<b>Organizers:</b><br/><br/>
+Middle School Student Learning Newspaper (China)<br/>
+Canadian-Chinese Cross Culture Club (Canada)
 </div>
 <div class="text-muted" style="font-size: 18px;">
-接待方全球文化教育交流协会与中学生学习报社，将以“匠心”为笔，为你写就一场刻骨铭心的京豫文化之旅！让世界青少年触摸中国京豫的文化温度!
+Hosted with the Global Culture and Education Exchange Association and Middle School Student Learning Newspaper, this program offers an in-depth Beijing-Henan cultural journey for young learners to experience the living warmth of Chinese civilization.
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>参与对象：</b> 全球青少年，12岁-25岁（家长可以陪同）。
+<b>Participants:</b> Youth worldwide, ages 12-25. Parents may accompany participants.
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>时间：</b> 2026年8月9日—19日（11天10晚）
+<b>Dates:</b> August 9-19, 2026 (11 days / 10 nights)
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>路线：</b> 北京—安阳—林州—开封—登封—洛阳—郑州
+<b>Route:</b> Beijing - Anyang - Linzhou - Kaifeng - Dengfeng - Luoyang - Zhengzhou
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>费用:</b> $1600（不含机票和保险）包括国内所有吃住行及学习参观等及带队老师费用。活动升级为11天10晚，价格不做调整。
+<b>Fee:</b> $1600 (excluding airfare and insurance). Includes all meals, accommodation, local transportation, learning visits, and chaperone teacher costs in China. The program has been expanded to 11 days / 10 nights with no price increase.
 </div>
 <div class="text-muted" style="font-size: 18px;">
-报名费500（人数15人成团，不能成团费用全部退还）。请e-transfer： syrg4cclub@gmail.com
+Registration deposit: $500. Minimum group size: 15 participants. If the program cannot form a group, the fee will be fully refunded. Please e-transfer to: syrg4cclub@gmail.com
 <br/><br/>
-报名截止时间：2026年5月31日。
+Registration deadline: May 31, 2026.
 </div>
                     <div style="margin-top:20px;">
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_o39HobI_fCk">报名表</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/fileId_o39HobI_fCk">Registration Form</a> 
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -122,20 +124,20 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">01 一城一文明：纵览京豫，解锁华夏千年底蕴</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">01 One City, One Civilization: Explore Beijing and Henan's Cultural Depth</span></div>
             <div class="text-muted" style="font-size: 20px; margin: 20px 0;">
-                拒绝打卡式观光 | 六大文明城市深度探索 | 国学专家全程解码 | 读懂风景背后的文明故事
+                More than sightseeing | In-depth exploration of six cultural cities | Guided interpretation by Chinese studies experts | Discover the stories behind each landscape
             </div>
             
             <div class="row">
-                <div class="col-md-4"><div class="crm-white-box"><h3>北京</h3><p>登长城触摸华夏脊梁，赏皇城千年风华。沉浸中国学府（北京大学）高地，预见未来留学篇章</p></div></div>
-                <div class="col-md-4"><div class="crm-white-box"><h3>安阳</h3><p>探殷墟解甲骨文密码，亲手制青铜鼎感受殷商厚重</p></div></div>
-                <div class="col-md-4"><div class="crm-white-box"><h3>开封</h3><p>游清明上河园，邂逅《清明上河图》的市井烟火</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>Beijing</h3><p>Climb the Great Wall, experience the grandeur of the imperial city, and visit Peking University to imagine future study pathways.</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>Anyang</h3><p>Explore the Yin Ruins, decode oracle bone inscriptions, and make a bronze ding to feel the depth of Shang civilization.</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>Kaifeng</h3><p>Visit Millennium City Park and encounter the lively world of Along the River During the Qingming Festival.</p></div></div>
             </div>
             <div class="row" style="margin-top: 20px;">
-                <div class="col-md-4"><div class="crm-white-box"><h3>登封</h3><p>访少林悟禅武合一，逛嵩阳书院品理学智慧</p></div></div>
-                <div class="col-md-4"><div class="crm-white-box"><h3>洛阳</h3><p>观龙门石窟叹石刻巅峰，做唐三彩勾勒盛唐气象</p></div></div>
-                <div class="col-md-4"><div class="crm-white-box"><h3>郑州</h3><p>逛河南博物院赏中原瑰宝，探现代企业（河南众擎机器人有限公司、蜜雪冰城总部）见豫韵商潮，作文大赛颁奖典礼</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>Dengfeng</h3><p>Visit Shaolin Temple to experience the unity of Zen and martial arts, and explore Songyang Academy's scholarly tradition.</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>Luoyang</h3><p>Admire the Longmen Grottoes and create Tang tri-color pottery inspired by the splendor of the Tang dynasty.</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>Zhengzhou</h3><p>Visit Henan Museum, explore modern enterprises, and join the writing competition awards ceremony.</p></div></div>
             </div>
             
                         <div class="row" style="margin: 20px 0 10px 0;">              
@@ -149,27 +151,27 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">02 沉浸式探脉：让历史“可触”，让文明“可传”</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">02 Immersive Discovery: Make History Tangible and Culture Shareable</span></div>
             <div class="text-muted" style="font-size: 20px; margin: 20px 0;">
-                不做文化旁观者，争当文明参与者 | 让华夏文明在动手实践中鲜活起来
+                Move beyond observation and become a participant in civilization through hands-on cultural practice.
             </div>
             <div class="row">
                 <div class="col-md-4">
                     <div class="crm-white-box">
-                        <h3>🔨 安阳青铜工坊</h3>
-                        <p>亲手制鼎，感受青铜文明的厚重</p>
+                        <h3>🔨 Anyang Bronze Workshop</h3>
+                        <p>Create a bronze ding and experience the weight of bronze civilization.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="crm-white-box">
-                        <h3>🎨 洛阳唐三彩体验</h3>
-                        <p>勾勒盛唐色彩，带走专属艺术珍品</p>
+                        <h3>🎨 Luoyang Tang Tri-Color Pottery</h3>
+                        <p>Explore Tang colors and bring home a unique handmade artwork.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="crm-white-box">
-                        <h3>🥋 少林功夫研学</h3>
-                        <p>学五步拳，悟坚持专注的品格传承</p>
+                        <h3>🥋 Shaolin Kung Fu Study</h3>
+                        <p>Learn basic Shaolin forms and experience discipline, focus, and perseverance.</p>
                     </div>
                 </div>
             </div>
@@ -205,24 +207,24 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">03 行走的历史：博物馆里的对话，串联文明脉络</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">03 History in Motion: Museum Dialogues Across Civilizations</span></div>
             <div class="row" style="margin-top: 20px;">
                 <div class="col-md-4">
                     <div class="crm-white-box">
-                        <h3>🗺️ 北京·长城</h3>
-                        <p>读懂长城，不止见城砖斑驳、关隘雄伟，更见融入砖石血脉、支撑民族前行的华夏脊梁</p>
+                        <h3>🗺️ Beijing - Great Wall</h3>
+                        <p>Understand the Great Wall not only as stone and gates, but as a symbol of endurance woven into Chinese civilization.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="crm-white-box">
-                        <h3>📜 安阳·中国文字博物馆</h3>
-                        <p>从甲骨文到简体字，看汉字形与意的千年演变，解码东方古国的文字密码</p>
+                        <h3>📜 Anyang - National Museum of Chinese Writing</h3>
+                        <p>Trace the evolution of Chinese characters from oracle bone inscriptions to modern script.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="crm-white-box">
-                        <h3>🏺 郑州·河南省博物院</h3>
-                        <p>触摸历史温度，聆听文物故事，一览中原大地千年文明，感受中华文化的厚重与璀璨</p>
+                        <h3>🏺 Zhengzhou - Henan Museum</h3>
+                        <p>Encounter cultural treasures and stories from the Central Plains, one of the roots of Chinese civilization.</p>
                     </div>
                 </div>
             </div>
@@ -249,11 +251,11 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">04 中外手拉手：跨文化碰撞，共话华夏文明</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">04 Cross-Cultural Connection: Sharing Chinese Civilization Together</span></div>
             <div class="row" style="margin-top: 20px;">
-                <div class="col-md-4"><div class="crm-white-box"><h3>🔍 文明协作任务</h3><p>解锁甲骨文密码，共绘中外文明长卷</p></div></div>
-                <div class="col-md-4"><div class="crm-white-box"><h3>🗣️ 双语故事汇</h3><p>中文讲少林传说，母语叙家乡风物</p></div></div>
-                <div class="col-md-4"><div class="crm-white-box"><h3>🥊 功夫友谊赛</h3><p>同练少林招式，以武架起友谊之桥</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>🔍 Civilization Collaboration</h3><p>Decode oracle bone inscriptions and create a shared cultural scroll.</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>🗣️ Bilingual Story Sharing</h3><p>Tell Shaolin legends in Chinese and hometown stories in your own language.</p></div></div>
+                <div class="col-md-4"><div class="crm-white-box"><h3>🥊 Kung Fu Friendship Activity</h3><p>Practice Shaolin movements together and build friendship through martial arts.</p></div></div>
             </div>
             
             <div class="row" style="margin: 20px 0 10px 0;">              
@@ -267,13 +269,13 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">05 成长深烙印：一次深度研学，点亮文明视野</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">05 Lasting Growth: A Deep Study Tour That Broadens Cultural Vision</span></div>
             <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
-                <p><b>🌟 懂“多元华夏”：</b>不只是知道“中国有长城”，更能理清“从殷商甲骨文→唐三彩”的文明脉络。</p>
-                <p><b>🌟 练“实践能力”：</b>会做青铜鼎、唐三彩，背后是“坚持、专注、创新”的品格。</p>
-                <p><b>🌟 建“文化自信”：</b>向伙伴讲解中国故事的底气，是未来国际交往的核心能力。</p>
+                <p><b>🌟 Understand a diverse Chinese civilization:</b> Go beyond knowing that China has the Great Wall and connect cultural threads from Shang oracle bones to Tang tri-color pottery.</p>
+                <p><b>🌟 Build practical abilities:</b> Bronze ding and Tang pottery workshops cultivate persistence, focus, and creativity.</p>
+                <p><b>🌟 Develop cultural confidence:</b> Learning to explain Chinese stories to peers builds a foundation for future international communication.</p>
                 <blockquote style="margin-top: 20px;">
-                    “孩子回来后，主动找《史记》读，还会给家人讲华夏文明的故事 —— 这种‘主动探索文明’的热情，真是非常可贵。” —— 往期家长
+                    "After returning, my child started reading Records of the Grand Historian and shared stories of Chinese civilization with our family. That curiosity to explore culture is precious." - Parent from a previous program
                 </blockquote>
             </div>
         </div>
@@ -282,17 +284,17 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">06 研学VS旅行：五大明显差异</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">06 Study Tour vs. Ordinary Travel: Five Key Differences</span></div>
             <table class="comparison" style="margin-top: 20px;">
                 <thead>
-                    <tr><th>维度</th><th>普通旅行团</th><th>本研学营</th></tr>
+                    <tr><th>Dimension</th><th>Ordinary Tour</th><th>This Study Tour</th></tr>
                 </thead>
                 <tbody>
-                    <tr><th>核心目标</th><td>观光打卡，追求“景点数量”</td><td>文化浸润，追求“深度体验”</td></tr>
-                    <tr><th>专业支持</th><td>导游讲解基本信息</td><td>专业导游+国学专家+非遗传承人+报社老师</td></tr>
-                    <tr><th>参与方式</th><td>被动听讲解、无互动</td><td>任务驱动（闯关卡），主动探索</td></tr>
-                    <tr><th>成果收获</th><td>照片、纪念品</td><td>研学专刊+非遗手作+认证证书</td></tr>
-                    <tr><th>成长价值</th><td>短期放松</td><td>长期文化视野+跨文化交流能力</td></tr>
+                    <tr><th>Core Goal</th><td>Sightseeing and checking off attractions</td><td>Cultural immersion and deeper learning</td></tr>
+                    <tr><th>Expert Support</th><td>Basic guide commentary</td><td>Professional guides, Chinese studies experts, heritage practitioners, and education mentors</td></tr>
+                    <tr><th>Participation</th><td>Passive listening with limited interaction</td><td>Mission-based exploration and active learning</td></tr>
+                    <tr><th>Outcomes</th><td>Photos and souvenirs</td><td>Study journal, heritage crafts, and completion certificate</td></tr>
+                    <tr><th>Growth Value</th><td>Short-term relaxation</td><td>Long-term cultural vision and cross-cultural communication skills</td></tr>
                 </tbody>
             </table>
             
@@ -310,18 +312,18 @@
 
     <section class="page-section">   
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">07 行程速览</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">07 Itinerary Overview</span></div>
             <div class="text-muted" style="font-size: 18px; margin: 16px 0;">
-                新版行程为11天10晚，增加林州太行大峡谷、红旗渠等内容，价格保持 $1600 不变。
+                The updated itinerary is 11 days / 10 nights and adds Linzhou, Taihang Grand Canyon, Red Flag Canal, and more. The fee remains $1600.
             </div>
-            <div style="margin: 20px 0;"><img src="2026yxx/schedule-11days.jpg" style="width:100%; max-width: 900px;" alt="11天10晚行程速览"></div>
+            <div style="margin: 20px 0;"><img src="2026yxx/schedule-11days.jpg" style="width:100%; max-width: 900px;" alt="11-day, 10-night itinerary overview"></div>
             
-            <div style="margin-top: 30px;"><span style="color: #323edb; font-size: 18px;">08 匠心护行程：专业保障，安心探索文明</span></div>
+            <div style="margin-top: 30px;"><span style="color: #323edb; font-size: 18px;">08 Professional Support: Explore Civilization with Confidence</span></div>
             <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
-                <p>✅ <b>安全保障：</b>24小时专业人员陪同，高额意外险，交通提前核线，住携程4钻酒店</p>
-                <p>✅ <b>家长沟通：</b>每日群共享推送“孩子动态”（照片+短视频），实时可见成长</p>
-                <p>✅ <b>专属福利：</b>获“京豫线研学结业证书”；优秀研学报告优先刊登协会合作刊物；赠“华夏文明大礼包”</p>
-                <p>✅ <b>行程衔接：</b>11天行程紧凑不赶场，完美衔接假期，不耽误学业；行前发“研学手册”，行后赠“研学专刊”。</p>
+                <p>✅ <b>Safety support:</b> 24-hour professional accompaniment, accident insurance, pre-checked transportation routes, and Ctrip 4-diamond hotels.</p>
+                <p>✅ <b>Parent updates:</b> Daily group updates with photos and short videos so families can follow each student's growth.</p>
+                <p>✅ <b>Program benefits:</b> Beijing-Henan Route completion certificate; outstanding study reports may be prioritized for partner publications; participants receive a Chinese civilization gift package.</p>
+                <p>✅ <b>Well-paced itinerary:</b> The 11-day program is rich but not rushed, connects smoothly with summer break, and includes a pre-trip study handbook and post-trip study journal.</p>
             </div>
         </div>
         <hr>
@@ -329,15 +331,15 @@
 
     <section class="page-section">
         <div class="container">
-            <div><span style="color: #323edb; font-size: 18px;">关于我们</span></div>
+            <div><span style="color: #323edb; font-size: 18px;">Contact and Program Summary</span></div>
             <div class="text-muted" style="font-size: 20px; margin-top: 10px;">
-                营期: 2026年8月9日—19日（11天10晚）<br/>
-                路线: 北京—安阳—林州—开封—登封—洛阳—郑州<br/>
-                报名链接: https://the4cclub.ca/the4club/2026yxxSummer.jsp <br/>
-                电话咨询: 613-866-1341 王老师
+                Dates: August 9-19, 2026 (11 days / 10 nights)<br/>
+                Route: Beijing - Anyang - Linzhou - Kaifeng - Dengfeng - Luoyang - Zhengzhou<br/>
+                Registration page: https://the4cclub.ca/the4club/2026yxxSummer.jsp <br/>
+                Phone: 613-866-1341, Teacher Wang
             </div>
             <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
-                【重要提醒】精彩不止一站！更多选择等您开启。另有“京豫陕线”、“闽粤线”、“西安线”等精品研学路线也可供选择。如您（或贵校/机构）有意组团参与，欢迎随时来电或来函详询。
+                Important note: More study routes are also available, including Beijing-Henan-Shaanxi, Fujian-Guangdong, Xi'an, and other custom routes. Schools, organizations, and groups are welcome to contact us for details.
             </div>
         </div>
     </section>
@@ -345,4 +347,4 @@
     <%@ include file="/pages/common/en/footer.jsp" %>
 </div>
 </body>
-</html>```
+</html>

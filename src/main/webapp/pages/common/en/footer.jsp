@@ -35,6 +35,16 @@
         zhPage = "activities_zh.jsp";
     } else if ("spotlight-insight.jsp".equals(currentPage)) {
         zhPage = "spotlight-insight_zh.jsp";
+    } else if ("2026Mother.jsp".equals(currentPage)) {
+        zhPage = "2026Mother_zh.jsp";
+    } else if ("2026artAnnualExhibition.jsp".equals(currentPage)) {
+        zhPage = "2026artAnnualExhibition_zh.jsp";
+    } else if ("2026-paintingByYoung.jsp".equals(currentPage)) {
+        zhPage = "2026-paintingByYoung_zh.jsp";
+    } else if ("2026yxxSummer.jsp".equals(currentPage)) {
+        zhPage = "2026yxxSummer_zh.jsp";
+    } else if ("2026xianQinling.jsp".equals(currentPage)) {
+        zhPage = "2026xianQinling_zh.jsp";
     }
 %>
 <a href="<%=request.getContextPath()%>/<%=zhPage%>" class="lang-switch-float">中文</a>

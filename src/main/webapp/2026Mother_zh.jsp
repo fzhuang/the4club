@@ -50,7 +50,7 @@
 	
 	<script src="resource/js/jquery.min.js"></script>
 	<script src="resource/bootstrap/js/bootstrap.min.js"></script>
-	<script src="resource/js/cubedrive.js?v=1.15"></script>	
+	<script src="resource/js/cubedrive.js?v=1.16"></script>	
 	<script src="resource/js/QR/qrcode.js"></script>
     
     <style>
@@ -140,7 +140,7 @@
 <body>
 <div class="main">
 
-    <%@ include file="/pages/common/en/menu.jsp" %>
+    <%@ include file="/pages/common/en/menu_zh.jsp" %>
 
     <section>
         <div id="carousel-home" class="carousel slide" data-ride="carousel">
@@ -366,7 +366,7 @@
         </div>
     </section>
 
-    <%@ include file="/pages/common/en/footer.jsp" %>
+    <%@ include file="/pages/common/en/footer_zh.jsp" %>
 
 </div>
 </body>

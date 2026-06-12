@@ -157,9 +157,9 @@
 
             <h2 class="activities-section-title">2026年活动</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2026yxxSummer.jsp"><i class="far fa-calendar-check"></i><span>“行走中国 赓续文脉”国际研学营之京豫线<span class="activities-tag">研学营</span></span></a></li>
-                <li class="activities-item"><a href="2026xianQinling.jsp"><i class="far fa-calendar-check"></i><span>西安秦岭研学12天<span class="activities-tag">研学营</span></span></a></li>
-                <li class="activities-item"><a href="2026artAnnualExhibition.jsp"><i class="far fa-calendar-check"></i><span>2026年加拿大加华艺术协会年展<span class="activities-tag">艺术展览</span></span></a></li>
+                <li class="activities-item"><a href="2026yxxSummer_zh.jsp"><i class="far fa-calendar-check"></i><span>“行走中国 赓续文脉”国际研学营之京豫线<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2026xianQinling_zh.jsp"><i class="far fa-calendar-check"></i><span>西安秦岭研学12天<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2026artAnnualExhibition_zh.jsp"><i class="far fa-calendar-check"></i><span>2026年加拿大加华艺术协会年展<span class="activities-tag">艺术展览</span></span></a></li>
                 <li class="activities-item"><a href="2026Mother_zh.jsp"><i class="far fa-calendar-check"></i><span>《生而为人，妈妈的故事》母亲节征文<span class="activities-tag">社区活动</span></span></a></li>
                 <li class="activities-item"><a href="2026MotherActivities_zh.jsp"><i class="far fa-calendar-check"></i><span>5月9日母亲节活动｜领取马年纪念币<span class="activities-tag">社区活动</span></span></a></li>
                 <li class="activities-item"><a href="2026-paintingByYoung_zh.jsp"><i class="far fa-calendar-check"></i><span>2026年第三届渥太华青少年生肖绘画比赛（马年）<span class="activities-tag">比赛</span></span></a></li>
