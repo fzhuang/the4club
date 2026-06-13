@@ -47,6 +47,8 @@
         zhPage = "2026yxxSummer_zh.jsp";
     } else if ("2026xianQinling.jsp".equals(currentPage)) {
         zhPage = "2026xianQinling_zh.jsp";
+    } else if ("2025YouthFestival.jsp".equals(currentPage)) {
+        zhPage = "2025YouthFestival_zh.jsp";
     } else if ("joinUs.jsp".equals(currentPage)) {
         zhPage = "joinUs_zh.jsp";
     }

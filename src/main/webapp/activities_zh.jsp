@@ -164,7 +164,7 @@
                 <li class="activities-item"><a href="2026MotherActivities_zh.jsp"><i class="far fa-calendar-check"></i><span>5月9日母亲节活动｜领取马年纪念币<span class="activities-tag">社区活动</span></span></a></li>
                 <li class="activities-item"><a href="2026-paintingByYoung_zh.jsp"><i class="far fa-calendar-check"></i><span>2026年第三届渥太华青少年生肖绘画比赛（马年）<span class="activities-tag">比赛</span></span></a></li>
                 <li class="activities-item"><a href="2026chengdu.jsp"><i class="far fa-calendar-check"></i><span>2026年春假成都和重庆文化之旅<span class="activities-tag">研学营</span></span></a></li>
-                <li class="activities-item"><a href="2025YouthFestival.jsp"><i class="far fa-calendar-check"></i><span>2025-2026 第二届渥太华青少年中华文化艺术节<span class="activities-tag">青少年文化节</span></span></a></li>
+                <li class="activities-item"><a href="2025YouthFestival_zh.jsp"><i class="far fa-calendar-check"></i><span>2025-2026 第二届渥太华青少年中华文化艺术节<span class="activities-tag">青少年文化节</span></span></a></li>
             </ul>
 
             <h2 class="activities-section-title">2025年活动</h2>

@@ -48,7 +48,7 @@
 									<a href="2026chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026年春假成都和重庆文化之旅</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025YouthFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025–2026 The 2nd Ottawa Youth Chinese Cultural Festival</a>
+									<a href="2025YouthFestival_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025-2026 第二届渥太华青少年中华文化艺术节</a>
 								</li>
 								
 						    
