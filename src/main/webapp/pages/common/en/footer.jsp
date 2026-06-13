@@ -45,6 +45,8 @@
         zhPage = "2026yxxSummer_zh.jsp";
     } else if ("2026xianQinling.jsp".equals(currentPage)) {
         zhPage = "2026xianQinling_zh.jsp";
+    } else if ("joinUs.jsp".equals(currentPage)) {
+        zhPage = "joinUs_zh.jsp";
     }
 %>
 <a href="<%=request.getContextPath()%>/<%=zhPage%>" class="lang-switch-float">中文</a>

@@ -45,6 +45,8 @@
         enPage = "2026yxxSummer.jsp";
     } else if ("2026xianQinling_zh.jsp".equals(currentPage)) {
         enPage = "2026xianQinling.jsp";
+    } else if ("joinUs_zh.jsp".equals(currentPage)) {
+        enPage = "joinUs.jsp";
     }
 %>
 <a href="<%=request.getContextPath()%>/<%=enPage%>" class="lang-switch-float">EN</a>
@@ -77,7 +79,7 @@
                 <ul class="footer-menu footer-menu-has-style">
                     <li><a href="/index_zh.jsp">主页</a></li>
                     <li><a href="https://the4cclub.ca/showRoom-artisthome.jsp">艺术家之家</a></li>              
-                    <li><a href="https://the4cclub.ca/the4club/joinUs.jsp">加入我们</a></li>
+                    <li><a href="https://the4cclub.ca/the4club/joinUs_zh.jsp">加入我们</a></li>
                     <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club">登录</a></li>
                 </ul>
             </div>

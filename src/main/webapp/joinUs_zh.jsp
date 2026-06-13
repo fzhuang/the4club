@@ -1,22 +1,22 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
-	<title>4cClub: Join Us</title>	
-	<meta name="title" content="Canadian-Chinese Cross Culture Club"/>
+	<title>加中文化教育交流中心：加入我们</title>	
+	<meta name="title" content="加中文化教育交流中心"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
-	<meta property="og:title" content="4cClub: Join Us">
-	<meta property="og:description" content="Join the Canadian-Chinese Cross Culture Club and support Chinese education, cultural arts exchange, and community engagement.">
+	<meta property="og:title" content="加中文化教育交流中心：加入我们">
+	<meta property="og:description" content="加入加中文化教育交流中心，一起支持海外中文教育、文化艺术交流和社区文化建设。">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
-	<meta name="description" content="The Canadian-Chinese Cross Culture Club promotes Chinese education overseas, cultural arts exchange, and meaningful dialogue across Canada's multicultural communities."/>
-	<link rel="canonical" href="https://the4cclub.ca/joinUs.jsp"/>
+	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
+	<link rel="canonical" href="https://the4cclub.ca/joinUs_zh.jsp"/>
 	<link rel="shortcut icon" type="image/x-icon" href="/resource/images/favicon.ico">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
 	<meta charset="utf-8"/>
-	<meta name="title" content="Canadian-Chinese Cross Culture Club"/>
-	<meta name="description" content="The Canadian-Chinese Cross Culture Club promotes Chinese education overseas, cultural arts exchange, and meaningful dialogue across Canada's multicultural communities."/>
+	<meta name="title" content="加中文化教育交流中心"/>
+	<meta name="description" content="加中文化教育交流中心（SYRG CANADIAN-CHINESE CROSS CULTURE CLUB）的创立旨在促进海外中文教育的发展和推动中国文化能够融入加拿大的多元文化，同时为加中文化教育交流以及加中民间文化艺术做些有益的工作，起到不同文化和艺术之间互相交流互通的桥梁和纽带作用。"/>
 	<meta property="og:site_name" content="CubeDrive"/>
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="article"/>
@@ -31,7 +31,7 @@
 	<meta property="og:image:secure_url" content="https://the4cclub.ca/resource/images/background/main.jpg"/>
 	<meta property="og:image:width" content="1600"/>
 	<meta property="og:image:height" content="500"/>
-	<meta property="og:image:alt" content="Canadian-Chinese Cross Culture Club"/>
+	<meta property="og:image:alt" content="加中文化教育交流中心"/>
 	
 	<meta name="robots" content="all"/>
 	<meta name="author" content="CubeDrive"/>
@@ -60,7 +60,7 @@
 <body>
 <div class="main"><!--main-->
 
-    <%@ include file="/pages/common/en/menu.jsp" %>
+    <%@ include file="/pages/common/en/menu_zh.jsp" %>
     
     <section>
         <div id="carousel-home" class="carousel slide" data-ride="carousel">
@@ -70,10 +70,10 @@
                     
                     <div class="carousel-caption" style="flex: 1;">
                         <div class="carousel-caption-toptitle">
-                                 Canadian-Chinese Cross Culture Club
+                                 加中文化教育交流中心
                         </div>
                         <div class="carousel-caption-title">
-                           Join Us
+                           加入我们
                         </div>
                         <div class="carousel-caption-subtitle">
 The 4cClub warmly welcomes talented and passionate individuals to join us in contributing to Chinese language, cultural, and artistic exchange, while embracing and celebrating Canada's rich multicultural landscape.
@@ -88,24 +88,25 @@ The 4cClub warmly welcomes talented and passionate individuals to join us in con
     <section class="page-section" style="margin-top: 20px;">   
         <div class="container">
             <div class="section-title">
-			   Join us
+			   加入我们
 			  <span class="icon-red"></span>
 			  <div class="section-line"></div>
 			</div>
         
-            <h2><b>Membership Bylaws</b></h2>
+            <h2><b>会员章程</b></h2>
             <div class="row" style="margin: 20px 0 10px 0;">              
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     
                     <div class="text-muted">
-Canadian-Chinese Cross Culture Club Membership Bylaws:
+加中文化教育交流中心会员章程：
 <br/><br/>
-1. The Canadian-Chinese Cross Culture Club (4cClub) is a federally registered non-profit organization in Canada.<br/>
-2. Purpose and mission: 4cClub is dedicated to promoting mutual understanding, respect, and exchange between Chinese and Canadian cultures. We create an inclusive space where people from diverse backgrounds and interests can explore and celebrate cultural traditions together. Through cultural programs and community outreach, we help bridge cultural differences and enrich Canada's multicultural fabric.<br/>
-3. The affairs of 4cClub are governed by the Board of Directors. The board consists of five directors.<br/>
-4. Directors must comply with applicable Canadian laws and regulations.<br/>
-5. Directors serve a five-year term. The chair is elected.<br/>
-6. New directors require unanimous approval by the Board of Directors.                 
+1，加中文化教育交流中心（简称4CClub）是一个在加拿大联邦政府注册的非营利机构。<br/>
+2，宗旨和目的：
+致力于促进中加文化之间的相互理解、尊重和交流。我们的使命是创造一个包容的空间和平台，让来自不同背景拥有不同兴趣爱好的人们能够共同探索和庆祝我们的的文化传统，通过文化活动和社区外展，致力于弥合文化差异，促进和丰富我们社会的多元文化结构。<br/>
+3，4CClub的管理由董事会负责。董事会由五位董事组成。<br/>
+4，董事需遵守加拿大相关法律规定。<br/>
+5，董事会5年一届。主席由选举产生。<br/>
+6，新董事需要董事会全票通过。                 
                     </div>
                 </div>
 
@@ -120,52 +121,52 @@ Canadian-Chinese Cross Culture Club Membership Bylaws:
         <div class="container">
         
             <div class="section-title">
-			   Our Board
+			   理事会
 			  <span class="icon-red"></span>
 			  <div class="section-line"></div>
 			</div>
         
-            <h2><b>Board of Directors</b></h2>
+            <h2><b>理事会成员</b></h2>
             <div class="text-muted" style="font-size: 20px;">
-                The affairs of the 4cClub are governed by Board of Directors. Board members are elected during the Annual General Meeting or a special meeting of members, for a five year term. Board members may stand for re-election upon completion of their term of service.
+                4cClub 的事务由理事会负责管理。理事会成员在年度会员大会或特别会员会议中选出，每届任期五年，任期届满后可继续参选连任。
             </div>
             <div class="row" style="margin: 20px 0 10px 0;">   
                  
                  <div class="col-md-6 col-sm-6 col-xs-12">
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 
 		                <img src="resource/images/members/guo.png" style="border-radius:5%; height:20rem;"></img>
-		                <h3>Jianping Guo</h3>
-		                Board of Directors<br/><br/>
+		                <h3>郭建平</h3>
+		                理事会成员<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 	                
 	                    <img src="resource/images/members/wang.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>Xiang Wang</h3>
-		                Board of Directors<br/><br/>
+		                <h3>王翔</h3>
+		                理事会成员<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12">  
 	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>
-		                <h3>Lingxi</h3>
-		                Board of Directors<br/><br/>
+		                <h3>灵兮</h3>
+		                理事会成员<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
 	                    <img src="resource/images/members/wu.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>Di Wu</h3>
-		                Board of Directors<br/><br/>
+		                <h3>吴迪</h3>
+		                理事会成员<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
 	                    <img src="resource/images/members/selina.jpeg" style="border-radius:5%; height:20rem;"></img>
 		                <h3>Selina Wang</h3>
-		                Board of Directors<br/><br/>
+		                理事会成员<br/><br/>
 		             </div>
 	                 <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
 	                    <img src="resource/images/members/qu.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>Yongzhong Qu</h3>
-		               Board of Directors, Art Director<br/><br/>
+		                <h3>曲永仲</h3>
+		               理事会成员、艺术总监<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 	               	                	                
 	                    <img src="resource/images/members/ma.jpg" style="border-radius:5%; height:20rem;"></img>
-		                <h3>Wanling Ma</h3>
-		                Board of Directors<br/><br/>
+		                <h3>马婉玲</h3>
+		                理事会成员<br/><br/>
 		             </div>
 	            </div>                     
                 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -182,12 +183,12 @@ Canadian-Chinese Cross Culture Club Membership Bylaws:
                 <div class="donationBg">
                     <div class="carousel-caption">
                         <div class="carousel-caption-title">
-                            Join Us - Become a Member
+                            加入我们-成为会员
                         </div>
                         <div class="carousel-caption-subtitle">
-4cClub welcomes talented and passionate people to join us in supporting overseas Chinese education and cultural arts exchange.
+加中文化教育交流中心欢迎有才华有热情的你和我们一起为海外中文教育和文化艺术交流贡献我们的力量。
                         </div>
-                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">Membership Application</a> 
+                        <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7271893761238503424">会员申请表</a> 
                     </div>
                 </div>
             </div>
@@ -196,7 +197,7 @@ Canadian-Chinese Cross Culture Club Membership Bylaws:
       
     <br/><br/><br/> 
    
-    <%@ include file="/pages/common/en/footer.jsp" %>
+    <%@ include file="/pages/common/en/footer_zh.jsp" %>
 
 </div><!--main-->
 
