@@ -37,6 +37,8 @@
         enPage = "spotlight-insight.jsp";
     } else if ("2026Mother_zh.jsp".equals(currentPage)) {
         enPage = "2026Mother.jsp";
+    } else if ("2026MotherActivities_zh.jsp".equals(currentPage)) {
+        enPage = "2026MotherActivities.jsp";
     } else if ("2026artAnnualExhibition_zh.jsp".equals(currentPage)) {
         enPage = "2026artAnnualExhibition.jsp";
     } else if ("2026-paintingByYoung_zh.jsp".equals(currentPage)) {

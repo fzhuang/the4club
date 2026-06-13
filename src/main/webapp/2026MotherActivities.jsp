@@ -1,22 +1,22 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <title>加中文化教育交流中心：5月9日母亲节活动｜诚邀生肖绘画比赛选手领取马年纪念币</title>
+    <title>4cClub: May 9 Mother's Day Event</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    <meta name="title" content="5月9日母亲节活动｜诚邀生肖绘画比赛选手领取马年纪念币"/>
-    <meta name="description" content="母亲节艺术展暨诗歌朗诵会，汉服合影、艺术展览、诗歌朗诵，并现场颁发马年纪念币。"/>
-    <meta property="og:title" content="加中文化教育交流中心：5月9日母亲节活动｜诚邀生肖绘画比赛选手领取马年纪念币"/>
-    <meta property="og:description" content="母亲节艺术展暨诗歌朗诵会，汉服合影、艺术展览、诗歌朗诵，并现场颁发马年纪念币。"/>
+    <meta name="title" content="May 9 Mother's Day Event"/>
+    <meta name="description" content="Mother's Day art exhibition and poetry recital, featuring Hanfu photos, art displays, poetry readings, and on-site Year of the Horse commemorative coin pickup."/>
+    <meta property="og:title" content="4cClub: May 9 Mother's Day Event"/>
+    <meta property="og:description" content="Mother's Day art exhibition and poetry recital, featuring Hanfu photos, art displays, poetry readings, and on-site Year of the Horse commemorative coin pickup."/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/2026motherActivities/mother-day-art-zh.png"/>
     <meta property="og:type" content="article"/>
     <meta name="robots" content="all"/>
     <meta name="author" content="4cClub"/>
 
-    <link rel="canonical" href="https://the4cclub.ca/2026MotherActivities_zh.jsp"/>
+    <link rel="canonical" href="https://the4cclub.ca/2026MotherActivities.jsp"/>
     <link rel="shortcut icon" type="image/x-icon" href="resource/images/favicon.ico">
     <link href="resource/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="resource/fontawesome-free-5.15.4-web/css/all.css">
@@ -113,7 +113,7 @@
 <body>
 <div class="main">
 
-    <%@ include file="/pages/common/en/menu_zh.jsp" %>
+    <%@ include file="/pages/common/en/menu.jsp" %>
 
     <section>
         <div id="carousel-home" class="carousel slide" data-ride="carousel">
@@ -121,13 +121,13 @@
                 <div class="item active mother-event-hero">
                     <div class="carousel-caption" style="flex: 1;">
                         <div class="carousel-caption-toptitle">
-                            加中文化教育交流中心
+                            Canadian-Chinese Cross Culture Club
                         </div>
                         <div class="carousel-caption-title">
-                            5月9日母亲节活动
+                            May 9 Mother's Day Event
                         </div>
                         <div class="carousel-caption-subtitle">
-                            诚邀生肖绘画比赛选手领取马年纪念币
+                            Mother's Day art exhibition and poetry recital. Zodiac painting competition participants are invited to pick up Year of the Horse commemorative coins on site.
                         </div>
                     </div>
                 </div>
@@ -140,9 +140,9 @@
             <div class="alert alert-danger text-center mother-event-alert">
                 <p style="font-size: 18px; margin: 0;">
                     <i class="fa fa-calendar-check" aria-hidden="true"></i>
-                    活动时间：2026年5月9日（周六）下午 1:00 - 3:00
+                    Time: Saturday, May 9, 2026, 1:00 PM - 3:00 PM
                     <span style="display: inline-block; margin: 0 10px;">|</span>
-                    地点：710 Broadview Ave.
+                    Location: 710 Broadview Ave.
                 </p>
             </div>
         </div>
@@ -151,7 +151,7 @@
     <section class="page-section" style="margin-top: 10px;">
         <div class="container">
             <div class="section-title">
-                母亲节艺术展暨诗歌朗诵会
+                Mother's Day Art Exhibition and Poetry Recital
                 <span class="icon-red"></span>
                 <div class="section-line"></div>
             </div>
@@ -159,28 +159,28 @@
             <div class="row" style="margin: 20px 0 10px 0;">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div style="font-size: 18px; line-height: 1.8; color: #444;">
-                        <p>亲爱的家长、同学们：春暖花开，母亲节将至。我们诚邀参加生肖绘画比赛的同学共庆母亲节，并于活动当天亲临现场领取马年纪念币。</p>
+                        <p>Dear parents and students: as spring blossoms and Mother's Day approaches, we warmly invite students who participated in the Chinese Zodiac Painting Competition to celebrate Mother's Day with us and pick up their Year of the Horse commemorative coins on site.</p>
 
                         <div class="mother-info-card">
                             <div class="mother-fact">
                                 <i class="fa fa-map-marker-alt"></i>
-                                <div><b>活动地点：</b>710 Broadview Ave.</div>
+                                <div><b>Location:</b> 710 Broadview Ave.</div>
                             </div>
                             <div class="mother-fact">
                                 <i class="fa fa-clock"></i>
-                                <div><b>活动时间：</b>2026年5月9日（周六）下午 1:00 - 3:00</div>
+                                <div><b>Time:</b> Saturday, May 9, 2026, 1:00 PM - 3:00 PM</div>
                             </div>
                             <div class="mother-fact">
                                 <i class="fa fa-gift"></i>
-                                <div><b>温馨提醒：</b>马年生肖绘画比赛奖品马年纪念币，将在本次母亲节活动现场温馨发放。</div>
+                                <div><b>Friendly reminder:</b> Year of the Horse commemorative coins for the zodiac painting competition will be distributed on site during this Mother's Day event.</div>
                             </div>
                         </div>
 
-                        <p class="mother-highlight">欢迎同学与家长一同参与，共度温馨时光。</p>
+                        <p class="mother-highlight">Students and parents are warmly welcome to join us for this meaningful afternoon.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img class="mother-poster" src="2026motherActivities/mother-day-art-zh.png" alt="母亲节艺术展暨诗歌朗诵会海报"/>
+                    <img class="mother-poster" src="2026motherActivities/mother-day-art-zh.png" alt="Mother's Day art exhibition and poetry recital poster"/>
                 </div>
             </div>
         </div>
@@ -189,7 +189,7 @@
     <section class="page-section" style="background-color: #fdfdfd;">
         <div class="container">
             <div class="section-title">
-                活动亮点
+                Event Highlights
                 <span class="icon-red"></span>
                 <div class="section-line"></div>
             </div>
@@ -198,22 +198,22 @@
                 <div class="col-md-4">
                     <div class="text-center mother-feature">
                         <i class="fa fa-spa fa-3x"></i>
-                        <h3>汉服合影</h3>
-                        <p>以汉服春影留下母亲节合影，记录与家人同在的温馨时刻。</p>
+                        <h3>Hanfu Photos</h3>
+                        <p>Capture Mother's Day memories in Hanfu and record warm moments with family.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="text-center mother-feature">
                         <i class="fa fa-palette fa-3x"></i>
-                        <h3>艺术展览</h3>
-                        <p>书法、绘画与摄影共同呈现，用艺术之名感恩母爱。</p>
+                        <h3>Art Exhibition</h3>
+                        <p>Calligraphy, painting, and photography come together to express gratitude for a mother's love.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="text-center mother-feature">
                         <i class="fa fa-microphone-alt fa-3x"></i>
-                        <h3>诗歌朗诵</h3>
-                        <p>五月的郁金香在春风中绽放，献给最美丽的母亲。</p>
+                        <h3>Poetry Recital</h3>
+                        <p>May tulips bloom in the spring breeze, dedicated to the most beautiful mothers.</p>
                     </div>
                 </div>
             </div>
@@ -223,42 +223,42 @@
     <section class="page-section">
         <div class="container">
             <div class="section-title">
-                零基础中国书法 · 水彩绘画大师班
+                Beginner Chinese Calligraphy and Watercolor Master Class
                 <span class="icon-red"></span>
                 <div class="section-line"></div>
             </div>
 
             <div class="row" style="margin: 20px 0 10px 0;">
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img class="mother-poster" src="2026motherActivities/master-class-zh.jpg" alt="零基础中国书法水彩绘画大师班海报"/>
+                    <img class="mother-poster" src="2026motherActivities/master-class-zh.jpg" alt="Beginner Chinese calligraphy and watercolor master class poster"/>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div style="font-size: 18px; line-height: 1.8; color: #444;">
-                        <p>渥太华中文学校（OCLS）零基础大师班中国书法、水彩绘画课火热招生。课程由曲永仲老师、姚文奎老师亲自授课。</p>
+                        <p>The OCLS beginner master class in Chinese calligraphy and watercolor painting is now open for registration. Classes are taught in person by teachers Yongzhong Qu and Wenkui Yao.</p>
 
                         <div class="mother-info-card">
-                            <h4 class="mother-highlight">课程优势</h4>
+                            <h4 class="mother-highlight">Course Highlights</h4>
                             <ul class="mother-list">
-                                <li><i class="fa fa-check"></i> 名师现场示范，边讲边练，直观易懂</li>
-                                <li><i class="fa fa-check"></i> 每节课完成作品，当堂见成果</li>
-                                <li><i class="fa fa-check"></i> 循序渐进教学，零基础轻松上手</li>
-                                <li><i class="fa fa-check"></i> 小班课精化成作品，个性化指导</li>
+                                <li><i class="fa fa-check"></i> Live demonstrations by experienced teachers, with clear explanation and guided practice</li>
+                                <li><i class="fa fa-check"></i> Complete an artwork in each class and see results immediately</li>
+                                <li><i class="fa fa-check"></i> Step-by-step teaching designed for beginners</li>
+                                <li><i class="fa fa-check"></i> Small-class instruction with personalized guidance</li>
                             </ul>
                         </div>
 
                         <div class="mother-info-card">
-                            <h4 class="mother-highlight">上课信息</h4>
+                            <h4 class="mother-highlight">Class Information</h4>
                             <p>
-                                开课时间：2026年5月10日 18:30 - 20:30<br/>
-                                课程安排：每周日晚，三个月一期，共12次课（24节），每节45分钟<br/>
-                                上课地点：76 Larkin Dr. Nepean<br/>
-                                报名方式：请扫描海报二维码
+                                Start time: May 10, 2026, 18:30 - 20:30<br/>
+                                Schedule: Sunday evenings; one three-month term includes 12 sessions (24 lessons), 45 minutes each<br/>
+                                Location: 76 Larkin Dr., Nepean<br/>
+                                Registration: please scan the QR code on the poster
                             </p>
                         </div>
 
-                        <p><b>名额有限，欢迎7岁以上中小学生班及成人兴趣班报名。</b></p>
+                        <p><b>Spaces are limited. Students age 7 and above, school-age groups, and adult hobby learners are welcome to register.</b></p>
                         <p>
-                            <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7452678884660613120" target="_blank">立即报名</a>
+                            <a class="btn btn-orange btn-lg" href="https://www.cubedrive.com/lite/app/form/7452678884660613120" target="_blank">Register Now</a>
                         </p>
                     </div>
                 </div>
@@ -269,7 +269,7 @@
     <section class="page-section" style="background-color: #fff5f7;">
         <div class="container">
             <div class="section-title">
-                主办单位
+                Organizers
                 <span class="icon-red"></span>
                 <div class="section-line"></div>
             </div>
@@ -277,14 +277,14 @@
                 <div class="col-md-12">
                     <div class="text-muted" style="font-size: 18px;">
                         <ul class="mother-list">
-                            <li><i class="fa fa-university"></i> 渥太华中文学校</li>
-                            <li><i class="fa fa-university"></i> 首都中文学校</li>
-                            <li><i class="fa fa-users"></i> 岁月如歌文化沙龙</li>
-                            <li><i class="fa fa-hands-helping"></i> 加拿大亚洲文化艺术协会</li>
+                            <li><i class="fa fa-university"></i> Ottawa Chinese Language School</li>
+                            <li><i class="fa fa-university"></i> Capital Chinese School</li>
+                            <li><i class="fa fa-users"></i> Years Like Song Cultural Salon</li>
+                            <li><i class="fa fa-hands-helping"></i> Canadian Asian Culture and Arts Association</li>
                         </ul>
                     </div>
-                    <p style="font-size: 18px; margin-top: 20px;">顺祝春安，期待您的到来！</p>
-                    <p style="font-size: 18px;">生肖绘画比赛组委会 敬上</p>
+                    <p style="font-size: 18px; margin-top: 20px;">We look forward to welcoming you.</p>
+                    <p style="font-size: 18px;">Chinese Zodiac Painting Competition Organizing Committee</p>
                 </div>
             </div>
         </div>
@@ -297,10 +297,10 @@
                     <img src="resource/images/bg2.png" alt="Contact us">
                     <div class="carousel-caption">
                         <div class="carousel-caption-title">
-                            5月9日母亲节活动
+                            May 9 Mother's Day Event
                         </div>
                         <div class="carousel-caption-subtitle">
-                            母亲节艺术展暨诗歌朗诵会，诚邀生肖绘画比赛选手现场领取马年纪念币。
+                            Mother's Day art exhibition and poetry recital. Zodiac painting competition participants are invited to pick up Year of the Horse commemorative coins on site.
                         </div>
                     </div>
                 </div>
@@ -310,7 +310,7 @@
 
     <br/><br/><br/>
 
-    <%@ include file="/pages/common/en/footer_zh.jsp" %>
+    <%@ include file="/pages/common/en/footer.jsp" %>
 
 </div>
 </body>

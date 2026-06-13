@@ -140,7 +140,7 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active activities-hero">
                     <div class="carousel-caption">
-                        <div class="carousel-caption-toptitle">活动 / Activities</div>
+                        <div class="carousel-caption-toptitle">活动总览</div>
                         <div class="carousel-caption-title">活动总览</div>
                         <div class="carousel-caption-subtitle">研学营、比赛、艺术展览、中文教育、沙龙讲座与社区文化活动</div>
                     </div>
@@ -172,7 +172,7 @@
                 <li class="activities-item"><a href="2025youthAct.jsp"><i class="far fa-calendar-check"></i><span>渥太华第二届青少年中华文化艺术节首场活动<span class="activities-tag">青少年文化节</span></span></a></li>
                 <li class="activities-item"><a href="2025christmas.jsp"><i class="far fa-calendar-check"></i><span>2025圣诞广州-厦门游学<span class="activities-tag">研学营</span></span></a></li>
                 <li class="activities-item"><a href="2025artistShow.jsp"><i class="far fa-calendar-check"></i><span>2025年加拿大加华艺术协会年展：墨影华韵<span class="activities-tag">艺术展览</span></span></a></li>
-                <li class="activities-item"><a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check"></i><span>2025 Summer Beijing Camp<span class="activities-tag">夏令营</span></span></a></li>
+                <li class="activities-item"><a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check"></i><span>2025北京夏令营<span class="activities-tag">夏令营</span></span></a></li>
                 <li class="activities-item"><a href="2025chengduAction.jsp"><i class="far fa-calendar-check"></i><span>2025年成都游学十日<span class="activities-tag">研学营</span></span></a></li>
                 <li class="activities-item"><a href="2025SpringFestival.jsp"><i class="far fa-calendar-check"></i><span>岁月如歌文艺沙龙春节茶话会<span class="activities-tag">沙龙</span></span></a></li>
                 <li class="activities-item"><a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check"></i><span>2025蛇年第二届渥太华青少年生肖绘画比赛<span class="activities-tag">比赛</span></span></a></li>
@@ -182,12 +182,12 @@
 
             <h2 class="activities-section-title">中文教育</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2025chineseClass.jsp"><i class="far fa-calendar-check"></i><span>Cross Culture 特色中文课</span></a></li>
+                <li class="activities-item"><a href="2025chineseClass.jsp"><i class="far fa-calendar-check"></i><span>跨文化特色中文课</span></a></li>
             </ul>
 
             <h2 class="activities-section-title">比赛</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code"></i><span>Ink Poetry Awards</span></a></li>
+                <li class="activities-item"><a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code"></i><span>水墨诗词奖</span></a></li>
             </ul>
 
             <h2 class="activities-section-title">沙龙讲坛</h2>

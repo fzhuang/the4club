@@ -39,7 +39,7 @@
 									<a href="2026Mother.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>Mother's Day Call for Submissions</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2026MotherActivities_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>May 9 Mother's Day Event</a>
+									<a href="2026MotherActivities.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>May 9 Mother's Day Event</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026-paintingByYoung.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026 Ottawa Youth Chinese Zodiac Painting Competition - Year of the Horse</a>

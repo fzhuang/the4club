@@ -21,7 +21,7 @@
             <ul class="nav navbar-nav">
                 <li><a data-pages="index" href="index_zh.jsp">主页</a></li>
                 
-                <li><a data-pages="activities" href="activities_zh.jsp">活动/Activities</a>
+                <li><a data-pages="activities" href="activities_zh.jsp">活动</a>
                     <div class="sub-menu-big">
 						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
