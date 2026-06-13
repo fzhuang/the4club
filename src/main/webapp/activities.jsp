@@ -140,7 +140,7 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active activities-hero">
                     <div class="carousel-caption">
-                        <div class="carousel-caption-toptitle">Activities / 活动总览</div>
+                        <div class="carousel-caption-toptitle">Activities</div>
                         <div class="carousel-caption-title">Activities</div>
                         <div class="carousel-caption-subtitle">Study tours, competitions, cultural programs, salons, and community events</div>
                     </div>
@@ -163,26 +163,26 @@
                 <li class="activities-item"><a href="2026Mother.jsp"><i class="far fa-calendar-check"></i><span>Mother's Day Call for Submissions<span class="activities-tag">Community</span></span></a></li>
                 <li class="activities-item"><a href="2026MotherActivities.jsp"><i class="far fa-calendar-check"></i><span>May 9 Mother's Day Event<span class="activities-tag">Community</span></span></a></li>
                 <li class="activities-item"><a href="2026-paintingByYoung.jsp"><i class="far fa-calendar-check"></i><span>2026 Ottawa Youth Chinese Zodiac Painting Competition - Year of the Horse<span class="activities-tag">Competition</span></span></a></li>
-                <li class="activities-item"><a href="2026chengdu.jsp"><i class="far fa-calendar-check"></i><span>2026 春假成都和重庆文化之旅<span class="activities-tag">Study Tour</span></span></a></li>
+                <li class="activities-item"><a href="2026chengdu.jsp"><i class="far fa-calendar-check"></i><span>2026 Spring Break Chengdu and Chongqing Cultural Tour<span class="activities-tag">Study Tour</span></span></a></li>
                 <li class="activities-item"><a href="2025YouthFestival.jsp"><i class="far fa-calendar-check"></i><span>2025-2026 The 2nd Ottawa Youth Chinese Cultural Festival<span class="activities-tag">Youth Festival</span></span></a></li>
             </ul>
 
             <h2 class="activities-section-title">2025 Activities</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2025youthAct.jsp"><i class="far fa-calendar-check"></i><span>渥太华第二届青少年中华文化艺术节首场活动<span class="activities-tag">Youth Festival</span></span></a></li>
-                <li class="activities-item"><a href="2025christmas.jsp"><i class="far fa-calendar-check"></i><span>2025 圣诞广州-厦门游学<span class="activities-tag">Study Tour</span></span></a></li>
-                <li class="activities-item"><a href="2025artistShow.jsp"><i class="far fa-calendar-check"></i><span>2025 Canadian Chinese Artists Association Annual Exhibition: 墨影华韵<span class="activities-tag">Art Exhibition</span></span></a></li>
+                <li class="activities-item"><a href="2025youthAct.jsp"><i class="far fa-calendar-check"></i><span>Opening Event of the 2nd Ottawa Youth Chinese Cultural Festival<span class="activities-tag">Youth Festival</span></span></a></li>
+                <li class="activities-item"><a href="2025christmas.jsp"><i class="far fa-calendar-check"></i><span>2025 Christmas Guangzhou-Xiamen Study Tour<span class="activities-tag">Study Tour</span></span></a></li>
+                <li class="activities-item"><a href="2025artistShow.jsp"><i class="far fa-calendar-check"></i><span>2025 Canadian Chinese Artists Association Annual Exhibition: Ink Shadows and Chinese Resonance<span class="activities-tag">Art Exhibition</span></span></a></li>
                 <li class="activities-item"><a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check"></i><span>2025 Summer Beijing Camp<span class="activities-tag">Summer Camp</span></span></a></li>
-                <li class="activities-item"><a href="2025chengduAction.jsp"><i class="far fa-calendar-check"></i><span>2025 成都游学十日<span class="activities-tag">Study Tour</span></span></a></li>
-                <li class="activities-item"><a href="2025SpringFestival.jsp"><i class="far fa-calendar-check"></i><span>岁月如歌文艺沙龙春节茶话会<span class="activities-tag">Salon</span></span></a></li>
-                <li class="activities-item"><a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check"></i><span>2025 蛇年第二届渥太华青少年生肖绘画比赛<span class="activities-tag">Competition</span></span></a></li>
-                <li class="activities-item"><a href="2025snakePainting.jsp"><i class="far fa-calendar-check"></i><span>2025 蛇年加华艺术协会迎春书画展<span class="activities-tag">Art Exhibition</span></span></a></li>
-                <li class="activities-item"><a href="2025chengdu.jsp"><i class="far fa-calendar-check"></i><span>2025 春假赴成都交流学生团<span class="activities-tag">Study Tour</span></span></a></li>
+                <li class="activities-item"><a href="2025chengduAction.jsp"><i class="far fa-calendar-check"></i><span>2025 Ten-Day Chengdu Study Tour<span class="activities-tag">Study Tour</span></span></a></li>
+                <li class="activities-item"><a href="2025SpringFestival.jsp"><i class="far fa-calendar-check"></i><span>Years Like Songs Literary Salon Spring Festival Tea Gathering<span class="activities-tag">Salon</span></span></a></li>
+                <li class="activities-item"><a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check"></i><span>2025 Year of the Snake 2nd Ottawa Youth Chinese Zodiac Painting Competition<span class="activities-tag">Competition</span></span></a></li>
+                <li class="activities-item"><a href="2025snakePainting.jsp"><i class="far fa-calendar-check"></i><span>2025 Year of the Snake Canadian Chinese Artists Association Spring Calligraphy and Painting Exhibition<span class="activities-tag">Art Exhibition</span></span></a></li>
+                <li class="activities-item"><a href="2025chengdu.jsp"><i class="far fa-calendar-check"></i><span>2025 Spring Break Chengdu Student Exchange Tour<span class="activities-tag">Study Tour</span></span></a></li>
             </ul>
 
             <h2 class="activities-section-title">Chinese Education</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2025chineseClass.jsp"><i class="far fa-calendar-check"></i><span>Cross Culture 特色中文课</span></a></li>
+                <li class="activities-item"><a href="2025chineseClass.jsp"><i class="far fa-calendar-check"></i><span>Cross Culture Special Chinese Program</span></a></li>
             </ul>
 
             <h2 class="activities-section-title">Competitions</h2>
@@ -192,12 +192,12 @@
 
             <h2 class="activities-section-title">Salon Talks</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="speech-ai.jsp"><i class="fas fa-laptop-code"></i><span>AI 大模型的进展和展望</span></a></li>
+                <li class="activities-item"><a href="speech-ai.jsp"><i class="fas fa-laptop-code"></i><span>Progress and Prospects of Large AI Models</span></a></li>
             </ul>
 
             <h2 class="activities-section-title">2024 Activities</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check"></i><span>渥太华中文学校慈善基金会五十年庆典</span></a></li>
+                <li class="activities-item"><a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check"></i><span>Ottawa Chinese School Charitable Foundation 50th Anniversary Celebration</span></a></li>
             </ul>
         </div>
     </section>
