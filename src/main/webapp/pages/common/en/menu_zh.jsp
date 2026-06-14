@@ -11,7 +11,7 @@
 
             <button class="navbar-toggle collapsed" data-toggle="collapse"
                     data-target="#mainMenu" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
+                <span class="sr-only">切换导航</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -26,6 +26,9 @@
 						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
 								<h3 class="sub-menu-list-title">2026年活动</h3>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2026FatherActivities_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>父亲节活动</a>
+								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026yxxSummer_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026年国际研学营之京豫线</a>
 								</li>
@@ -63,7 +66,7 @@
 									<a href="2025artistShow.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025年加拿大加华艺术协会年展: 墨影华韵</a>
 								</li>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025 Summer Beijing Camp</a>
+									<a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025北京夏令营</a>
 								</li>		        
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2025chengduAction.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025年成都游学十日</a>
@@ -85,17 +88,17 @@
 							
 				                <h3 class="sub-menu-list-title">中文教育</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025chineseClass.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>Cross Culture 特色中文课 </a>
+									<a href="2025chineseClass.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>跨文化特色中文课</a>
 								</li>
 								
 								<h3 class="sub-menu-list-title">比赛</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>Ink Poetry Awards</a>
+									<a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>水墨诗词奖</a>
 								</li>		
 								
 								<h3 class="sub-menu-list-title">沙龙讲坛</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="speech-ai.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>AI大模型的进展和展望</a>
+									<a href="speech-ai.jsp"><i class="fas fa-laptop-code" style="margin-right: 8px; color: #ff0000;"></i>人工智能大模型的进展和展望</a>
 								</li>																															
 
 						        <h3 class="sub-menu-list-title">2024年活动</h3>
@@ -107,11 +110,11 @@
 				     </div>
                 </li>    
                 
-                <li><a data-pages="insights" href="spotlight-insight_zh.jsp">闻道特辑/Insights Spotlight</a>
+                <li><a data-pages="insights" href="spotlight-insight_zh.jsp">闻道特辑</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
-						        <h3 class="sub-menu-list-title" style="margin-bottom: 4px; padding-bottom: 6px;">97.9FM 渥太华中文电台</h3>
+						        <h3 class="sub-menu-list-title" style="margin-bottom: 4px; padding-bottom: 6px;">97.9调频 渥太华中文电台</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 4px;">
 									<a href="spotlight-lufeng-interview-part1.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>专访路风老师——艺海流光（上）</a>
 								</li>
@@ -235,7 +238,7 @@
 
 
 
-						        	<a href="spotlight-meng-wei-yueju-part1.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.7FM 渥太华中文电台 - 孟伟越剧专题访谈（上）</a>
+						        	<a href="spotlight-meng-wei-yueju-part1.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.7调频 渥太华中文电台 - 孟伟越剧专题访谈（上）</a>
 
 
 
@@ -264,7 +267,7 @@
 
 
 
-						        	<a href="spotlight-meng-wei-yueju-part2.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.7 FM渥太华中文电台 - 孟伟越剧社专题访谈（下）</a>
+						        	<a href="spotlight-meng-wei-yueju-part2.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>97.7调频 渥太华中文电台 - 孟伟越剧社专题访谈（下）</a>
 
 
 
@@ -479,7 +482,7 @@
 				     </div>
                 </li>  
                                      
-                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆/Show Room</a>
+                <li><a data-pages="showRoom" href="showRoom-yearSong.jsp">展览馆</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">					        						
@@ -512,7 +515,7 @@
 				     </div>
                 </li> 
   
-                <li><a data-pages="aboutUs" href="joinUs_zh.jsp">关于我们/About Us</a>
+                <li><a data-pages="aboutUs" href="joinUs_zh.jsp">关于我们</a>
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">

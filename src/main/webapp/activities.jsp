@@ -157,6 +157,7 @@
 
             <h2 class="activities-section-title">2026 Activities</h2>
             <ul class="activities-list">
+                <li class="activities-item"><a href="2026FatherActivities.jsp"><i class="far fa-calendar-check"></i><span>Father's Day Event<span class="activities-tag">Community</span></span></a></li>
                 <li class="activities-item"><a href="2026yxxSummer.jsp"><i class="far fa-calendar-check"></i><span>2026 International Study Tour: Beijing-Henan Route<span class="activities-tag">Study Tour</span></span></a></li>
                 <li class="activities-item"><a href="2026xianQinling.jsp"><i class="far fa-calendar-check"></i><span>Xi'an Qinling Study Tour - 12 Days<span class="activities-tag">Study Tour</span></span></a></li>
                 <li class="activities-item"><a href="2026artAnnualExhibition.jsp"><i class="far fa-calendar-check"></i><span>2026 Canadian Chinese Artists Association Annual Exhibition<span class="activities-tag">Art Exhibition</span></span></a></li>
