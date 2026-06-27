@@ -4,11 +4,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>4cClub: 2026 International Study Tour - Beijing-Henan Route (11 Days / 10 Nights)</title>	
+	<title>4cClub: 2026 International Study Tour - Beijing-Henan Route (9 Days)</title>	
 	<meta name="title" content="Canadian-Chinese Cross Culture Club"/>
 	<meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png">
-	<meta property="og:title" content="4cClub: 2026 International Study Tour - Beijing-Henan Route (11 Days / 10 Nights)">
-	<meta property="og:description" content="2026 International Study Tour: Beijing-Henan Route. The program has been expanded to 11 days / 10 nights with no price increase.">
+	<meta property="og:title" content="4cClub: 2026 International Study Tour - Beijing-Henan Route (9 Days)">
+	<meta property="og:description" content="2026 International Study Tour: Beijing-Henan Route. A 9-day cultural study journey with a chaperoned price of CAD $1600 and a self-arrival Beijing option of CAD $1280.">
 	<meta property="og:url" content="https://the4cclub.ca">
 	
 	<meta name="description" content="Canadian-Chinese Cross Culture Club promotes Chinese education, cultural exchange, and cross-cultural learning in Canada's multicultural communities."/>
@@ -68,7 +68,7 @@
                               2026 International Study Tour: Beijing-Henan Route
                         </div>
                         <div class="carousel-caption-subtitle" style="padding: 5px 10px 10px 10px;">
-                            A journey into the roots and spirit of Chinese civilization. Now expanded to 11 days / 10 nights with no price increase.
+                            A 9-day journey into the roots and spirit of Chinese civilization through Beijing and Henan.
                         </div>
                     </div>
                 </div>
@@ -96,13 +96,13 @@ Hosted with the Global Culture and Education Exchange Association and Middle Sch
 <b>Participants:</b> Youth worldwide, ages 12-25. Parents may accompany participants.
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>Dates:</b> August 9-19, 2026 (11 days / 10 nights)
+<b>Dates:</b> August 9-17, 2026 (9 days)
 </div>
 <div class="text-muted" style="font-size: 18px;">
 <b>Route:</b> Beijing - Anyang - Linzhou - Kaifeng - Dengfeng - Luoyang - Zhengzhou
 </div>
 <div class="text-muted" style="font-size: 18px;">
-<b>Fee:</b> $1600 (excluding airfare and insurance). Includes all meals, accommodation, local transportation, learning visits, and chaperone teacher costs in China. The program has been expanded to 11 days / 10 nights with no price increase.
+<b>Fee:</b> Chaperoned price: CAD $1600 (excluding airfare and insurance). Self-arrival in Beijing and self-return option: CAD $1280, including domestic airport transfers. Fees include meals, accommodation, local transportation, and learning visits in China.
 </div>
 <div class="text-muted" style="font-size: 18px;">
 Registration deposit: $500. Minimum group size: 15 participants. If the program cannot form a group, the fee will be fully refunded. Please e-transfer to: syrg4cclub@gmail.com
@@ -314,16 +314,16 @@ Registration deadline: May 31, 2026.
         <div class="container">
             <div><span style="color: #323edb; font-size: 18px;">07 Itinerary Overview</span></div>
             <div class="text-muted" style="font-size: 18px; margin: 16px 0;">
-                The updated itinerary is 11 days / 10 nights and adds Linzhou, Taihang Grand Canyon, Red Flag Canal, and more. The fee remains $1600.
+                The updated itinerary is 9 days. The chaperoned price remains CAD $1600; the self-arrival in Beijing and self-return option is CAD $1280, including domestic airport transfers.
             </div>
-            <div style="margin: 20px 0;"><img src="2026yxx/schedule-11days.jpg" style="width:100%; max-width: 900px;" alt="11-day, 10-night itinerary overview"></div>
+            <div style="margin: 20px 0;"><img src="2026yxx/schedule-11days.jpg" style="width:100%; max-width: 900px;" alt="9-day itinerary overview"></div>
             
             <div style="margin-top: 30px;"><span style="color: #323edb; font-size: 18px;">08 Professional Support: Explore Civilization with Confidence</span></div>
             <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
                 <p>✅ <b>Safety support:</b> 24-hour professional accompaniment, accident insurance, pre-checked transportation routes, and Ctrip 4-diamond hotels.</p>
                 <p>✅ <b>Parent updates:</b> Daily group updates with photos and short videos so families can follow each student's growth.</p>
                 <p>✅ <b>Program benefits:</b> Beijing-Henan Route completion certificate; outstanding study reports may be prioritized for partner publications; participants receive a Chinese civilization gift package.</p>
-                <p>✅ <b>Well-paced itinerary:</b> The 11-day program is rich but not rushed, connects smoothly with summer break, and includes a pre-trip study handbook and post-trip study journal.</p>
+                <p>✅ <b>Well-paced itinerary:</b> The 9-day program is rich but not rushed, connects smoothly with summer break, and includes a pre-trip study handbook and post-trip study journal.</p>
             </div>
         </div>
         <hr>
@@ -333,7 +333,7 @@ Registration deadline: May 31, 2026.
         <div class="container">
             <div><span style="color: #323edb; font-size: 18px;">Contact and Program Summary</span></div>
             <div class="text-muted" style="font-size: 20px; margin-top: 10px;">
-                Dates: August 9-19, 2026 (11 days / 10 nights)<br/>
+                Dates: August 9-17, 2026 (9 days)<br/>
                 Route: Beijing - Anyang - Linzhou - Kaifeng - Dengfeng - Luoyang - Zhengzhou<br/>
                 Registration page: https://the4cclub.ca/the4club/2026yxxSummer.jsp <br/>
                 Phone: 613-866-1341, Teacher Wang

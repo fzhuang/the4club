@@ -293,7 +293,7 @@
                             <br/>
                             Participants: <b>Global youth ages 12-25; parents may accompany</b><br/>
                             Route: <b>Beijing - Xi'an - Baoji - Qinling</b><br/>
-                            Fee: <b>$1680, excluding airfare and insurance</b><br/>
+                            Fee: <b>Chaperoned price CAD $1680; self-arrival in Beijing and self-return option CAD $1330, including domestic airport transfers, excluding airfare and insurance</b><br/>
                             Deposit: <b>$500; minimum 10 participants. Fully refundable if the tour does not form.</b><br/>
                             E-transfer: <b>syrg4cclub@gmail.com</b><br/><br/>
                             Walk into the civilization of Zhou, Qin, Han, and Tang; explore Qinling ecology and rare national treasures; and complete a meaningful cultural learning journey through heritage workshops, museum courses, and school exchange.
@@ -317,14 +317,14 @@
 
             <div class="row" style="margin: 20px 0 10px 0;">
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <h1><b>"Walking China, Continuing the Cultural Lineage" International Study Camp - Beijing-Henan Route (11 Days, 10 Nights)</b></h1>
-                    <h2>Let young people from around the world touch the roots and spirit of Chinese civilization. The itinerary has been extended by two days with no price increase.</h2>
+                    <h1><b>"Walking China, Continuing the Cultural Lineage" International Study Camp - Beijing-Henan Route (9 Days)</b></h1>
+                    <h2>Let young people from around the world touch the roots and spirit of Chinese civilization through a 9-day Beijing-Henan cultural study journey.</h2>
                     <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
                         <div class="text-muted" style="font-size: 18px;">
                             <br/>
-                            Dates: <b>August 9-19, 2026 (11 days, 10 nights)</b><br/>
+                            Dates: <b>August 9-17, 2026 (9 days)</b><br/>
                             Route: <b>Beijing - Anyang - Linzhou - Kaifeng - Dengfeng - Luoyang - Zhengzhou</b><br/>
-                            Fee: <b>$1600; two additional days included with no price increase</b><br/>
+                            Fee: <b>Chaperoned price CAD $1600; self-arrival in Beijing and self-return option CAD $1280, including domestic airport transfers</b><br/>
                         </div>
                     </div>
                     <div class="text-muted" style="font-size: 18px;">

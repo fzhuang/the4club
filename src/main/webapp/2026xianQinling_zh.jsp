@@ -269,7 +269,7 @@
                     <div class="xian-card">
                         <div class="xian-fact"><i class="fa fa-route"></i><div><b>路线：</b>北京集合出发，西安与宝鸡深度研学。</div></div>
                         <div class="xian-fact"><i class="fa fa-users"></i><div><b>参与对象：</b>全球青少年，12岁-25岁；家长可以陪同。</div></div>
-                        <div class="xian-fact"><i class="fa fa-tag"></i><div><b>费用：</b>$1680，不含机票和保险。</div></div>
+                        <div class="xian-fact"><i class="fa fa-tag"></i><div><b>费用：</b>带团价 $1680 加元；自行到北京报到和返回价格 $1330 加元（包括国内接送机），不含机票和保险。</div></div>
                         <div class="xian-fact"><i class="fa fa-credit-card"></i><div><b>报名费：</b>$500；10人成团，不能成团费用全部退还。</div></div>
                         <div class="xian-fact"><i class="fa fa-envelope"></i><div><b>E-transfer：</b>syrg4cclub@gmail.com</div></div>
                         <div class="xian-fact"><i class="fa fa-file-pdf"></i><div><b>资料：</b><a href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">下载/查看PDF行程方案</a></div></div>
@@ -479,7 +479,8 @@
                     <div class="xian-card">
                         <h3>费用已含</h3>
                         <ul>
-                            <li>费用为$1680，不含机票和保险。</li>
+                            <li>带团价为 $1680 加元，不含机票和保险。</li>
+                            <li>自行到北京报到和返回价格为 $1330 加元（包括国内接送机），不含机票和保险。</li>
                             <li>包含国内所有吃住行、学习参观及带队老师费用。</li>
                             <li>携程四钻酒店住宿。</li>
                             <li>行程所列景点首道大门票。</li>
@@ -503,7 +504,7 @@
                 </div>
             </div>
             <div class="xian-note">
-                报名费$500，人数10人成团；如不能成团，费用全部退还。请通过 e-transfer 支付至 syrg4cclub@gmail.com。行前建议：安全第一，轻装上阵；准备必要学习装备；研学期间注意文明礼仪、反思记录和健康保障。具体营期请以最终发布通知为准。
+                报名费$500，人数10人成团；如不能成团，费用全部退还。带团价 $1680 加元；自行到北京报到和返回价格 $1330 加元（包括国内接送机）。请通过 e-transfer 支付至 syrg4cclub@gmail.com。行前建议：安全第一，轻装上阵；准备必要学习装备；研学期间注意文明礼仪、反思记录和健康保障。具体营期请以最终发布通知为准。
             </div>
         </div>
     </section>
@@ -513,7 +514,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <h2>西安秦岭研学12天</h2>
-                    <p>完整行程来自《北京-西安-宝鸡秦岭生态文化研学之旅12天》PDF方案。费用$1680，不含机票和保险；报名费$500，请 e-transfer 至 syrg4cclub@gmail.com。</p>
+                    <p>完整行程来自《北京-西安-宝鸡秦岭生态文化研学之旅12天》PDF方案。带团价 $1680 加元；自行到北京报到和返回价格 $1330 加元（包括国内接送机），不含机票和保险；报名费$500，请 e-transfer 至 syrg4cclub@gmail.com。</p>
                 </div>
                 <div class="col-md-4 text-md-right">
                     <a class="xian-btn" href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">打开PDF行程</a>

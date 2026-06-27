@@ -269,7 +269,7 @@
                     <div class="xian-card">
                         <div class="xian-fact"><i class="fa fa-route"></i><div><b>Route:</b> Depart from Beijing, with in-depth study in Xi'an and Baoji.</div></div>
                         <div class="xian-fact"><i class="fa fa-users"></i><div><b>Participants:</b> Global youth ages 12-25; parents may accompany.</div></div>
-                        <div class="xian-fact"><i class="fa fa-tag"></i><div><b>Fee:</b> $1680, excluding airfare and insurance.</div></div>
+                        <div class="xian-fact"><i class="fa fa-tag"></i><div><b>Fee:</b> Chaperoned price CAD $1680; self-arrival in Beijing and self-return option CAD $1330, including domestic airport transfers. Airfare and insurance are not included.</div></div>
                         <div class="xian-fact"><i class="fa fa-credit-card"></i><div><b>Deposit:</b> $500; minimum 10 participants. Full refund if the group is not formed.</div></div>
                         <div class="xian-fact"><i class="fa fa-envelope"></i><div><b>E-transfer:</b> syrg4cclub@gmail.com</div></div>
                         <div class="xian-fact"><i class="fa fa-file-pdf"></i><div><b>Materials:</b> <a href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">Download / view the PDF itinerary</a></div></div>
@@ -479,7 +479,8 @@
                     <div class="xian-card">
                         <h3>Included</h3>
                         <ul>
-                            <li>The program fee is $1680, excluding airfare and insurance.</li>
+                            <li>Chaperoned price: CAD $1680, excluding airfare and insurance.</li>
+                            <li>Self-arrival in Beijing and self-return option: CAD $1330, including domestic airport transfers; airfare and insurance are not included.</li>
                             <li>All domestic meals, accommodation, transportation, learning visits, and group leader costs.</li>
                             <li>Ctrip four-diamond hotel accommodation.</li>
                             <li>First admission tickets for listed attractions.</li>
@@ -503,7 +504,7 @@
                 </div>
             </div>
             <div class="xian-note">
-                A $500 deposit is required. The program runs with a minimum of 10 participants; if the group is not formed, all fees will be refunded. Please pay by e-transfer to syrg4cclub@gmail.com. Before departure, students should prioritize safety, pack lightly, prepare necessary learning materials, observe proper etiquette, keep reflection notes, and maintain health awareness. Final dates are subject to the official announcement.
+                A $500 deposit is required. The program runs with a minimum of 10 participants; if the group is not formed, all fees will be refunded. Chaperoned price: CAD $1680. Self-arrival in Beijing and self-return option: CAD $1330, including domestic airport transfers. Please pay by e-transfer to syrg4cclub@gmail.com. Before departure, students should prioritize safety, pack lightly, prepare necessary learning materials, observe proper etiquette, keep reflection notes, and maintain health awareness. Final dates are subject to the official announcement.
             </div>
         </div>
     </section>
@@ -513,7 +514,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <h2>Xi'an Qinling 12-Day Study Tour</h2>
-                    <p>The full itinerary is based on the Beijing-Xi'an-Baoji Qinling 12-day ecological and cultural study tour PDF. Fee: $1680, excluding airfare and insurance. Deposit: $500 by e-transfer to syrg4cclub@gmail.com.</p>
+                    <p>The full itinerary is based on the Beijing-Xi'an-Baoji Qinling 12-day ecological and cultural study tour PDF. Chaperoned price: CAD $1680. Self-arrival in Beijing and self-return option: CAD $1330, including domestic airport transfers. Airfare and insurance are not included. Deposit: $500 by e-transfer to syrg4cclub@gmail.com.</p>
                 </div>
                 <div class="col-md-4 text-md-right">
                     <a class="xian-btn" href="2026xianQinling/xian-qinling-12days.pdf" target="_blank">Open PDF Itinerary</a>
