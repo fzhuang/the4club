@@ -27,6 +27,9 @@
 						    <ul class="sub-menu-list">
 								<h3 class="sub-menu-list-title">2026 Activities</h3>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2026DragonBoatFatherDay.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>Dragon Boat Festival Meets Father's Day Cultural Gathering</a>
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026FatherActivities.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>Father's Day Event</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
@@ -51,7 +54,7 @@
 									<a href="2026chengdu.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2026 Spring Break Chengdu and Chongqing Cultural Tour</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
-									<a href="2025YouthFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025–2026 The 2nd Ottawa Youth Chinese Cultural Festival</a>
+									<a href="2025YouthFestival.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2025â€“2026 The 2nd Ottawa Youth Chinese Cultural Festival</a>
 								</li>
 								
 						    
