@@ -4,13 +4,13 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <title>åŠ ä¸­æ–‡åŒ–æ•™è‚²äº¤æµä¸­å¿ƒï¼šæ´»åŠ¨æ€»è§ˆ</title>
+    <title>加中文化教育交流中心：活动总览</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    <meta name="title" content="æ´»åŠ¨æ€»è§ˆ"/>
-    <meta name="description" content="åŠ ä¸­æ–‡åŒ–æ•™è‚²äº¤æµä¸­å¿ƒæ´»åŠ¨æ€»è§ˆï¼ŒåŒ…æ‹¬ç ”å­¦è¥ã€é’å°‘å¹´é¡¹ç›®ã€è‰ºæœ¯å±•è§ˆã€æ¯”èµ›ã€ä¸­æ–‡æ•™è‚²å’Œç¤¾åŒºæ–‡åŒ–æ´»åŠ¨ã€‚"/>
-    <meta property="og:title" content="åŠ ä¸­æ–‡åŒ–æ•™è‚²äº¤æµä¸­å¿ƒï¼šæ´»åŠ¨æ€»è§ˆ"/>
-    <meta property="og:description" content="ç ”å­¦è¥ã€é’å°‘å¹´é¡¹ç›®ã€è‰ºæœ¯å±•è§ˆã€æ¯”èµ›ã€ä¸­æ–‡æ•™è‚²å’Œç¤¾åŒºæ–‡åŒ–æ´»åŠ¨ã€‚"/>
+    <meta name="title" content="活动总览"/>
+    <meta name="description" content="加中文化教育交流中心活动总览，包括研学营、青少年项目、艺术展览、比赛、中文教育和社区文化活动。"/>
+    <meta property="og:title" content="加中文化教育交流中心：活动总览"/>
+    <meta property="og:description" content="研学营、青少年项目、艺术展览、比赛、中文教育和社区文化活动。"/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/resource/images/logo.png"/>
     <meta property="og:type" content="website"/>
     <meta name="robots" content="all"/>
@@ -140,9 +140,9 @@
             <div class="carousel-inner carousel-inner2" role="listbox">
                 <div class="item active activities-hero">
                     <div class="carousel-caption">
-                        <div class="carousel-caption-toptitle">æ´»åŠ¨æ€»è§ˆ</div>
-                        <div class="carousel-caption-title">æ´»åŠ¨æ€»è§ˆ</div>
-                        <div class="carousel-caption-subtitle">ç ”å­¦è¥ã€æ¯”èµ›ã€è‰ºæœ¯å±•è§ˆã€ä¸­æ–‡æ•™è‚²ã€æ²™é¾™è®²åº§ä¸Žç¤¾åŒºæ–‡åŒ–æ´»åŠ¨</div>
+                        <div class="carousel-caption-toptitle">活动总览</div>
+                        <div class="carousel-caption-title">活动总览</div>
+                        <div class="carousel-caption-subtitle">研学营、比赛、艺术展览、中文教育、沙龙讲座与社区文化活动</div>
                     </div>
                 </div>
             </div>
@@ -152,54 +152,54 @@
     <section class="activities-page">
         <div class="container">
             <p class="activities-intro">
-                è¿™é‡Œæ±‡æ€»åŠ ä¸­æ–‡åŒ–æ•™è‚²äº¤æµä¸­å¿ƒçš„ä¸»è¦æ´»åŠ¨ï¼Œæ–¹ä¾¿å¤§å®¶æµè§ˆè¿‘æœŸé¡¹ç›®ä¸Žå¾€æœŸè®°å½•ï¼ŒåŒ…æ‹¬å›½é™…ç ”å­¦ã€é’å°‘å¹´æ–‡åŒ–é¡¹ç›®ã€è‰ºæœ¯å±•è§ˆã€ç»˜ç”»æ¯”èµ›ã€ä¸­æ–‡æ•™è‚²å’Œç¤¾åŒºæ²™é¾™ç­‰ã€‚
+                这里汇总加中文化教育交流中心的主要活动，方便大家浏览近期项目与往期记录，包括国际研学、青少年文化项目、艺术展览、绘画比赛、中文教育和社区沙龙等。
             </p>
 
-            <h2 class="activities-section-title">2026å¹´æ´»åŠ¨</h2>
+            <h2 class="activities-section-title">2026年活动</h2>
             <ul class="activities-list">
                 <li class="activities-item"><a href="2026DragonBoatFatherDay_zh.jsp"><i class="far fa-calendar-check"></i><span>当端午节遇见父亲节文化雅集<span class="activities-tag">社区活动</span></span></a></li>
-                <li class="activities-item"><a href="2026FatherActivities_zh.jsp"><i class="far fa-calendar-check"></i><span>çˆ¶äº²èŠ‚æ´»åŠ¨<span class="activities-tag">ç¤¾åŒºæ´»åŠ¨</span></span></a></li>
-                <li class="activities-item"><a href="2026yxxSummer_zh.jsp"><i class="far fa-calendar-check"></i><span>â€œè¡Œèµ°ä¸­å›½ èµ“ç»­æ–‡è„‰â€å›½é™…ç ”å­¦è¥ä¹‹äº¬è±«çº¿<span class="activities-tag">ç ”å­¦è¥</span></span></a></li>
-                <li class="activities-item"><a href="2026xianQinling_zh.jsp"><i class="far fa-calendar-check"></i><span>è¥¿å®‰ç§¦å²­ç ”å­¦12å¤©<span class="activities-tag">ç ”å­¦è¥</span></span></a></li>
-                <li class="activities-item"><a href="2026artAnnualExhibition_zh.jsp"><i class="far fa-calendar-check"></i><span>2026å¹´åŠ æ‹¿å¤§åŠ åŽè‰ºæœ¯åä¼šå¹´å±•<span class="activities-tag">è‰ºæœ¯å±•è§ˆ</span></span></a></li>
-                <li class="activities-item"><a href="2026Mother_zh.jsp"><i class="far fa-calendar-check"></i><span>ã€Šç”Ÿè€Œä¸ºäººï¼Œå¦ˆå¦ˆçš„æ•…äº‹ã€‹æ¯äº²èŠ‚å¾æ–‡<span class="activities-tag">ç¤¾åŒºæ´»åŠ¨</span></span></a></li>
-                <li class="activities-item"><a href="2026MotherActivities_zh.jsp"><i class="far fa-calendar-check"></i><span>5æœˆ9æ—¥æ¯äº²èŠ‚æ´»åŠ¨ï½œé¢†å–é©¬å¹´çºªå¿µå¸<span class="activities-tag">ç¤¾åŒºæ´»åŠ¨</span></span></a></li>
-                <li class="activities-item"><a href="2026-paintingByYoung_zh.jsp"><i class="far fa-calendar-check"></i><span>2026å¹´ç¬¬ä¸‰å±Šæ¸¥å¤ªåŽé’å°‘å¹´ç”Ÿè‚–ç»˜ç”»æ¯”èµ›ï¼ˆé©¬å¹´ï¼‰<span class="activities-tag">æ¯”èµ›</span></span></a></li>
-                <li class="activities-item"><a href="2026chengdu.jsp"><i class="far fa-calendar-check"></i><span>2026å¹´æ˜¥å‡æˆéƒ½å’Œé‡åº†æ–‡åŒ–ä¹‹æ—…<span class="activities-tag">ç ”å­¦è¥</span></span></a></li>
-                <li class="activities-item"><a href="2025YouthFestival_zh.jsp"><i class="far fa-calendar-check"></i><span>2025-2026 ç¬¬äºŒå±Šæ¸¥å¤ªåŽé’å°‘å¹´ä¸­åŽæ–‡åŒ–è‰ºæœ¯èŠ‚<span class="activities-tag">é’å°‘å¹´æ–‡åŒ–èŠ‚</span></span></a></li>
+                <li class="activities-item"><a href="2026FatherActivities_zh.jsp"><i class="far fa-calendar-check"></i><span>父亲节活动<span class="activities-tag">社区活动</span></span></a></li>
+                <li class="activities-item"><a href="2026yxxSummer_zh.jsp"><i class="far fa-calendar-check"></i><span>“行走中国 赓续文脉”国际研学营之京豫线<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2026xianQinling_zh.jsp"><i class="far fa-calendar-check"></i><span>西安秦岭研学12天<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2026artAnnualExhibition_zh.jsp"><i class="far fa-calendar-check"></i><span>2026年加拿大加华艺术协会年展<span class="activities-tag">艺术展览</span></span></a></li>
+                <li class="activities-item"><a href="2026Mother_zh.jsp"><i class="far fa-calendar-check"></i><span>《生而为人，妈妈的故事》母亲节征文<span class="activities-tag">社区活动</span></span></a></li>
+                <li class="activities-item"><a href="2026MotherActivities_zh.jsp"><i class="far fa-calendar-check"></i><span>5月9日母亲节活动｜领取马年纪念币<span class="activities-tag">社区活动</span></span></a></li>
+                <li class="activities-item"><a href="2026-paintingByYoung_zh.jsp"><i class="far fa-calendar-check"></i><span>2026年第三届渥太华青少年生肖绘画比赛（马年）<span class="activities-tag">比赛</span></span></a></li>
+                <li class="activities-item"><a href="2026chengdu.jsp"><i class="far fa-calendar-check"></i><span>2026年春假成都和重庆文化之旅<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2025YouthFestival_zh.jsp"><i class="far fa-calendar-check"></i><span>2025-2026 第二届渥太华青少年中华文化艺术节<span class="activities-tag">青少年文化节</span></span></a></li>
             </ul>
 
-            <h2 class="activities-section-title">2025å¹´æ´»åŠ¨</h2>
+            <h2 class="activities-section-title">2025年活动</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2025youthAct.jsp"><i class="far fa-calendar-check"></i><span>æ¸¥å¤ªåŽç¬¬äºŒå±Šé’å°‘å¹´ä¸­åŽæ–‡åŒ–è‰ºæœ¯èŠ‚é¦–åœºæ´»åŠ¨<span class="activities-tag">é’å°‘å¹´æ–‡åŒ–èŠ‚</span></span></a></li>
-                <li class="activities-item"><a href="2025christmas.jsp"><i class="far fa-calendar-check"></i><span>2025åœ£è¯žå¹¿å·ž-åŽ¦é—¨æ¸¸å­¦<span class="activities-tag">ç ”å­¦è¥</span></span></a></li>
-                <li class="activities-item"><a href="2025artistShow.jsp"><i class="far fa-calendar-check"></i><span>2025å¹´åŠ æ‹¿å¤§åŠ åŽè‰ºæœ¯åä¼šå¹´å±•ï¼šå¢¨å½±åŽéŸµ<span class="activities-tag">è‰ºæœ¯å±•è§ˆ</span></span></a></li>
-                <li class="activities-item"><a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check"></i><span>2025åŒ—äº¬å¤ä»¤è¥<span class="activities-tag">å¤ä»¤è¥</span></span></a></li>
-                <li class="activities-item"><a href="2025chengduAction.jsp"><i class="far fa-calendar-check"></i><span>2025å¹´æˆéƒ½æ¸¸å­¦åæ—¥<span class="activities-tag">ç ”å­¦è¥</span></span></a></li>
-                <li class="activities-item"><a href="2025SpringFestival.jsp"><i class="far fa-calendar-check"></i><span>å²æœˆå¦‚æ­Œæ–‡è‰ºæ²™é¾™æ˜¥èŠ‚èŒ¶è¯ä¼š<span class="activities-tag">æ²™é¾™</span></span></a></li>
-                <li class="activities-item"><a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check"></i><span>2025è›‡å¹´ç¬¬äºŒå±Šæ¸¥å¤ªåŽé’å°‘å¹´ç”Ÿè‚–ç»˜ç”»æ¯”èµ›<span class="activities-tag">æ¯”èµ›</span></span></a></li>
-                <li class="activities-item"><a href="2025snakePainting.jsp"><i class="far fa-calendar-check"></i><span>2025è›‡å¹´åŠ åŽè‰ºæœ¯åä¼šè¿Žæ˜¥ä¹¦ç”»å±•<span class="activities-tag">è‰ºæœ¯å±•è§ˆ</span></span></a></li>
-                <li class="activities-item"><a href="2025chengdu.jsp"><i class="far fa-calendar-check"></i><span>2025å¹´æ˜¥å‡èµ´æˆéƒ½äº¤æµå­¦ç”Ÿå›¢<span class="activities-tag">ç ”å­¦è¥</span></span></a></li>
+                <li class="activities-item"><a href="2025youthAct.jsp"><i class="far fa-calendar-check"></i><span>渥太华第二届青少年中华文化艺术节首场活动<span class="activities-tag">青少年文化节</span></span></a></li>
+                <li class="activities-item"><a href="2025christmas.jsp"><i class="far fa-calendar-check"></i><span>2025圣诞广州-厦门游学<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2025artistShow.jsp"><i class="far fa-calendar-check"></i><span>2025年加拿大加华艺术协会年展：墨影华韵<span class="activities-tag">艺术展览</span></span></a></li>
+                <li class="activities-item"><a href="2025summerCampBeijing.jsp"><i class="far fa-calendar-check"></i><span>2025北京夏令营<span class="activities-tag">夏令营</span></span></a></li>
+                <li class="activities-item"><a href="2025chengduAction.jsp"><i class="far fa-calendar-check"></i><span>2025年成都游学十日<span class="activities-tag">研学营</span></span></a></li>
+                <li class="activities-item"><a href="2025SpringFestival.jsp"><i class="far fa-calendar-check"></i><span>岁月如歌文艺沙龙春节茶话会<span class="activities-tag">沙龙</span></span></a></li>
+                <li class="activities-item"><a href="2025paintingByYoung.jsp"><i class="far fa-calendar-check"></i><span>2025蛇年第二届渥太华青少年生肖绘画比赛<span class="activities-tag">比赛</span></span></a></li>
+                <li class="activities-item"><a href="2025snakePainting.jsp"><i class="far fa-calendar-check"></i><span>2025蛇年加华艺术协会迎春书画展<span class="activities-tag">艺术展览</span></span></a></li>
+                <li class="activities-item"><a href="2025chengdu.jsp"><i class="far fa-calendar-check"></i><span>2025年春假赴成都交流学生团<span class="activities-tag">研学营</span></span></a></li>
             </ul>
 
-            <h2 class="activities-section-title">ä¸­æ–‡æ•™è‚²</h2>
+            <h2 class="activities-section-title">中文教育</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2025chineseClass.jsp"><i class="far fa-calendar-check"></i><span>è·¨æ–‡åŒ–ç‰¹è‰²ä¸­æ–‡è¯¾</span></a></li>
+                <li class="activities-item"><a href="2025chineseClass.jsp"><i class="far fa-calendar-check"></i><span>跨文化特色中文课</span></a></li>
             </ul>
 
-            <h2 class="activities-section-title">æ¯”èµ›</h2>
+            <h2 class="activities-section-title">比赛</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code"></i><span>æ°´å¢¨è¯—è¯å¥–</span></a></li>
+                <li class="activities-item"><a href="competition-inkPoetry.jsp"><i class="fas fa-laptop-code"></i><span>水墨诗词奖</span></a></li>
             </ul>
 
-            <h2 class="activities-section-title">æ²™é¾™è®²å›</h2>
+            <h2 class="activities-section-title">沙龙讲坛</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="speech-ai.jsp"><i class="fas fa-laptop-code"></i><span>AIå¤§æ¨¡åž‹çš„è¿›å±•å’Œå±•æœ›</span></a></li>
+                <li class="activities-item"><a href="speech-ai.jsp"><i class="fas fa-laptop-code"></i><span>AI大模型的进展和展望</span></a></li>
             </ul>
 
-            <h2 class="activities-section-title">2024å¹´æ´»åŠ¨</h2>
+            <h2 class="activities-section-title">2024年活动</h2>
             <ul class="activities-list">
-                <li class="activities-item"><a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check"></i><span>æ¸¥å¤ªåŽä¸­æ–‡å­¦æ ¡æ…ˆå–„åŸºé‡‘ä¼šäº”åå¹´åº†å…¸</span></a></li>
+                <li class="activities-item"><a href="2024-50yearsCelebration.jsp"><i class="far fa-calendar-check"></i><span>渥太华中文学校慈善基金会五十年庆典</span></a></li>
             </ul>
         </div>
     </section>

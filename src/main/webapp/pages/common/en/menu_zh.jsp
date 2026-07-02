@@ -21,11 +21,11 @@
             <ul class="nav navbar-nav">
                 <li><a data-pages="index" href="index_zh.jsp">ä¸»é¡µ</a></li>
                 
-                <li><a data-pages="activities" href="activities_zh.jsp">æ´»åŠ¨</a>
+                <li><a data-pages="activities" href="activities_zh.jsp">活动</a>
                     <div class="sub-menu-big">
 						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
-								<h3 class="sub-menu-list-title">2026å¹´æ´»åŠ¨</h3>
+								<h3 class="sub-menu-list-title">2026年活动</h3>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026DragonBoatFatherDay_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>当端午节遇见父亲节文化雅集</a>
 								</li>
@@ -533,7 +533,7 @@
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club" class="login">ç™»å½•</a></li>
+                <li><a href="https://www.cubedrive.com/lite/login?siteSettingId=the4club" class="login">登录</a></li>
             </ul>
         </nav>
     </div>
