@@ -27,6 +27,9 @@
 						    <ul class="sub-menu-list">
 								<h3 class="sub-menu-list-title">2026年活动</h3>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2026AIEngineerCamp_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>中加青少年AI未来工程师研学活动·7天沉浸式挑战</a>
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026DragonBoatFatherDay_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>当端午节遇见父亲节文化雅集</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">

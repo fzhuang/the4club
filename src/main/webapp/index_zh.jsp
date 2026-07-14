@@ -47,6 +47,37 @@
             
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
+	                <h1><b>中加青少年AI未来工程师研学活动·7天沉浸式挑战</b></h1>
+	                <h2>AI Innovation Camp：从感知科技到项目创造</h2>
+	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
+						<div class="text-muted" style="font-size: 18px;">
+						<br/>
+						时间: <b>2026年7月20日—7月26日</b><br/>
+						参与对象: <b>11岁以上青少年，小规模30人</b><br/>
+						地点: <b>上海集中研学，择优衔接国际通道</b><br/>
+						费用: <b>$1485 / student</b><br/>
+						报名咨询: <b>syrg4cclub@gmail.com</b><br/><br/>
+						走进上海科技馆与航天航空基地，在真实工程场景中理解人工智能、航空航天与低空科技应用。<br/>
+						</div>
+	                </div>
+	                <div class="text-muted" style="font-size: 18px;">
+					    <a class="btn btn-orange btn-lg" href="2026AIEngineerCamp_zh.jsp">更多信息</a> 
+					</div>
+					<br/>    
+					<div class="text-muted" style="font-size: 20px;">
+                        课程包含C919工程师分享、低空经济教授讲座、AI工程任务挑战、无人机训练、项目路演与成果展示，帮助学生从理解科技走向表达与创造。
+                    </div>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">	
+	                <a href="2026AIEngineerCamp_zh.jsp">
+	                    <img style="max-width: 90%" src="2026AIEngineerCamp/ai-camp-01.png" alt="中加青少年AI未来工程师研学活动" />
+	                </a> 
+	            </div>
+	        </div>
+	        <hr/>
+
+            <div class="row" style="margin: 20px 0 10px 0;">              
+	            <div class="col-md-6 col-sm-6 col-xs-12">	                
 	                <h1><b>西安秦岭研学12天</b></h1>
 	                <h2>北京-西安-宝鸡秦岭生态文化研学之旅</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
