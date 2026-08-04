@@ -123,6 +123,14 @@
                      <div class="sub-menu-small">
 						<div class="sub-menu-small-container">
 						    <ul class="sub-menu-list">
+						        <h3 class="sub-menu-list-title">闻道人物</h3>
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+									<a href="spotlight-anna_zh.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>灵兮（刘燕琦）：在这个混乱的世界里，简单生活着</a>
+								</li>					
+						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
+									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
+								</li>					
+
 						        <h3 class="sub-menu-list-title" style="margin-bottom: 4px; padding-bottom: 6px;">97.9调频 渥太华中文电台</h3>
 						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 4px;">
 									<a href="spotlight-lufeng-interview-part1.jsp"><i class="fas fa-microphone-alt" style="margin-right: 8px; color: #ff0000;"></i>专访路风老师——艺海流光（上）</a>
@@ -482,10 +490,6 @@
 
 
 						        </li>
-						        <h3 class="sub-menu-list-title">闻道人物</h3>
-						        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu" style="margin-top: 6px;">
-									<a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award" style="margin-right: 8px; color: #ff0000;"></i>曲永仲先生被授予“国际文化榜样”荣誉称号</a>
-								</li>					
 				            </ul>
 				        </div>
 				     </div>

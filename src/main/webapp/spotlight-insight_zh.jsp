@@ -169,6 +169,7 @@
 
             <h2 class="insights-section-title">闻道人物</h2>
             <ul class="insights-list">
+                <li class="insights-item"><a href="spotlight-anna_zh.jsp"><i class="fas fa-award"></i><span>灵兮（刘燕琦）：在这个混乱的世界里，简单生活着</span></a></li>
                 <li class="insights-item"><a href="spotlight-qu-cultural-model.jsp"><i class="fas fa-award"></i><span>曲永仲先生被授予“国际文化榜样”荣誉称号</span></a></li>
             </ul>
         </div>
