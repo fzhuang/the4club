@@ -146,7 +146,7 @@ The 4cClub warmly welcomes talented and passionate individuals to join us in con
 		             <div class="col-md-6 col-sm-6 col-xs-12">  
 	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>
 		                <h3>灵兮</h3>
-		                理事会成员<br/><br/>
+		                Grants &amp; Project Development Manager<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
 	                    <img src="resource/images/members/wu.jpg" style="border-radius:5%; height:20rem;"></img>

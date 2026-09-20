@@ -145,7 +145,7 @@ Canadian-Chinese Cross Culture Club Membership Bylaws:
 		             <div class="col-md-6 col-sm-6 col-xs-12">  
 	                    <img src="resource/images/members/liu.png" style="border-radius:5%; height:20rem;"></img>
 		                <h3>Lingxi</h3>
-		                Board of Directors<br/><br/>
+		                Grants &amp; Project Development Manager<br/><br/>
 		             </div>
 		             <div class="col-md-6 col-sm-6 col-xs-12"> 
 	                    <img src="resource/images/members/wu.jpg" style="border-radius:5%; height:20rem;"></img>
