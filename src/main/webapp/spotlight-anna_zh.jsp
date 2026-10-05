@@ -191,6 +191,10 @@
                     <li><a href="https://mp.weixin.qq.com/s/FqAyHkpOZrqd6CfH-Us0Ng" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（5）：千万别让AI当店长</span></a></li>
                     <li><a href="https://mp.weixin.qq.com/s/cTxTSdW1Rj_6WJEnbisqnA" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（6）：花开未必有期</span></a></li>
                     <li><a href="https://mp.weixin.qq.com/s/QEgWU9X_LfD9LtZ15bHU6Q" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（7）：在脑袋里跑步，才是最累的</span></a></li>
+                    <li><a href="https://mp.weixin.qq.com/s/7zv4FSguHmW8-Klkm1C7Tw" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（8）：那一夜，烟花并不是最美的</span></a></li>
+                    <li><a href="https://mp.weixin.qq.com/s/-iXZUa9h6woN-3D8rZKP0Q" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（9）：拿着大女主的剧本，却长了个恋爱脑</span></a></li>
+                    <li><a href="https://mp.weixin.qq.com/s/h1LfmrBgCZTRT3hVOHI5Cg" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（10）：我们都住在自己的小星球上</span></a></li>
+                    <li><a href="https://mp.weixin.qq.com/s/ysErGunKcKn-GIU_M0uuSQ" target="_blank" rel="noopener"><i class="far fa-file-alt"></i><span>在这个混乱的世界里，简单生活着（13）：没关系，会好起来的</span></a></li>
                 </ul>
             </article>
         </div>

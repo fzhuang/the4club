@@ -47,90 +47,29 @@
             
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>中加青少年AI未来工程师研学活动·7天沉浸式挑战</b></h1>
-	                <h2>AI Innovation Camp：从感知科技到项目创造</h2>
+	                <h1><b>曲永仲老师重阳书法作品展</b></h1>
+	                <h2>重阳雅集 · 翰墨传情 · 公益拍卖</h2>
 	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
 						<div class="text-muted" style="font-size: 18px;">
 						<br/>
-						时间: <b>2026年7月20日—7月26日</b><br/>
-						参与对象: <b>11岁以上青少年，小规模30人</b><br/>
-						地点: <b>上海集中研学，择优衔接国际通道</b><br/>
-						费用: <b>$1485 / student</b><br/>
-						报名咨询: <b>syrg4cclub@gmail.com</b><br/><br/>
-						走进上海科技馆与航天航空基地，在真实工程场景中理解人工智能、航空航天与低空科技应用。<br/>
+						时间: <b>2026年10月18日（星期日）下午3:00</b><br/>
+						地点: <b>76 Larkin Dr.</b><br/>
+						活动内容: <b>书法作品展、荣誉分享、现场挥毫、诗歌朗诵、琴筝雅乐、公益拍卖</b><br/><br/>
+						书法作品公益拍卖所得将捐赠渥太华中文学校（慈善组织）。<br/>
 						</div>
 	                </div>
 	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026AIEngineerCamp_zh.jsp">更多信息</a> 
+					    <a class="btn btn-orange btn-lg" href="2026QuAuction_zh.jsp">更多信息</a> 
 					</div>
 					<br/>    
 					<div class="text-muted" style="font-size: 20px;">
-                        课程包含C919工程师分享、低空经济教授讲座、AI工程任务挑战、无人机训练、项目路演与成果展示，帮助学生从理解科技走向表达与创造。
+                        暨祝贺曲永仲老师获得联合国艺术成就荣誉称号。共同主办：加拿大加华艺术协会、加中文化教育交流中心、渥太华中文学校、加拿大亚洲文化艺术协会、卡纳塔华裔老人支助中心、渥太华华人社区服务中心。
                     </div>
 	            </div>
 	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <a href="2026AIEngineerCamp_zh.jsp">
-	                    <img style="max-width: 90%" src="2026AIEngineerCamp/ai-camp-01.png" alt="中加青少年AI未来工程师研学活动" />
+	                <a href="2026QuAuction_zh.jsp">
+	                    <img style="max-width: 90%" src="2026quAuction/qu-auction-home.png" alt="曲永仲老师重阳书法作品展" />
 	                </a> 
-	            </div>
-	        </div>
-	        <hr/>
-
-            <div class="row" style="margin: 20px 0 10px 0;">              
-	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>西安秦岭研学12天</b></h1>
-	                <h2>北京-西安-宝鸡秦岭生态文化研学之旅</h2>
-	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
-						<div class="text-muted" style="font-size: 18px;">
-						<br/>
-						参与对象: <b>全球青少年，12岁-25岁（家长可以陪同）</b><br/>
-						路线: <b>北京—西安—宝鸡—秦岭</b><br/>
-						费用: <b>带团价 $1680 加元；自行到北京报到和返回价格 $1330 加元（包括国内接送机），不含机票和保险</b><br/>
-						报名费: <b>$500，10人成团，不能成团费用全部退还</b><br/>
-						E-transfer: <b>syrg4cclub@gmail.com</b><br/><br/>
-						走进周秦汉唐文明，探秘秦岭生态与国宝珍稀物种，在非遗手作、博物馆课程与校际交流中完成一次有深度的文化学习。<br/>
-						</div>
-	                </div>
-	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026xianQinling_zh.jsp">更多信息</a> 
-					</div>
-					<br/>    
-					<div class="text-muted" style="font-size: 20px;">
-                        西安与宝鸡双核心，历史文明、秦岭生态、非遗体验、校际交流和成果展示并行。<br/>
-                        线路覆盖兵马俑、西安碑林、乾陵、汉阳陵、宝鸡青铜器博物院、周原景区、秦岭四宝馆、秦岭国家植物园及太白山国家森林公园。
-                    </div>
-	            </div>
-	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <a href="2026xianQinling_zh.jsp">
-	                    <img style="max-width: 90%" src="2026xianQinling/xian-cover-title.jpg" alt="西安秦岭研学12天" />
-	                </a> 
-	            </div>
-	        </div>
-	        <hr/>
-
-	        
-	        <div class="row" style="margin: 20px 0 10px 0;">              
-	            <div class="col-md-6 col-sm-6 col-xs-12">	                
-	                <h1><b>“行走中国 赓续文脉”国际研学营之京豫线（9天）</b></h1>
-	                <h2>让世界青少年触摸华夏文明的根与魂；9天文明探脉之旅，深度体验京豫文化。</h2>
-	                <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
-						<div class="text-muted" style="font-size: 18px;">
-						<br/>
-						时间: <b>2026年8月9日—17日（9天）</b><br/>
-						路线: <b>北京—安阳—林州—开封—登封—洛阳—郑州</b><br/>
-						费用: <b>带队价格 $1600；自行到北京报到和返回价格 $1280 加元（包括国内接送机）</b><br/>
-						</div>
-	                </div>
-	                <div class="text-muted" style="font-size: 18px;">
-					    <a class="btn btn-orange btn-lg" href="2026yxxSummer_zh.jsp">更多信息</a> 
-					</div>
-					<br/>    
-					<div class="text-muted" style="font-size: 20px;">
-与我们一同出发，踏访京豫文明地标，开启一段跨越千年的文化旅程。
-                    </div>
-	            </div>
-	            <div class="col-md-6 col-sm-6 col-xs-12">	
-	                <img style="max-width: 90%" src="2026yxx/about.png" /> 
 	            </div>
 	        </div>
 	        

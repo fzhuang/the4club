@@ -286,57 +286,28 @@
 
             <div class="row" style="margin: 20px 0 10px 0;">
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <h1><b>Xi'an Qinling Study Tour - 12 Days</b></h1>
-                    <h2>Beijing-Xi'an-Baoji Qinling Ecological and Cultural Study Tour</h2>
+                    <h1><b>Calligraphy Exhibition by Master Qu Yongzhong</b></h1>
+                    <h2>Chongyang Gathering &middot; Continuing the Legacy</h2>
                     <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
                         <div class="text-muted" style="font-size: 18px;">
                             <br/>
-                            Participants: <b>Global youth ages 12-25; parents may accompany</b><br/>
-                            Route: <b>Beijing - Xi'an - Baoji - Qinling</b><br/>
-                            Fee: <b>Chaperoned price CAD $1680; self-arrival in Beijing and self-return option CAD $1330, including domestic airport transfers, excluding airfare and insurance</b><br/>
-                            Deposit: <b>$500; minimum 10 participants. Fully refundable if the tour does not form.</b><br/>
-                            E-transfer: <b>syrg4cclub@gmail.com</b><br/><br/>
-                            Walk into the civilization of Zhou, Qin, Han, and Tang; explore Qinling ecology and rare national treasures; and complete a meaningful cultural learning journey through heritage workshops, museum courses, and school exchange.
+                            Date: <b>Sunday, October 18, 2026 &middot; 3:00 PM</b><br/>
+                            Location: <b>76 Larkin Dr.</b><br/>
+                            Program: <b>Calligraphy exhibition, celebration and sharing, live calligraphy, poetry recital, traditional music, and charity auction</b><br/>
                         </div>
                     </div>
                     <div class="text-muted" style="font-size: 18px;">
-                        <a class="btn btn-orange btn-lg" href="2026xianQinling.jsp">More Information</a>
+                        <a class="btn btn-orange btn-lg" href="2026QuAuction.jsp">More Information</a>
                     </div>
                     <br/>
                     <div class="text-muted" style="font-size: 20px;">
-                        With Xi'an and Baoji as twin centers, this program combines history, ecology, intangible cultural heritage, school exchange, and final presentation. The route includes the Terracotta Warriors, Xi'an Beilin Museum, Qianling Mausoleum, Hanyangling Museum, Baoji Bronze Ware Museum, Zhouyuan Scenic Area, Qinling Four Treasures Museum, Qinling National Botanical Garden, and Taibai Mountain National Forest Park.
+                        Proceeds from the charity auction of calligraphy works will be donated to Ottawa Chinese Language School, a registered charity.
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <a href="2026xianQinling.jsp">
-                        <img style="max-width: 90%" src="2026xianQinling/xian-cover-title.jpg" alt="Xi'an Qinling Study Tour - 12 Days" />
+                    <a href="2026QuAuction.jsp">
+                        <img style="max-width: 90%" src="2026quAuction/qu-auction-home-en.png" alt="Calligraphy Exhibition by Master Qu Yongzhong" />
                     </a>
-                </div>
-            </div>
-            <hr/>
-
-            <div class="row" style="margin: 20px 0 10px 0;">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <h1><b>"Walking China, Continuing the Cultural Lineage" International Study Camp - Beijing-Henan Route (9 Days)</b></h1>
-                    <h2>Let young people from around the world touch the roots and spirit of Chinese civilization through a 9-day Beijing-Henan cultural study journey.</h2>
-                    <div class="text-muted" style="font-size: 20px; margin-top: 20px;">
-                        <div class="text-muted" style="font-size: 18px;">
-                            <br/>
-                            Dates: <b>August 9-17, 2026 (9 days)</b><br/>
-                            Route: <b>Beijing - Anyang - Linzhou - Kaifeng - Dengfeng - Luoyang - Zhengzhou</b><br/>
-                            Fee: <b>Chaperoned price CAD $1600; self-arrival in Beijing and self-return option CAD $1280, including domestic airport transfers</b><br/>
-                        </div>
-                    </div>
-                    <div class="text-muted" style="font-size: 18px;">
-                        <a class="btn btn-orange btn-lg" href="2026yxxSummer.jsp">More Information</a>
-                    </div>
-                    <br/>
-                    <div class="text-muted" style="font-size: 20px;">
-                        Join us to visit major cultural landmarks in Beijing and Henan and begin a journey through thousands of years of civilization.
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img style="max-width: 90%" src="2026yxx/about.png" alt="Beijing-Henan International Study Camp" />
                 </div>
             </div>
         </div>
