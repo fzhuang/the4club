@@ -284,6 +284,31 @@
                 <div class="section-line"></div>
             </div>
 
+            <div class="row" style="margin: 20px 0 34px 0; padding-bottom: 34px; border-bottom: 1px solid #e5e5e5;">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <h1><b>2027 Ottawa Chinese Cultural &amp; Arts Festival</b></h1>
+                    <h2>Spirit of the Zodiac: Year of the Goat/Sheep</h2>
+                    <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
+                        Festival: <b>November 1, 2026 - February 28, 2027</b><br/>
+                        Main Festival: <b>Saturday, January 23, 2027</b><br/>
+                        Location: <b>Notre Dame High School, Ottawa</b><br/>
+                        Program: <b>Artist-led workshops, community art showcases, exhibitions, performances, and cultural activities</b><br/>
+                    </div>
+                    <div class="text-muted" style="font-size: 18px; margin-top: 22px;">
+                        <a class="btn btn-orange btn-lg" href="2027ChineseArtFest.jsp">More Information</a>
+                    </div>
+                    <br/>
+                    <div class="text-muted" style="font-size: 20px;">
+                        Creativity, Harmony, and Community through Chinese art, cultural learning, and cross-cultural exchange.
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <a href="2027ChineseArtFest.jsp">
+                        <img style="max-width: 90%" src="2027ChineseArtFest/festival-poster-en.png" alt="2027 Ottawa Chinese Cultural and Arts Festival" />
+                    </a>
+                </div>
+            </div>
+
             <div class="row" style="margin: 20px 0 10px 0;">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <h1><b>Calligraphy Exhibition by Master Qu Yongzhong</b></h1>

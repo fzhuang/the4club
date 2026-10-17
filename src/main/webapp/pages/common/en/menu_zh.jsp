@@ -25,6 +25,10 @@
                     <div class="sub-menu-big">
 						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
+								<h3 class="sub-menu-list-title">2027年活动</h3>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2027ChineseArtFest_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2027渥太华中华文化艺术节</a>
+								</li>
 								<h3 class="sub-menu-list-title">2026年活动</h3>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026QuAuction_zh.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>曲永仲老师展览及拍卖会</a>

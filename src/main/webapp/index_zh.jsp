@@ -42,9 +42,32 @@
             <div class="section-title">
 			      近期主要活动
 			  <span class="icon-red"></span>
-			  <div class="section-line"></div>
+			<div class="section-line"></div>
 			</div>
-            
+
+            <div class="row" style="margin: 20px 0 50px 0;">
+	            <div class="col-md-6 col-sm-6 col-xs-12">
+	                <h1><b>2027渥太华中华文化艺术节</b></h1>
+	                <h2>生肖艺术之旅——羊年</h2>
+	                <div class="text-muted" style="font-size: 18px; line-height: 1.8; margin-top: 20px;">
+						活动周期：<b>2026年11月1日—2027年2月28日</b><br/>
+						主艺术节：<b>2027年1月23日（星期六）</b><br/>
+						拟定场地：<b>Notre Dame High School, Ottawa</b><br/>
+						活动理念：<b>创意 · 和谐 · 社区共融</b><br/><br/>
+						八场艺术家主导的创意工作坊、两场社区艺术展示及一场大型公众文化艺术节，以生肖为灵感，以艺术连接社区。
+	                </div>
+	                <div class="text-muted" style="font-size: 18px; margin-top: 22px;">
+					    <a class="btn btn-orange btn-lg" href="2027ChineseArtFest_zh.jsp">更多信息</a>
+					</div>
+					<br/>
+	            </div>
+	            <div class="col-md-6 col-sm-6 col-xs-12">
+	                <a href="2027ChineseArtFest_zh.jsp">
+	                    <img style="max-width: 90%" src="2027ChineseArtFest/festival-poster.png" alt="2027渥太华中华文化艺术节" />
+	                </a>
+	            </div>
+	        </div>
+
             <div class="row" style="margin: 20px 0 10px 0;">              
 	            <div class="col-md-6 col-sm-6 col-xs-12">	                
 	                <h1><b>曲永仲老师重阳书法作品展</b></h1>

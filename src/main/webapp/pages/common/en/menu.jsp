@@ -25,6 +25,10 @@
                     <div class="sub-menu-big">
 						<div class="sub-menu-big-container">
 						    <ul class="sub-menu-list">
+								<h3 class="sub-menu-list-title">2027 Activities</h3>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
+									<a href="2027ChineseArtFest.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>2027 Ottawa Chinese Cultural &amp; Arts Festival</a>
+								</li>
 								<h3 class="sub-menu-list-title">2026 Activities</h3>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021 fusion-dropdown-submenu">
 									<a href="2026QuAuction.jsp"><i class="far fa-calendar-check" style="margin: 0 10px 0 3px; color: #ff0000;"></i>Calligraphy Exhibition by Master Qu Yongzhong</a>

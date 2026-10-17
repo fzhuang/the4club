@@ -155,6 +155,11 @@
                 这里汇总加中文化教育交流中心的主要活动，方便大家浏览近期项目与往期记录，包括国际研学、青少年文化项目、艺术展览、绘画比赛、中文教育和社区沙龙等。
             </p>
 
+            <h2 class="activities-section-title">2027年活动</h2>
+            <ul class="activities-list">
+                <li class="activities-item"><a href="2027ChineseArtFest_zh.jsp"><i class="far fa-calendar-check"></i><span>2027渥太华中华文化艺术节<span class="activities-tag">文化艺术节</span></span></a></li>
+            </ul>
+
             <h2 class="activities-section-title">2026年活动</h2>
             <ul class="activities-list">
                 <li class="activities-item"><a href="2026QuAuction_zh.jsp"><i class="far fa-calendar-check"></i><span>曲永仲老师展览及拍卖会<span class="activities-tag">艺术拍卖</span></span></a></li>
