@@ -8,7 +8,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="title" content="2027渥太华中华文化艺术节"/>
-    <meta name="description" content="2027渥太华中华文化艺术节以生肖艺术之旅——羊年为主题，于2026年11月1日至2027年2月28日举行，包括八场艺术工作坊、社区艺术展示及主艺术节。"/>
+    <meta name="description" content="2027渥太华中华文化艺术节以生肖艺术之旅——羊年为主题，于2026年10月1日至2027年2月28日举行，包括八场艺术工作坊、社区艺术展示及主艺术节。"/>
     <meta property="og:title" content="2027渥太华中华文化艺术节"/>
     <meta property="og:description" content="创意、和谐、社区共融。八场艺术工作坊、两场社区艺术展示及2027年1月23日主艺术节。"/>
     <meta property="og:image" content="https://the4cclub.ca/the4club/2027ChineseArtFest/festival-poster.png"/>
@@ -334,7 +334,7 @@
                         由加华文化教育中心（4C CLUB）主办，以生肖为灵感，以艺术连接社区，邀请本地艺术家、青少年、家庭及不同文化背景的公众，共同探索中华传统艺术与当代创意的融合。
                     </p>
                     <ul class="festival-facts">
-                        <li><i class="far fa-calendar-alt"></i><strong>活动周期：</strong>2026年11月1日—2027年2月28日</li>
+                        <li><i class="far fa-calendar-alt"></i><strong>活动周期：</strong>2026年10月1日—2027年2月28日</li>
                         <li><i class="fas fa-star"></i><strong>主艺术节：</strong>2027年1月23日（星期六）</li>
                         <li><i class="fas fa-map-marker-alt"></i><strong>活动地点：</strong>渥太华地区学校、社区中心及文化活动场所</li>
                         <li><i class="far fa-envelope"></i><strong>联系邮箱：</strong><a href="mailto:syrg4cclub@gmail.com">syrg4cclub@gmail.com</a></li>

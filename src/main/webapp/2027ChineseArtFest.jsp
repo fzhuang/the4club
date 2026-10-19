@@ -263,7 +263,7 @@
                     <p class="festival-lead">The festival celebrates the Year of the Goat/Sheep through Chinese art, creative learning, and meaningful community connection.</p>
                     <p>From November 2026 through February 2027, the program brings together artists, educators, young people, families, and community organizations for workshops, exhibitions, performances, and cultural exchange.</p>
                     <ul class="festival-facts">
-                        <li><i class="far fa-calendar-alt"></i><strong>Festival:</strong> November 1, 2026 - February 28, 2027</li>
+                        <li><i class="far fa-calendar-alt"></i><strong>Festival:</strong> October 1, 2026 - February 28, 2027</li>
                         <li><i class="fas fa-star"></i><strong>Main Festival:</strong> Saturday, January 23, 2027</li>
                         <li><i class="fas fa-map-marker-alt"></i><strong>Main Venue:</strong> Notre Dame High School, Ottawa</li>
                         <li><i class="fas fa-users"></i><strong>Organizer:</strong> Canadian-Chinese Cross Culture Club (4C CLUB)</li>
@@ -380,7 +380,7 @@
                 <span class="festival-kicker">Participate</span>
                 <h2>Join the Festival</h2>
                 <p>Artists, volunteers, community partners, families, and learners of all ages are invited to take part in the festival.</p>
-                <p><strong>Festival Information:</strong> November 1, 2026 - February 28, 2027</p>
+                <p><strong>Festival Information:</strong> October 1, 2026 - February 28, 2027</p>
                 <p><strong>Organizer:</strong> Canadian-Chinese Cross Culture Club (4C CLUB) | 加华文化教育中心</p>
                 <p><i class="far fa-envelope"></i> <a href="mailto:syrg4cclub@gmail.com">syrg4cclub@gmail.com</a></p>
             </section>

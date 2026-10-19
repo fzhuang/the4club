@@ -26,7 +26,7 @@ $activities = Get-Content -Raw $activitiesPath
 $index = Get-Content -Raw $indexPath
 
 Assert-Contains $page '2027 Ottawa Chinese Cultural &amp; Arts Festival' 'The English festival title is missing.'
-Assert-Contains $page 'November 1, 2026 - February 28, 2027' 'The festival date range is missing.'
+Assert-Contains $page 'October 1, 2026 - February 28, 2027' 'The festival date range is missing.'
 Assert-Contains $page 'Saturday, January 23, 2027' 'The main festival date is missing.'
 Assert-Contains $page 'Eight Artist-Led Workshops' 'The workshop section is missing.'
 Assert-Contains $page 'November 8, 2026' 'The first workshop date is missing.'
@@ -53,6 +53,7 @@ Assert-Contains $activities '2027 Ottawa Chinese Cultural &amp; Arts Festival' '
 Assert-Contains $index 'href="2027ChineseArtFest.jsp"' 'The English festival link is missing from Recent Activities.'
 Assert-Contains $index '2027 Ottawa Chinese Cultural &amp; Arts Festival' 'The English festival title is missing from Recent Activities.'
 Assert-Contains $index '2027ChineseArtFest/festival-poster-en.png' 'The English festival poster is missing from Recent Activities.'
+Assert-Contains $index 'October 1, 2026 - February 28, 2027' 'The updated English festival date is missing from Recent Activities.'
 $recentIndex = $index.IndexOf('Recent Activities')
 $festivalHomeIndex = $index.IndexOf('href="2027ChineseArtFest.jsp"', $recentIndex)
 $auctionHomeIndex = $index.IndexOf('href="2026QuAuction.jsp"', $recentIndex)

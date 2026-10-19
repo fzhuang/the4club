@@ -289,7 +289,7 @@
                     <h1><b>2027 Ottawa Chinese Cultural &amp; Arts Festival</b></h1>
                     <h2>Spirit of the Zodiac: Year of the Goat/Sheep</h2>
                     <div class="text-muted" style="font-size: 18px; margin-top: 20px;">
-                        Festival: <b>November 1, 2026 - February 28, 2027</b><br/>
+                        Festival: <b>October 1, 2026 - February 28, 2027</b><br/>
                         Main Festival: <b>Saturday, January 23, 2027</b><br/>
                         Location: <b>Notre Dame High School, Ottawa</b><br/>
                         Program: <b>Artist-led workshops, community art showcases, exhibitions, performances, and cultural activities</b><br/>

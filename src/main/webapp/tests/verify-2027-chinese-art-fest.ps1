@@ -17,7 +17,7 @@ $index = Get-Content -LiteralPath $indexPath -Raw -Encoding UTF8
 
 $requiredPageText = @(
     '2027渥太华中华文化艺术节',
-    '2026年11月1日—2027年2月28日',
+    '2026年10月1日—2027年2月28日',
     '2027年1月23日（星期六）',
     '八大艺术工作坊',
     '2026.11.08',
@@ -65,6 +65,10 @@ if (-not $index.Contains('href="2027ChineseArtFest_zh.jsp"')) {
 
 if (-not $index.Contains('src="2027ChineseArtFest/festival-poster.png"')) {
     throw 'Homepage is missing the 2027 Chinese Art Festival poster'
+}
+
+if (-not $index.Contains('2026年10月1日—2027年2月28日')) {
+    throw 'Homepage is missing the updated 2027 festival date'
 }
 
 $festivalIndex = $index.IndexOf('2027渥太华中华文化艺术节')
