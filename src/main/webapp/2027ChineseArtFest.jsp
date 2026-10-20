@@ -261,7 +261,7 @@
                     <span class="festival-kicker">Festival Overview</span>
                     <h1 class="festival-section-title">2027 Ottawa Chinese Cultural &amp; Arts Festival</h1>
                     <p class="festival-lead">The festival celebrates the Year of the Goat/Sheep through Chinese art, creative learning, and meaningful community connection.</p>
-                    <p>From November 2026 through February 2027, the program brings together artists, educators, young people, families, and community organizations for workshops, exhibitions, performances, and cultural exchange.</p>
+                    <p>From October 2026 through February 2027, the program brings together artists, educators, young people, families, and community organizations for workshops, exhibitions, performances, and cultural exchange.</p>
                     <ul class="festival-facts">
                         <li><i class="far fa-calendar-alt"></i><strong>Festival:</strong> October 1, 2026 - February 28, 2027</li>
                         <li><i class="fas fa-star"></i><strong>Main Festival:</strong> Saturday, January 23, 2027</li>
